@@ -1,0 +1,33 @@
+body {
+    font-size: 14px;
+}
+
+table {
+    margin: 0 auto 2em auto;
+}
+
+td {
+    width: 400px;
+}
+
+.warning {
+    color:red !important;
+}
+
+thead {
+    background-color: transparent !important;
+}
+
+th {
+    border-bottom: 1px solid black !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+td {
+    border-bottom: 1px solid lightgray !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
