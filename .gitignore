@@ -1,6 +1,9 @@
 # hugo local builds
 /public/
 
+# hugo build resources
+/resources/
+
 # research pages - wait until have a lab
 /content/research
 /static/research-images
