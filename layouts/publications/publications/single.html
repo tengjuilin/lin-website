@@ -2,23 +2,86 @@
 
 {{- define "content" -}}
     {{- $params := .Scratch.Get "params" -}}
-    <div class="page single special">
-        {{- /* Title */ -}}
-        <h1 class="single-title animated pulse faster">
-            {{- .Title -}}
-        </h1>
 
+    {{- $toc := $params.toc -}}
+    {{- if eq $toc true -}}
+        {{- $toc = .Site.Params.page.toc | default dict -}}
+    {{- else if eq $toc false -}}
+        {{- $toc = dict "enable" false -}}
+    {{- end -}}
+
+    <!-- Main article content -->>
+    <article class="page single">
+        <!-- Article featured image -->
+        {{- /* Featured image */ -}}
+        {{- $image := $params.featuredimage -}}
+        {{- with .Resources.GetMatch "featured-image" -}}
+            {{- $image = .RelPermalink -}}
+        {{- end -}}
+        {{- with $image -}}
+            <div class="featured-image">
+                {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
+            </div>
+        {{- end -}}
+
+        <!-- Article Title -->
+        {{- /* Title */ -}}
+        <h1 class="single-title posts-title">{{ .Title }}</h1>
+
+        <!-- Article Subtitle -->
         {{- /* Subtitle */ -}}
         {{- with $params.subtitle -}}
             <h2 class="single-subtitle">{{ . }}</h2>
         {{- end -}}
 
-        {{- /* Content */ -}}
-        <div class="content" id="content">
-            {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+        <!-- Article date -->
+        {{- /* Meta */ -}}
+        <div class="post-meta">
+            <div class="post-meta-line">
+                {{- with .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
+                    <i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="{{ . }}">{{ . }}</time>&nbsp;
+                {{- end -}}
+            </div>
         </div>
 
-        {{- /* Comment */ -}}
-        {{- partial "comment.html" . -}}
-    </div>
+        <div>
+            <!-- Article citation -->
+            <h2>Citation and Links</h2>
+            {{- .Params.author -}}&nbsp;
+            {{- .Params.title -}}.&nbsp;
+            {{- .Params.journal -}}; doi: {{- .Params.doi -}}
+
+            <!-- Article links -->
+            <p>
+                <a href="https://www.doi.org/{{- .Params.doi -}}" target="_blank" class="publication-optional-info">
+                    <i class="fas fa-link"></i>
+                </a>
+
+                <!-- Optional pdf -->
+                {{- if .Params.show_pdf -}}
+                    |
+                    <a href="/publication-pdf/{{ .Params.identifier }}.pdf" target="_blank" class="publication-optional-info">
+                        <i class="fas fa-file-pdf"></i>
+                    </a>
+                {{- end -}}
+
+                <!-- Optional code  -->
+                {{- if .Params.show_code -}}
+                    |
+                    <a href="https://github.com/tengjuilin/{{ .Params.show_code }}" target="_blank" class="publication-optional-info">
+                        <i class="fab fa-github fa-fw"></i>
+                    </a>
+                {{- end -}}
+            </p>
+        </div>
+
+        <!-- Article abstract -->
+        {{- if .Params.abstract -}}
+            <h2>Abstract</h2>
+            {{- .Params.abstract -}}
+        {{- end -}}
+
+        {{- /* Footer */ -}}
+        {{- partial "single/footer.html" . -}}
+    </article>
 {{- end -}}

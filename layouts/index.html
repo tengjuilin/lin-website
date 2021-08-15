@@ -3,39 +3,51 @@
     {{- $profile := .Site.Params.home.profile -}}
     {{- $posts := .Site.Params.home.posts -}}
 
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/home.css">
+
     <div class="page home"{{ if ne $posts.enable false }} posts{{ end }}>
+
+        <!-- Home profile -->
         {{- /* Profile */ -}}
         {{- if ne $profile.enable false -}}
             {{- partial "home/profile.html" . -}}
         {{- end -}}
 
-        {{- /* Content */ -}}
-        {{- if .Content -}}
-            <div class="single">
-                <div class="content" id="content">
-                    {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
-                </div>
-            </div>
-        {{- end -}}
+        <!-- Content cards -->
+        <div class="home-row">
 
-        {{- /* Posts */ -}}
-        {{- if ne $posts.enable false | and .Site.RegularPages -}}
-            {{- /* Paginate */ -}}
-            {{- $pages := where .Site.RegularPages "Type" "posts" -}}
-            {{- if .Site.Params.page.hiddenFromHomePage -}}
-                {{- $pages = where $pages "Params.hiddenfromhomepage" false -}}
-            {{- else -}}
-                {{- $pages = where $pages "Params.hiddenfromhomepage" "!=" true -}}
-            {{- end -}}
-            {{- with $posts.paginate | default .Site.Params.paginate -}}
-                {{- $pages = $.Paginate $pages . -}}
-            {{- else -}}
-                {{- $pages = .Paginate $pages -}}
-            {{- end -}}
-            {{- range $pages.Pages -}}
-                {{- .Render "summary" -}}
-            {{- end -}}
-            {{- partial "paginator.html" . -}}
-        {{- end -}}
+            <!-- Left column of cards -->
+            <div class="left-column">
+                <!-- Recent 5 publications -->
+                <!-- Enable when have publications -->
+                <h2 class="home-section-title"><a href="publications/publications">Recent publications</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "publications/publications" | first 5 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+
+                <!-- Recent 3 news -->
+                <h2 class="home-section-title"><a href="news/">Recent news</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "news" | first 3 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+
+                <!-- Recent blog posts (first few after 5) -->
+                <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "posts" | after 5 | first 3 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+            </div>
+
+            <!-- Left column of cards -->
+            <div class="right-column">
+                <!-- Recent blog posts (first 5) -->
+                <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "posts" | first 5 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+
+            </div>
+        </div>
     </div>
 {{- end -}}

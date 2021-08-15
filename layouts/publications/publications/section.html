@@ -10,24 +10,74 @@
         </h2>
 
         {{- /* Paginate */ -}}
-        {{- if .Pages -}}
-            {{- $pages := .Pages.GroupByDate "2006" -}}
-            {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
-                {{- $pages = $.Paginate $pages . -}}
-            {{- else -}}
-                {{- $pages = .Paginate $pages -}}
-            {{- end -}}
-            {{- range $pages.PageGroups -}}
-                <h3 class="group-title">{{ .Key }}</h3>
-                {{- range .Pages -}}
-                    <article class="archive-item">
-                        <a href="{{ .RelPermalink }}" class="archive-item-link">
-                            {{- .Title -}}
-                        </a>
-                        <span class="archive-item-date">
-                            {{- $.Site.Params.section.dateFormat | default "01-02" | .Date.Format -}}
-                        </span>
+            {{- if .Pages -}}
+                {{- $pages := .Pages.GroupByDate "2006" -}}
+                {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
+                    {{- $pages = $.Paginate $pages . -}}
+                {{- else -}}
+                    {{- $pages = .Paginate $pages -}}
+                {{- end -}}
+
+                {{ $counter := len .Pages }} <!-- Counter of all publications (reverse chronological order) -->
+                {{- range $pages.PageGroups -}} <!-- for papers group by year -->
+                    <!-- Year title -->
+                    <h2>{{ .Key }}</h2>
+                    {{- range .Pages -}} <!-- for papers in each year -->
+
+                    <article class="article-card">
+                        <!-- Optional feature image -->
+                        {{- if .Params.show_image -}}
+                            <a href="{{ .RelPermalink }}">
+                                <img src="/publication-images/{{- .Params.identifier -}}.jpg" class="publication-images">
+                            </a>
+                        {{- end -}}
+
+                        <div class="article-info">
+                            <h3 class="article-title">
+                                <!-- Paper counter -->
+                                <span>{{ $counter }}</span> |
+                                <!-- Paper title -->
+                                <a href="{{ .RelPermalink }}">
+                                    {{- .Title -}}
+                                </a>
+                            </h3>
+                            <div>
+                                <!-- Paper citation info -->
+                                {{- .Params.author -}} <br/>
+                                {{- .Params.journal -}}; doi: {{- .Params.doi -}}
+                                <br/>
+
+                                <!-- Paper date -->
+                                <span class="publication-optional-info">
+                                    <i class="far fa-calendar-alt fa-fw"></i>
+                                    {{- $.Site.Params.section.dateFormat | default "01-02" | .Date.Format -}}
+                                </span>
+
+                                <!-- Publisher website -->
+                                |
+                                <a href="https://www.doi.org/{{ .Params.doi }}" target="_blank" class="publication-optional-info">
+                                    <i class="fas fa-link"></i>
+                                </a>
+
+                                <!-- Optional pdf -->
+                                {{- if .Params.show_pdf -}}
+                                |
+                                <a href="/papers/{{ .Params.identifier }}.pdf" target="_blank" class="publication-optional-info">
+                                    <i class="fas fa-file-pdf"></i>
+                                </a>
+                                {{- end -}}
+
+                                <!-- Optional code -->
+                                {{- if .Params.show_code -}}
+                                |
+                                <a href="https://github.com/tengjuilin/{{ .Params.show_code }}" target="_blank" class="publication-optional-info">
+                                    <i class="fab fa-github fa-fw"></i>
+                                </a>
+                                {{- end -}}
+                            </div>
+                        </div>
                     </article>
+                    {{ $counter = sub $counter 1 }} <!-- Decrement the counter -->
                 {{- end -}}
             {{- end -}}
             {{- partial "paginator.html" . -}}

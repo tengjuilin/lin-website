@@ -3,30 +3,80 @@
 {{- end -}}
 
 {{- define "content" -}}
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/members.css">
+
     <div class="page archive">
-        {{- /* Title */ -}}
+        <!-- Page title -->
         <h2 class="single-title animated pulse faster">
-            {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" -}}
+            Lab Alumni
         </h2>
 
         {{- /* Paginate */ -}}
         {{- if .Pages -}}
-            {{- $pages := .Pages.GroupByDate "2006" -}}
+            {{- $pages := .Pages.GroupBy "Section" -}}
             {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
                 {{- $pages = $.Paginate $pages . -}}
             {{- else -}}
                 {{- $pages = .Paginate $pages -}}
             {{- end -}}
-            {{- range $pages.PageGroups -}}
-                <h3 class="group-title">{{ .Key }}</h3>
-                {{- range .Pages -}}
-                    <article class="archive-item">
-                        <a href="{{ .RelPermalink }}" class="archive-item-link">
-                            {{- .Title -}}
-                        </a>
-                        <span class="archive-item-date">
-                            {{- $.Site.Params.section.dateFormat | default "01-02" | .Date.Format -}}
-                        </span>
+
+             {{- range $pages.PageGroups -}} <!-- group people -->
+                {{- range (.Pages).Reverse -}} <!-- for people in descending (reversed) weight -->
+                    <article class="article-card">
+                        <!-- Member image -->
+                        <img class="profile-image" src="{{- .Params.image -}}">
+
+                        <div class="article-info">
+                            <!-- Member name -->
+                            <h3 class="article-title">
+                                {{- .Params.name -}}
+                            </h3>
+                            <div>
+                                <p class="person-title">
+                                    <!-- Member degree -->
+                                    {{- .Params.degree -}}
+                                    <!-- Optional social media and contact -->
+                                    {{- if .Params.github -}}
+                                        &nbsp;<a href="https://github.com/{{- .Params.github -}}" target="_blank"><i class="fab fa-github"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.linkedin -}}
+                                        &nbsp;<a href="https://linkedin.com/in/{{- .Params.linkedin -}}" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.twitter -}}
+                                        &nbsp;<a href="https://twitter.com/{{- .Params.twitter -}}" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.instagram -}}
+                                        &nbsp;<a href="https://www.instagram.com/{{- .Params.instagram -}}" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.facebook -}}
+                                        &nbsp;<a href="https://facebook.com/{{- .Params.facebook -}}" target="_blank"><i class="fab fa-facebook"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.email -}}
+                                        &nbsp;<a href="mailto:{{- .Params.email -}}"><i class="far fa-envelope"></i></a>
+                                    {{- end -}}
+                                    {{- if .Params.website -}}
+                                        &nbsp;<a href="{{- .Params.website -}}" target="_blank"><i class="fas fa-link"></i></a>
+                                    {{- end -}}
+                                </p>
+                                <ul>
+                                    <!-- Member major -->
+                                    {{- if .Params.thesis -}}
+                                        <li>Thesis:&nbsp;{{- .Params.thesis -}}</li>
+                                    {{- end -}}
+
+                                    <!-- Member education -->
+                                    {{- if .Params.current -}}
+                                        <li>Current:&nbsp;{{- .Params.current -}}</li>
+                                    {{- end -}}
+                                </ul>
+
+                                <!-- Member recognition -->
+                                {{- if .Params.recognition -}}
+                                    <p><strong>{{- .Params.recognition -}}</strong></p>
+                                {{- end -}}
+                            </div>
+                        </div>
                     </article>
                 {{- end -}}
             {{- end -}}
