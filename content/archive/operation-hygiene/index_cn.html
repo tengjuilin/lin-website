@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>勤礼卫生大作战</title>
+    <style>
+        body{font-family:"SF Display", serif; margin:0; background-color:black; color:rgb(230,230,230); scroll-behavior: smooth;}
+        a{color:rgb(230,230,230); text-decoration:none;}
+        li{list-style:none; float:left; padding:0 10px; font-size:12px;}
+        h1{font-size:64px; margin:0;}
+        p{font-size:25px; margin:0;}
+
+        nav{background-color:black; width:2000px; opacity:0.8; display:block; position:fixed; top:0; left:0; line-height:50px; border-bottom:1px solid rgb(40,40,40);}
+        .nav_left_container{padding:0 0 0 20px;}
+        .nav_projct_title{font-size:20px; font-weight:bold;}
+        .nav_right_container{position:fixed; top:0; right:80px; margin:0; padding:0;}
+
+        .section_subtitle{display:block; margin:25px auto; width:700px; text-align:center; font-size:28px; font-weight:600;}
+        .section_title{display:block; margin:20px auto 15px auto; width:700px; text-align:center; font-size:64px;}
+        .section_text{display:block; margin:25px auto 125px; width:700px; text-align:center; font-size:28px; font-weight:600;}
+
+        .masked_container{width:700px; margin:auto;}
+        .masked_section_title{font-size:48px; display:block; text-align:left;}
+        .masked_section_text{font-size:48px; font-weight:600; display:block; text-align:left; color:rgba(0,0,0,0);}
+
+        footer{color:rgb(70,70,70); display:block; width:700px; font-size:12px; border-top:1px solid rgb(40,40,40); margin:auto; padding:30px;}
+        footer a{color:rgb(70,70,70); text-decoration:underline;}
+
+        .theme_text{font-size:82px; width:700px; display:block; text-align:center; margin:0 auto 150px auto; }
+        .syringe{margin:0; height:1330px; background:url(syringe.png) center no-repeat;}
+        .bacteria{margin:0 0 50px 0; height:500px; background:url(bacteria.jpg) center no-repeat;}
+        .mask{margin:170px 0 50px 0; height:270px; background:url(mask.jpg) center no-repeat;}
+        .shield1{margin:220px 0 50px 0; height:610px; background:url(shield1.png) center no-repeat;}
+        .shield2{margin:150px 0 50px 0; height:610px; background:url(shield2.png) center no-repeat;}
+        .surgery{margin:150px 0 50px 0; height:500px; background:url(surgery.jpg) center no-repeat;}
+        .respirator{margin:150px 0 50px 0; height:500px; background:url(respirator.jpg) center no-repeat;}
+        .carnival{margin:150px 0 50px 0; height:500px; background:url(carnival.jpg) center no-repeat;}
+
+
+        @font-face
+        {
+            font-family: "SF Display";
+            font-weight: bold;
+            src: url('../sc_campaign/SF-UI-Display-Semibold.otf');
+        }
+        @font-face
+        {
+            font-family: "SF Display";
+            font-weight: normal;
+            src: url('sf-pro-display_regular.woff2');
+        }
+
+        /*iPhone SE Portrait*/
+        @media screen and (min-width:300px) and (max-width:450px){
+            nav{line-height:40px;}
+            .nav_projct_title{font-size:20px;}
+            .nav_right_container{display:none;}
+
+            .section_subtitle{margin:25px auto; width:300px; font-size:16px;}
+            .section_title{margin:20px auto 15px auto; width:300px; font-size:40px;}
+            .section_text{margin:25px auto 50px; width:300px; font-size:16px;}
+
+            .masked_container{width:300px;}
+            .masked_section_title{font-size:20px;}
+            .masked_section_text{font-size:20px;}
+
+            footer{width:300px; padding:10px; font-size:10px;}
+
+            .theme_text{font-size:60px; width:300px; margin:0 auto 20px auto;}
+            .bacteria{margin:0 0 20px 0; height:200px;}
+            .mask{margin:20px 0; height:200px;}
+            .shield1{margin:20px 0; height:200px; background-size:100%;}
+            .shield2{margin:20px 0; height:200px; background-size:100%;}
+            .surgery{margin:20px 0; height:200px; background-size:100%;}
+            .respirator{margin:20px 0; height:200px; background-size:100%;}
+            .carnival{margin:20px 0; height:160px; background-size:100%;}
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="">
+        <div class="nav_left_container">
+            <a href="#intro" class="nav_projct_title">勤礼卫生大作战</a>
+        </div>
+        <ul class="nav_right_container">
+            <li><a href="#epidemiology">疾病传播</a></li>
+            <li><a href="#prevention-for-self">保护作用</a></li>
+            <li><a href="#surgical-mask">口罩</a></li>
+            <li><a href="index.html">English</a></li>
+        </ul>
+    </nav>
+
+    <div id="intro">
+        <div class="syringe"></div>
+        <p class="section_subtitle">勤礼卫生大作战</p>
+        <h1 class="section_title">欢迎来到流感季。</h1>
+        <p class="section_text">
+        	流感季节就要来了！要保护好自己哟。<br/>
+        	由于郑州快闪般的季节变化，大家很容易就会得感冒或者流感。为了防止大家患病或被传染，是时候复习一下如何做一个卫生健康的人了。
+        </p>
+    </div>
+
+    <div id="epidemiology">
+        <div class="bacteria"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">流感会传染。</h1>
+            <p class="masked_section_text" style="background:url(texture1.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                疾病通常会由病毒、细菌或真菌等病原体传染。许多这些病原体可以由空气传播。所以以戴口罩的方式来保护自己和他人的健康就显得尤为重要了。
+            </p>
+        </div>
+    </div>
+
+
+    <div id="prevention-for-self">
+        <div class="shield1"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">保护你自己。</h1>
+            <p class="masked_section_text" style="background:url(texture2.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+            	口罩能将你的呼吸系统于外界病原体隔绝。口罩还能过滤一部分灰尘以保护你于慢性呼吸系统疾病。
+            </p>
+        </div>
+    </div>
+
+    <div id="prevention-for-others">
+        <div class="shield2"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">保护他人。</h1>
+            <p class="masked_section_text" style="background:url(texture4.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                如果你得了感冒，口罩能防止你咳嗽或打喷嚏时的飞沫传播，保护大家的健康卫生。
+            </p>
+        </div>
+    </div>
+
+    <div id="surgical-mask">
+        <div class="surgery" style=""></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">无纺布口罩。</h1>
+            <p class="masked_section_text" style="background:url(texture5.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+            	你会看起来像个主刀医生，但他真的很有效。无纺布口罩是防范流感的利器。它不仅能挡住病原体还能够让你呼吸自如。
+            </p>
+        </div>
+    </div>
+
+    <div id="respirator">
+        <div class="respirator"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">防毒面具.</h1>
+            <p class="masked_section_text" style="background:url(texture6.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                你的呼吸系统将完全与外界病原体和工业级灰尘颗粒隔绝，但是你将感到呼吸困难。
+            </p>
+        </div>
+    </div>
+
+    <div id="funny-mask">
+        <div class="carnival"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">面具.</h1>
+            <p class="masked_section_text" style="background:url(texture7.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+	            有节日气氛的面具不仅让你看起来很好玩，其防病菌的作用也“值得一提”。
+	        </p>
+        </div>
+    </div>
+
+    <div class="mask"></div>
+    <div id="mask" class="masked_container">
+        <p class="masked_section_text theme_text" style="background:url(texture4.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+            戴上你的口罩。
+        </p>
+    </div>
+
+    <footer>
+        <span>
+            图片来源:
+            <a href="https://pixabay.com/en/syringe-shot-needle-vaccination-1884787/">注射器</a>;
+            <a href="https://unsplash.com/photos/13UugSL9q7A/">细菌</a>;
+            <a href="https://pixabay.com/en/surgery-surgeon-operation-medical-676375/">外科口罩</a>;
+            <a href="https://pixabay.com/en/nature-wood-outdoors-tree-3216890/">Respirator</a>;
+            <a href="https://pixabay.com/en/carnival-fasnet-swabian-alemannic-2092819/">面具</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_1_medium.jpg">字体颜色 1</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_2_medium.jpg">字体颜色 2</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_3_medium.jpg">字体颜色 3</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_4_medium.jpg">字体颜色 4</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_5_medium.jpg">字体颜色 5</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_6_medium.jpg">字体颜色 6</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_7_medium.jpg">字体颜色 7</a>;
+        </span><br/>
+        <span>The fonts "San Fransisco Pro Display" and "San Fransisco Pro Text" are derived from Apple Inc.</span><br/>
+        <span>Webpage designed originally by Apple Inc, restructured by Owen Lin. All elements of this webpage were designed by Owen Lin on September 24, 2018 unless otherwise stated.</span><br/>
+        <span>Copyright &copy; 2018 Owen Lin, Polarize. All rights reserved.</span>
+    </footer>
+</body>
+
+
+
+</html>

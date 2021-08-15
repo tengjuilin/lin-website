@@ -1,0 +1,359 @@
+body{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; margin:0; color:rgb(17,17,17);scroll-behavior: smooth;}
+h1{font-size:64px; margin:0;}
+a{color:#00838F; text-decoration:none;}
+
+/*Navigation*/
+nav{font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+nav li{list-style:none; float:left; padding:0 10px 0 10px;}
+nav li a{color:rgba(50,50,50,0.6);}
+.nav_logo{padding-right:10px; float:left; height:50px;}
+.nav_right_container{position:absolute; top:0; right:80px; margin:0; padding:0;}
+
+.nav_white_bar{display:block; padding:0 20px 0 20px; height:50px; z-index:999; background-color:white;}
+.nav_blue_title{line-height:50px; font-size:23px; color:#00838F;}
+.nav_blue_icon{line-height:50px; font-size:14px; color:#00838F;}
+
+.nav_blue_bar{display:block; padding:0 20px 0 20px; height:50px; z-index:999; background-color:#00838F;}
+.nav_white_title{line-height:50px; font-size:23px; color:white;}
+.nav_white_icon{line-height:50px; font-size:14px; color:white;}
+
+.guide_nav{width:700px; margin:auto; text-align:left; font-size:16px; color:gray;}
+.video_guide_nav{width:900px; margin:auto; text-align:left; font-size:16px; color:gray;}
+.img_guide_nav{width:900px; margin:auto; text-align:left; font-size:16px; color:gray; font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+/*Article*/
+.article{margin:50px 0}
+.article_title{text-align:center; width:700px; margin:auto; font-size:50px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_information{width:700px; margin:auto; text-align:center; font-size:16px; color:gray;}
+.article_author{display:inline-block;}
+.article_publish_date{display:inline-block; padding-left:20px;}
+.article_type{display:inline-block; padding-left:20px;}
+.article_paragraph{text-align:left; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_subtitle{text-align:left; width:700px; margin:auto; font-size:30px; font-weight:normal; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_subsubtitle{text-align:left; width:700px; margin:auto; font-size:24px; font-weight:normal; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_blockquote{width:700px; font-size:20px; font-style:italic; margin:auto}
+.article_written_date{text-align:right; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px;}
+.article_reference{text-align:left; width:700px; margin:auto; padding:0 0 16px 0; font-size:16px;}
+.article_img{display:block; width:700px; margin:30px auto;}
+.article_subimg_left{display:inline-block; width:340px; float:left;}
+.article_subimg_right{display:inline-block; width:340px; float:right;}
+.article_img_description{text-align:left; width:690px; margin:16px auto; padding:0 0 0 10px; border-left:3px solid gray; color:gray; font-size:16px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_list{display:block; margin:auto; padding:10px 40px; width:620px; font-size:20px;}
+.img_work{display:block; width:900px; margin:30px auto; border:1px solid lightgray;}
+.poem_line{text-align:center; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px;}
+.video_description{display:block; width:900px; margin:0 auto 30px auto; text-align:left; font-size:16px;}
+video{display:block; margin:30px auto; width:900px;}
+iframe{display:block; margin:30px auto; width:900px; height:600px;}
+sup{font-size:12px;}
+sub{font-size:12px;}
+
+/*Footer*/
+footer{color:white; font-size:11px; background-color:#00838F; padding:30px; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+.foot_link{color:white;}
+.footnote{display:block; width:700px; margin:auto;}
+.scroll_top{position:fixed; bottom:15px; right:15px; background-color:#00838F; width:36px; height:36px;}
+
+/*Sub Index Page*/
+.main_image{max-width:100%; height:auto; display:block; margin:auto;}
+.main_description{margin:50px auto 80px auto;}
+.main_description_title{display:block; margin:15px auto; text-align:center; width:700px; font-size:30px;}
+.main_description_content{display:block; margin:15px auto; text-align:center; width:700px; font-size:18px;}
+.feature_caption_box{display:block; margin:auto; padding:10px 0; width:700px; background-color:#EEE; color:#444;}
+.feature_caption{padding:0 10px; width:680px; font-size:20px; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif; font-weight:bold;}
+.feature_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:700px; margin:30px auto;}
+.feature_title{font-size:30px; margin:10px 0; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.feature_info{font-size:16px; margin:10px 0; color:black;}
+.float_clear{clear:both;}
+.white_background_row{display:block; margin:auto; width:700px}
+.white_background_left_column{float:left; width:300px; border-top:3px solid #00838F; color:#00838F; margin:0 0 50px 0;}
+.white_background_right_column{float:right; width:300px; border-top:3px solid #00838F; color:#00838F; margin:0 0 50px 0;}
+.blue_background_row{display:block; margin:auto; width:700px}
+.blue_background_left_column{float:left; width:300px; border-top:3px solid white; color:white; margin:0 0 50px 0;}
+.blue_background_right_column{float:right; width:300px; border-top:3px solid white; color:white; margin:0 0 50px 0;}
+
+.catalog_category_title{background-color:#00838F; color:white;}
+.catalog_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:700px; margin:30px auto; border-top:1px solid lightgray;}
+.catalog_article{display:block; width:700px; border-bottom:1px solid lightgray;}
+.catalog_title{display:block; margin:auto; padding:10px 20px 0 20px; font-size:30px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.catalog_information{width:660px; margin:auto; font-size:16px; color:black; padding:0 20px;}
+.catalog_author{display:inline-block;}
+.catalog_publish_date{display:inline-block; padding-left:20px;}
+
+.contributor_work_info_box{display:block; margin:auto; padding:0; width:700px; background-color:#EEE; color:black;}
+
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro.otf');}
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro_italic.otf'); font-style:italic;}
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro_bold_italic.otf'); font-weight:bold; font-style:italic;}
+@font-face{font-family:"Futura"; src:url('../../font/Futura.otf');}
+@font-face{font-family:"Futura"; src:url('../../font/Futura_bold.otf'); font-weight:bold;}
+
+/*iPhone SE Portrait*/
+@media screen and (min-width:300px) and (max-width:350px){
+    .nav_white_bar{padding:0; height:50px;}
+    .nav_blue_title{font-size:20px;}
+    .nav_blue_bar{padding:0; height:50px;}
+    .nav_white_title{font-size:20px;}
+    .nav_left_container{display:block; width:130px; margin:auto;}
+    .nav_right_container{display:none;}
+
+    .article{margin:15px 0;}
+    .article_title{width:300px; font-size:20px; padding:0;}
+    .article_information{font-size:14px; width:300px; margin:10px auto;}
+    .article_author{display:block; margin:5px 0;}
+    .article_publish_date{display:block; padding:0; margin:5px 0;}
+    .article_type{display:block; padding:0; margin:5px 0;}
+    .article_paragraph{width:300px; font-size:16px;}
+    .article_subtitle{width:300px; font-size:20px; font-weight:bold;}
+    .article_subsubtitle{width:300px; font-size:16px; font-weight:bold;}
+    .article_blockquote{width:300px; font-size:16px;}
+
+    .article_reference{width:300px; padding:0 0 5px 0; font-size:10px;}
+    .article_img{display:block; width:300px; margin:10px auto;}
+    .article_subimg_left{display:block; width:300px; float:none; margin:10px auto!important;}
+    .article_subimg_right{display:block; width:300px; float:none; margin:10px auto!important;}
+    .article_img_description{display:block; width:290px; margin:0 auto; padding:0 0 0 10px; border-left:3px solid gray; color:gray; font-size:16px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+    sup{font-size:10px;}
+    sub{font-size:10px;}
+
+    .guide_nav{width:300px; font-size:14px;}
+    .video_guide_nav{width:300px; font-size:14px;}
+    .img_guide_nav{width:300px; font-size:14px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:260px;}
+    .scroll_top{display:none;}
+
+    .main_description{margin:20px auto;}
+    .main_description_title{margin:10px auto; width:300px; font-size:26px;}
+    .main_description_content{margin:10px auto; width:300px; font-size:16px;}
+
+    .feature_caption_box{width:300px;}
+    .feature_caption{width:280px;}
+    .feature_area{width:300px; margin:5px auto;}
+    .feature_title{font-size:23px; font-weight:bold; margin:5px 0; padding:0 10px;}
+    .feature_info{font-size:14px; margin:5px 0; padding:0 10px;}
+    .white_background_row{width:300px}
+    .white_background_left_column{float:none; width:300px; margin:0 0 20px 0;}
+    .white_background_right_column{float:none; width:300px; margin:0 0 20px 0;}
+    .blue_background_row{width:300px}
+    .blue_background_left_column{float:none; width:300px; margin:0 0 20px 0;}
+    .blue_background_right_column{float:none; width:300px; margin:0 0 20px 0;}
+
+    .catalog_area{width:300px; margin:30px auto;}
+    .catalog_article{width:300px;}
+    .catalog_title{padding:10px 10px 0 10px; font-size:23px; font-weight:bold;}
+    .catalog_information{width:280px; font-size:14px; padding:0 10px;}
+
+
+}
+
+/*iPhone 6 Portrait*/
+@media screen and (min-width:350px) and (max-width:400px){
+    .nav_white_bar{padding:0; height:50px;}
+    .nav_blue_title{font-size:20px;}
+    .nav_blue_bar{padding:0; height:50px;}
+    .nav_white_title{font-size:20px;}
+    .nav_left_container{display:block; width:130px; margin:auto;}
+    .nav_right_container{display:none;}
+
+    .article{margin:15px 0;}
+    .article_title{width:300px; font-size:20px; padding:0;}
+    .article_information{font-size:14px; width:300px; margin:10px auto;}
+    .article_author{display:block; margin:5px auto;}
+    .article_publish_date{display:block; padding:0; margin:5px auto;}
+    .article_type{display:block; padding:0; margin:5px auto;}
+    .article_paragraph{width:300px; font-size:16px;}
+    .article_subtitle{width:300px; font-size:20px; font-weight:bold;}
+    .article_subsubtitle{width:300px; font-size:16px; font-weight:bold;}
+    .article_blockquote{width:300px; font-size:16px;}
+
+    .article_reference{width:300px; padding:0 0 5px 0; font-size:10px;}
+    .article_img{display:block; width:300px; margin:10px auto;}
+    .article_subimg_left{display:block; width:300px; float:none; margin:10px auto!important;}
+    .article_subimg_right{display:block; width:300px; float:none; margin:10px auto!important;}
+    .article_img_description{display:block; width:290px; margin:0 auto; padding:0 0 0 10px; border-left:3px solid gray; color:gray; font-size:16px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+    sup{font-size:10px;}
+    sub{font-size:10px;}
+
+    .guide_nav{width:300px; font-size:14px;}
+    .video_guide_nav{width:300px; font-size:14px;}
+    .img_guide_nav{width:300px; font-size:14px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:300px;}
+    .scroll_top{display:none;}
+
+    .main_description{margin:20px auto;}
+    .main_description_title{margin:10px auto; width:300px; font-size:26px;}
+    .main_description_content{margin:10px auto; width:300px; font-size:16px;}
+
+    .feature_caption_box{width:300px;}
+    .feature_caption{width:280px;}
+    .feature_area{width:300px; margin:5px auto;}
+    .feature_title{font-size:23px; font-weight:bold; margin:5px 0; padding:0 10px;}
+    .feature_info{font-size:14px; margin:5px 0; padding:0 10px;}
+    .white_background_row{width:300px}
+    .white_background_left_column{float:none; width:300px; margin:0 0 20px 0;}
+    .white_background_right_column{float:none; width:300px; margin:0 0 20px 0;}
+    .blue_background_row{width:300px}
+    .blue_background_left_column{float:none; width:300px; margin:0 0 20px 0;}
+    .blue_background_right_column{float:none; width:300px; margin:0 0 20px 0;}
+
+    .catalog_area{width:300px; margin:30px auto;}
+    .catalog_article{width:300px;}
+    .catalog_title{padding:10px 10px 0 10px; font-size:23px; font-weight:bold;}
+    .catalog_information{width:280px; font-size:14px; padding:0 10px;}
+}
+
+
+/*iPhone 6 Plus Portrait*/
+@media screen and (min-width:400px) and (max-width:450px){
+    .nav_white_bar{padding:0; height:50px;}
+    .nav_blue_title{font-size:20px;}
+    .nav_blue_bar{padding:0; height:50px;}
+    .nav_white_title{font-size:20px;}
+    .nav_left_container{display:block; width:130px; margin:auto;}
+    .nav_right_container{display:none;}
+
+    .article{margin:15px 0;}
+    .article_title{width:350px; font-size:20px; padding:0;}
+    .article_information{font-size:14px; width:350px; margin:10px auto;}
+    .article_author{display:block; margin:5px auto;}
+    .article_publish_date{display:block; padding:0; margin:5px auto;}
+    .article_type{display:block; padding:0; margin:5px auto;}
+    .article_paragraph{width:350px; font-size:16px;}
+    .article_subtitle{width:350px; font-size:20px; font-weight:bold;}
+    .article_subsubtitle{width:350px; font-size:16px; font-weight:bold;}
+    .article_blockquote{width:350px; font-size:16px;}
+
+    .article_reference{width:350px; padding:0 0 5px 0; font-size:10px;}
+    .article_img{display:block; width:350px; margin:10px auto;}
+    .article_subimg_left{display:block; width:350px; float:none; margin:10px auto!important;}
+    .article_subimg_right{display:block; width:350px; float:none; margin:10px auto!important;}
+    .article_img_description{display:block; width:340px; margin:0 auto; padding:0 0 0 10px; border-left:3px solid gray; color:gray; font-size:16px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+    sup{font-size:10px;}
+    sub{font-size:10px;}
+
+    .guide_nav{width:350px; font-size:14px;}
+    .video_guide_nav{width:350px; font-size:14px;}
+    .img_guide_nav{width:350px; font-size:14px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:350px;}
+    .scroll_top{display:none;}
+
+    .main_description{margin:20px auto;}
+    .main_description_title{margin:10px auto; width:350px; font-size:26px;}
+    .main_description_content{margin:10px auto; width:350px; font-size:16px;}
+
+    .feature_caption_box{width:350px;}
+    .feature_caption{width:330px;}
+    .feature_area{width:350px; margin:5px auto;}
+    .feature_title{font-size:23px; font-weight:bold; margin:5px 0; padding:0 10px;}
+    .feature_info{font-size:14px; margin:5px 0; padding:0 10px;}
+    .white_background_row{width:350px}
+    .white_background_left_column{float:none; width:350px; margin:0 0 20px 0;}
+    .white_background_right_column{float:none; width:350px; margin:0 0 20px 0;}
+    .blue_background_row{width:350px}
+    .blue_background_left_column{float:none; width:350px; margin:0 0 20px 0;}
+    .blue_background_right_column{float:none; width:350px; margin:0 0 20px 0;}
+
+    .catalog_area{width:350px; margin:30px auto;}
+    .catalog_article{width:350px;}
+    .catalog_title{padding:10px 10px 0 10px; font-size:23px; font-weight:bold;}
+    .catalog_information{width:330px; font-size:14px; padding:0 10px;}
+}
+
+/*Others*/
+@media screen and (min-width:450px) and (max-width:730px){
+    .nav_white_bar{padding:0; height:50px;}
+    .nav_blue_title{font-size:20px;}
+    .nav_blue_bar{padding:0; height:50px;}
+    .nav_white_title{font-size:20px;}
+    .nav_left_container{display:block; width:130px; margin:auto;}
+    .nav_right_container{display:none;}
+
+    .article{margin:15px 0;}
+    .article_title{width:450px; font-size:20px; padding:0;}
+    .article_information{font-size:14px; width:450px; margin:10px auto;}
+    .article_author{display:block; margin:5px auto;}
+    .article_publish_date{display:block; padding:0; margin:5px auto;}
+    .article_type{display:block; padding:0; margin:5px auto;}
+    .article_paragraph{width:450px; font-size:16px;}
+    .article_subtitle{width:450px;font-size:20px; font-weight:bold;}
+    .article_subsubtitle{width:450px;font-size:16px; font-weight:bold;}
+    .article_blockquote{width:450px; font-size:16px;}
+
+    .article_reference{width:450px; padding:0 0 5px 0; font-size:10px;}
+    .article_img{display:block; width:450px; margin:10px auto;}
+    .article_subimg_left{display:block; width:450px; float:none; margin:10px auto!important;}
+    .article_subimg_right{display:block; width:450px; float:none; margin:10px auto!important;}
+    .article_img_description{display:block; width:440px; margin:0 auto; padding:0 0 0 10px; border-left:3px solid gray; color:gray; font-size:16px; font-family:-apple-system,"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+    sup{font-size:10px;}
+    sub{font-size:10px;}
+
+    .guide_nav{width:450px; font-size:14px;}
+    .video_guide_nav{width:450px; font-size:14px;}
+    .img_guide_nav{width:450px; font-size:14px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:450px;}
+    .scroll_top{display:none;}
+
+    .main_description{margin:20px auto;}
+    .main_description_title{margin:10px auto; width:450px; font-size:26px;}
+    .main_description_content{margin:10px auto; width:450px; font-size:16px;}
+
+    .feature_caption_box{width:450px;}
+    .feature_caption{width:430px;}
+    .feature_area{width:450px; margin:5px auto;}
+    .feature_title{font-size:23px; font-weight:bold; margin:5px 0; padding:0 10px;}
+    .feature_info{font-size:14px; margin:5px 0; padding:0 10px;}
+    .white_background_row{width:450px}
+    .white_background_left_column{float:none; width:450px; margin:0 0 20px 0;}
+    .white_background_right_column{float:none; width:450px; margin:0 0 20px 0;}
+    .blue_background_row{width:450px}
+    .blue_background_left_column{float:none; width:450px; margin:0 0 20px 0;}
+    .blue_background_right_column{float:none; width:450px; margin:0 0 20px 0;}
+
+    .catalog_area{width:450px; margin:30px auto;}
+    .catalog_article{width:450px;}
+    .catalog_title{padding:10px 10px 0 10px; font-size:23px; font-weight:bold;}
+    .catalog_information{width:430px; font-size:14px; padding:0 10px;}
+}
+
+/*iPad Air 2 Portrait*/
+@media screen and (min-width:730px) and (max-width:800px){
+    .article_title{font-size:30px;}
+    .article_paragraph{font-size:16px;}
+    .article_subtitle{font-size:20px; font-weight:bold;}
+    .article_subsubtitle{font-size:16px; font-weight:bold;}
+    .article_reference{padding:0 0 5px 0; font-size:10px;}
+
+    .guide_nav{font-size:14px;}
+    .video_guide_nav{font-size:14px;}
+    .img_guide_nav{font-size:14px;}
+
+    .catalog_title{font-size:23px; font-weight:bold;}
+    .feature_title{font-size:23px; font-weight:bold;}
+}
+
+/*iPad Air 2 Landscape*/
+@media screen and (min-width:800px) and (max-width:1100px){
+    .article_title{font-size:30px;}
+    .article_paragraph{font-size:16px;}
+    .article_subtitle{font-size:20px; font-weight:bold;}
+    .article_subsubtitle{font-size:16px; font-weight:bold;}
+    .article_blockquote{font-size:16px;}
+
+    .guide_nav{font-size:14px;}
+    .video_guide_nav{font-size:14px;}
+    .img_guide_nav{font-size:14px;}
+
+    .catalog_title{font-size:23px; font-weight:bold;}
+    .feature_title{font-size:23px; font-weight:bold;}
+}

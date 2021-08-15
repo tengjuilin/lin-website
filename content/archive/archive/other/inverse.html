@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Algebra Playground | Polarize</title>
+    <link href="../common.css" type="text/css" rel="stylesheet">
+    <link href="../common.js" type="text/javascript">
+    <link href="../200px.jpg" type="image/x-icon" rel="icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <div>
+        <span style="position:relative;left:40px;top:20px;">
+            <a><b>Table of content</b></a><br/>
+            <a href="#inverse-matrix-3-3">Inverse Matrix 3*3</a><br/>
+            <a href="#inverse-matrix-2-2">Inverse Matrix 2*2</a><br/>
+            <a href="#matrix-addition">Matrix Addition</a><br/>
+            <a href="#matrix-subtraction">Matrix Subtraction</a><br/>
+            <a href="#addition">Addition of Rational Numbers</a><br/>
+            <a href="#subtraction">Subtraction of Rational Numbers</a><br/>
+            <a href="#multiplication">Multiplication of Rational Numbers</a><br/>
+            <a href="#division">Division of Rational Numbers</a><br/>
+            <a href="#exponent">Exponents of Rational Numbers</a><br/>
+            <a href="#naturallog">Natural log of Rational Numbers</a><br/>
+            <a href="#squareroot">Square Root of Rational Numbers</a><br/>
+            <a href="#trigonometry">Trigonometry</a><br/>
+
+
+            <br/><a>*User's tip* Use this in split view.</a>
+        </span>
+    </div>
+    <br/><br/>
+
+
+    <!--3*3 Matrix Inverse-->
+    <div id="inverse-matrix-3-3">
+        <h2>Matrix- Inverse it!</h2><br/>
+        <p>Please plug in your matrix:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-inverse-3-a11" type="tel" size="4">&nbsp;<input id="in-inverse-3-a12" type="tel" size="4">&nbsp;<input id="in-inverse-3-a13" type="tel" size="4"></br>
+            <input id="in-inverse-3-a21" type="tel" size="4">&nbsp;<input id="in-inverse-3-a22" type="tel" size="4">&nbsp;<input id="in-inverse-3-a23" type="tel" size="4">&nbsp;<button onclick="inverse3()">Inverse!</button></br>
+            <input id="in-inverse-3-a31" type="tel" size="4">&nbsp;<input id="in-inverse-3-a32" type="tel" size="4">&nbsp;<input id="in-inverse-3-a33" type="tel" size="4"></br>
+        </span>
+        <p>Your Inverse Matrix:</p>
+
+        <p id="out-inverse-3-a11">a11=0</p>
+        <p id="out-inverse-3-a12">a12=0</p>
+        <p id="out-inverse-3-a13">a13=0</p>
+        <p id="out-inverse-3-a21">a21=0</p>
+        <p id="out-inverse-3-a22">a22=0</p>
+        <p id="out-inverse-3-a23">a23=0</p>
+        <p id="out-inverse-3-a31">a31=0</p>
+        <p id="out-inverse-3-a32">a32=0</p>
+        <p id="out-inverse-3-a33">a33=0</p>
+    </div>
+
+    <script>
+        function inverse3(){
+            //input variables:inverse 3*3 matrix
+            var a=Number(document.getElementById("in-inverse-3-a11").value);
+            var b=Number(document.getElementById("in-inverse-3-a12").value);
+            var c=Number(document.getElementById("in-inverse-3-a13").value);
+            var d=Number(document.getElementById("in-inverse-3-a21").value);
+            var e=Number(document.getElementById("in-inverse-3-a22").value);
+            var f=Number(document.getElementById("in-inverse-3-a23").value);
+            var g=Number(document.getElementById("in-inverse-3-a31").value);
+            var h=Number(document.getElementById("in-inverse-3-a32").value);
+            var i=Number(document.getElementById("in-inverse-3-a33").value);
+
+            //output variables:inverse 3*3 matrix
+            var a001=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(e*i-f*h);
+            var a002=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(c*h-b*i);
+            var a003=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(b*f-c*e);
+            var a004=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(f*g-d*i);
+            var a005=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(a*i-c*g);
+            var a006=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(c*d-a*f);
+            var a007=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(d*h-e*g);
+            var a008=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(b*g-a*h);
+            var a009=(1/(a*(e*i-f*h)-b*(d*i-f*g)+c*(d*h-e*g)))*(a*e-b*d);
+
+            //output variables display:inverse 3*3 matrix
+            document.getElementById("out-inverse-3-a11").innerHTML="a11="+a001.toString();
+            document.getElementById("out-inverse-3-a12").innerHTML="a12="+a002.toString();
+            document.getElementById("out-inverse-3-a13").innerHTML="a13="+a003.toString();
+            document.getElementById("out-inverse-3-a21").innerHTML="a21="+a004.toString();
+            document.getElementById("out-inverse-3-a22").innerHTML="a22="+a005.toString();
+            document.getElementById("out-inverse-3-a23").innerHTML="a23="+a006.toString();
+            document.getElementById("out-inverse-3-a31").innerHTML="a31="+a007.toString();
+            document.getElementById("out-inverse-3-a32").innerHTML="a32="+a008.toString();
+            document.getElementById("out-inverse-3-a33").innerHTML="a33="+a009.toString();
+        }
+    </script>
+
+
+    <!--2*2 Matrix Inverse-->
+    <div id="inverse-matrix-2-2">
+        <h2>Matrix- Inverse it!</h2><br/>
+        <p>Please plug in your matrix:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-inverse-2-a11" type="tel" size="4">&nbsp;<input id="in-inverse-2-a12" type="tel" size="4"></br>
+            <input id="in-inverse-2-a21" type="tel" size="4">&nbsp;<input id="in-inverse-2-a22" type="tel" size="4">&nbsp;<button onclick="inverse2()">Inverse!</button></br>
+        </span>
+        <p>Your Inverse Matrix:</p>
+
+        <p id="out-inverse-2-a11">a11=0</p>
+        <p id="out-inverse-2-a12">a12=0</p>
+        <p id="out-inverse-2-a21">a21=0</p>
+        <p id="out-inverse-2-a22">a22=0</p>
+    </div>
+
+    <script>
+        function inverse2(){
+            //input variables:inverse 2*2 matrix
+            var a=Number(document.getElementById("in-inverse-2-a11").value);
+            var b=Number(document.getElementById("in-inverse-2-a12").value);
+            var c=Number(document.getElementById("in-inverse-2-a21").value);
+            var d=Number(document.getElementById("in-inverse-2-a22").value);
+
+            //output variables:inverse 2*2 matrix
+            var a001=(1/(a*d-b*c))*(d);
+            var a002=(1/(a*d-b*c))*(-b);
+            var a003=(1/(a*d-b*c))*(-c);
+            var a004=(1/(a*d-b*c))*(a);
+
+            //output variables display:inverse 2*2 matrix
+            document.getElementById("out-inverse-2-a11").innerHTML="a11="+a001.toString();
+            document.getElementById("out-inverse-2-a12").innerHTML="a12="+a002.toString();
+            document.getElementById("out-inverse-2-a21").innerHTML="a21="+a003.toString();
+            document.getElementById("out-inverse-2-a22").innerHTML="a22="+a004.toString();
+        }
+    </script>
+
+
+    <!--Matrix Addition-->
+    <div id="matrix-addition">
+        <h2>Matrix Addition</h2><br/>
+        <p>Please plug in your matrix:</p>
+        <span style="position:relative;left:40px;">
+            Matrix A<br/>
+            <input id="in-addition-a11" type="tel" size="4">&nbsp;<input id="in-addition-a12" type="tel" size="4">&nbsp;<input id="in-addition-a13" type="tel" size="4"></br>
+            <input id="in-addition-a21" type="tel" size="4">&nbsp;<input id="in-addition-a22" type="tel" size="4">&nbsp;<input id="in-addition-a23" type="tel" size="4"></br>
+            <input id="in-addition-a31" type="tel" size="4">&nbsp;<input id="in-addition-a32" type="tel" size="4">&nbsp;<input id="in-addition-a33" type="tel" size="4"></br>
+            Matrix B<br/>
+            <input id="in-addition-b11" type="tel" size="4">&nbsp;<input id="in-addition-b12" type="tel" size="4">&nbsp;<input id="in-addition-b13" type="tel" size="4"></br>
+            <input id="in-addition-b21" type="tel" size="4">&nbsp;<input id="in-addition-b22" type="tel" size="4">&nbsp;<input id="in-addition-b23" type="tel" size="4"></br>
+            <input id="in-addition-b31" type="tel" size="4">&nbsp;<input id="in-addition-b32" type="tel" size="4">&nbsp;<input id="in-addition-b33" type="tel" size="4">&nbsp;<button onclick="addmatrix()">Add!</button></br>
+        </span>
+        <p>Your Resulting Matrix:</p>
+
+        <p id="out-addition-a11">a11=0</p>
+        <p id="out-addition-a12">a12=0</p>
+        <p id="out-addition-a13">a13=0</p>
+        <p id="out-addition-a21">a21=0</p>
+        <p id="out-addition-a22">a22=0</p>
+        <p id="out-addition-a23">a23=0</p>
+        <p id="out-addition-a31">a31=0</p>
+        <p id="out-addition-a32">a32=0</p>
+        <p id="out-addition-a33">a33=0</p>
+    </div>
+
+    <script>
+        function addmatrix(){
+            //input variables:addition matrix A
+            var aa=Number(document.getElementById("in-addition-a11").value);
+            var ab=Number(document.getElementById("in-addition-a12").value);
+            var ac=Number(document.getElementById("in-addition-a13").value);
+            var ad=Number(document.getElementById("in-addition-a21").value);
+            var ae=Number(document.getElementById("in-addition-a22").value);
+            var af=Number(document.getElementById("in-addition-a23").value);
+            var ag=Number(document.getElementById("in-addition-a31").value);
+            var ah=Number(document.getElementById("in-addition-a32").value);
+            var ai=Number(document.getElementById("in-addition-a33").value);
+
+            //input variables:addition matrix B
+            var ba=Number(document.getElementById("in-addition-b11").value);
+            var bb=Number(document.getElementById("in-addition-b12").value);
+            var bc=Number(document.getElementById("in-addition-b13").value);
+            var bd=Number(document.getElementById("in-addition-b21").value);
+            var be=Number(document.getElementById("in-addition-b22").value);
+            var bf=Number(document.getElementById("in-addition-b23").value);
+            var bg=Number(document.getElementById("in-addition-b31").value);
+            var bh=Number(document.getElementById("in-addition-b32").value);
+            var bi=Number(document.getElementById("in-addition-b33").value);
+
+            //output variables:addition 3*3 matrix
+            var a001=aa+ba;
+            var a002=ab+bb;
+            var a003=ac+bc;
+            var a004=ad+bd;
+            var a005=ae+be;
+            var a006=af+bf;
+            var a007=ag+bg;
+            var a008=ah+bh;
+            var a009=ai+bi;
+
+            //output variables display:addition matrix
+            document.getElementById("out-addition-a11").innerHTML="a11="+a001.toString();
+            document.getElementById("out-addition-a12").innerHTML="a12="+a002.toString();
+            document.getElementById("out-addition-a13").innerHTML="a13="+a003.toString();
+            document.getElementById("out-addition-a21").innerHTML="a21="+a004.toString();
+            document.getElementById("out-addition-a22").innerHTML="a22="+a005.toString();
+            document.getElementById("out-addition-a23").innerHTML="a23="+a006.toString();
+            document.getElementById("out-addition-a31").innerHTML="a31="+a007.toString();
+            document.getElementById("out-addition-a32").innerHTML="a32="+a008.toString();
+            document.getElementById("out-addition-a33").innerHTML="a33="+a009.toString();
+        }
+    </script>
+
+
+    <!--Matrix Subtraction-->
+    <div id="matrix-subtraction">
+        <h2>Matrix Subtraction</h2><br/>
+        <p>Please plug in your matrix:</p>
+        <span style="position:relative;left:40px;">
+            Matrix A<br/>
+            <input id="in-subtraction-a11" type="tel" size="4">&nbsp;<input id="in-subtraction-a12" type="tel" size="4">&nbsp;<input id="in-subtraction-a13" type="tel" size="4"></br>
+            <input id="in-subtraction-a21" type="tel" size="4">&nbsp;<input id="in-subtraction-a22" type="tel" size="4">&nbsp;<input id="in-subtraction-a23" type="tel" size="4"></br>
+            <input id="in-subtraction-a31" type="tel" size="4">&nbsp;<input id="in-subtraction-a32" type="tel" size="4">&nbsp;<input id="in-subtraction-a33" type="tel" size="4"></br>
+            Matrix B<br/>
+            <input id="in-subtraction-b11" type="tel" size="4">&nbsp;<input id="in-subtraction-b12" type="tel" size="4">&nbsp;<input id="in-subtraction-b13" type="tel" size="4"></br>
+            <input id="in-subtraction-b21" type="tel" size="4">&nbsp;<input id="in-subtraction-b22" type="tel" size="4">&nbsp;<input id="in-subtraction-b23" type="tel" size="4"></br>
+            <input id="in-subtraction-b31" type="tel" size="4">&nbsp;<input id="in-subtraction-b32" type="tel" size="4">&nbsp;<input id="in-subtraction-b33" type="tel" size="4">&nbsp;<button onclick="subtractmatrix()">Subtract!</button></br>
+        </span>
+        <p>Your Resulting Matrix:</p>
+
+        <p id="out-subtraction-a11">a11=0</p>
+        <p id="out-subtraction-a12">a12=0</p>
+        <p id="out-subtraction-a13">a13=0</p>
+        <p id="out-subtraction-a21">a21=0</p>
+        <p id="out-subtraction-a22">a22=0</p>
+        <p id="out-subtraction-a23">a23=0</p>
+        <p id="out-subtraction-a31">a31=0</p>
+        <p id="out-subtraction-a32">a32=0</p>
+        <p id="out-subtraction-a33">a33=0</p>
+    </div>
+
+    <script>
+        function subtractmatrix(){
+            //input variables:subtraction matrix A
+            var aa=Number(document.getElementById("in-subtraction-a11").value);
+            var ab=Number(document.getElementById("in-subtraction-a12").value);
+            var ac=Number(document.getElementById("in-subtraction-a13").value);
+            var ad=Number(document.getElementById("in-subtraction-a21").value);
+            var ae=Number(document.getElementById("in-subtraction-a22").value);
+            var af=Number(document.getElementById("in-subtraction-a23").value);
+            var ag=Number(document.getElementById("in-subtraction-a31").value);
+            var ah=Number(document.getElementById("in-subtraction-a32").value);
+            var ai=Number(document.getElementById("in-subtraction-a33").value);
+
+            //input variables:subtraction matrix B
+            var ba=Number(document.getElementById("in-subtraction-b11").value);
+            var bb=Number(document.getElementById("in-subtraction-b12").value);
+            var bc=Number(document.getElementById("in-subtraction-b13").value);
+            var bd=Number(document.getElementById("in-subtraction-b21").value);
+            var be=Number(document.getElementById("in-subtraction-b22").value);
+            var bf=Number(document.getElementById("in-subtraction-b23").value);
+            var bg=Number(document.getElementById("in-subtraction-b31").value);
+            var bh=Number(document.getElementById("in-subtraction-b32").value);
+            var bi=Number(document.getElementById("in-subtraction-b33").value);
+
+            //output variables:subtraction matrix
+            var a001=aa-ba;
+            var a002=ab-bb;
+            var a003=ac-bc;
+            var a004=ad-bd;
+            var a005=ae-be;
+            var a006=af-bf;
+            var a007=ag-bg;
+            var a008=ah-bh;
+            var a009=ai-bi;
+
+            //output variables display:addition 3*3 matrix
+            document.getElementById("out-subtraction-a11").innerHTML="a11="+a001.toString();
+            document.getElementById("out-subtraction-a12").innerHTML="a12="+a002.toString();
+            document.getElementById("out-subtraction-a13").innerHTML="a13="+a003.toString();
+            document.getElementById("out-subtraction-a21").innerHTML="a21="+a004.toString();
+            document.getElementById("out-subtraction-a22").innerHTML="a22="+a005.toString();
+            document.getElementById("out-subtraction-a23").innerHTML="a23="+a006.toString();
+            document.getElementById("out-subtraction-a31").innerHTML="a31="+a007.toString();
+            document.getElementById("out-subtraction-a32").innerHTML="a32="+a008.toString();
+            document.getElementById("out-subtraction-a33").innerHTML="a33="+a009.toString();
+        }
+    </script>
+
+
+    <!--Addition-->
+    <div id="addition">
+        <h2>Addition!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-addition-1" type="tel" size="4">&nbsp;+&nbsp;<input id="in-addition-2" type="tel" size="4">
+            &nbsp;<button onclick="add()">Add!</button>
+        </span>
+        <p>Your Addition Result:</p>
+
+        <p id="out-addition-1">x+y=z</p>
+    </div>
+
+    <script>
+        function add(){
+            //input variables:addition
+            var a=Number(document.getElementById("in-addition-1").value);
+            var b=Number(document.getElementById("in-addition-2").value);
+
+            //output variables:addition
+            var c=a+b;
+
+            //output variables display:addition
+            document.getElementById("out-addition-1").innerHTML=a+"+"+b+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Subtraction-->
+    <div id="subtraction">
+        <h2>Subtraction!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-subtraction-1" type="tel" size="4">&nbsp;-&nbsp;<input id="in-subtraction-2" type="tel" size="4">
+            &nbsp;<button onclick="subtract()">Subtract!</button>
+        </span>
+        <p>Your Subtraction Result:</p>
+
+        <p id="out-subtraction-1">x-y=z</p>
+    </div>
+
+    <script>
+        function subtract(){
+            //input variables:subtraction
+            var a=Number(document.getElementById("in-subtraction-1").value);
+            var b=Number(document.getElementById("in-subtraction-2").value);
+
+            //output variables:subtraction
+            var c=a-b;
+
+            //output variables display:subtraction
+            document.getElementById("out-subtraction-1").innerHTML=a+"-"+b+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Multiplication-->
+    <div id="multiplication">
+        <h2>Multiplication!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-multiplication-1" type="tel" size="4">&nbsp;*&nbsp;<input id="in-multiplication-2" type="tel" size="4">
+            &nbsp;<button onclick="multiply()">Multiply!</button>
+        </span>
+        <p>Your Multiplication Result:</p>
+
+        <p id="out-multiplication-1">x*y=z</p>
+    </div>
+
+    <script>
+        function multiply(){
+            //input variables:multiplication
+            var a=Number(document.getElementById("in-multiplication-1").value);
+            var b=Number(document.getElementById("in-multiplication-2").value);
+
+            //output variables:multiplication
+            var c=a*b;
+
+            //output variables display:multiplication
+            document.getElementById("out-multiplication-1").innerHTML=a+"*"+b+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Division-->
+    <div id="division">
+        <h2>Division!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-division-1" type="tel" size="4">&nbsp;/&nbsp;<input id="in-division-2" type="tel" size="4">
+            &nbsp;<button onclick="divide()">Divide!</button>
+        </span>
+        <p>Your Division Result:</p>
+
+        <p id="out-division-1">x/y=z</p>
+    </div>
+
+    <script>
+        function divide(){
+            //input variables:division
+            var a=Number(document.getElementById("in-division-1").value);
+            var b=Number(document.getElementById("in-division-2").value);
+
+            //output variables:division
+            var c=a/b;
+
+            //output variables display:division
+            document.getElementById("out-division-1").innerHTML=a+"/"+b+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Exponent-->
+    <div id="exponent">
+        <h2>Exponent!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            <input id="in-exponent-1" type="tel" size="4"> to the power of <input id="in-exponent-2" type="tel" size="4">
+            &nbsp;<button onclick="exponent()">Exponent!</button>
+        </span>
+        <p>Your Exponent Result:</p>
+
+        <p id="out-exponent-1">a to the power of b</p>
+    </div>
+
+    <script>
+        function exponent(){
+            //input variables:exponent
+            var a=Number(document.getElementById("in-exponent-1").value);
+            var b=Number(document.getElementById("in-exponent-2").value);
+
+            //output variables:exponent
+            var c=Math.pow(a,b);
+
+            //output variables display:exponent
+            document.getElementById("out-exponent-1").innerHTML=a+" to the power of "+b+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Natural log-->
+    <div id="naturallog">
+        <h2>Natural log!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            ln <input id="in-logarithm-1" type="tel" size="4">
+            &nbsp;<button onclick="logarithm()">Natural log!</button>
+        </span>
+        <p>Your Natural log Result:</p>
+
+        <p id="out-logarithm-1">ln(a)=b</p>
+    </div>
+
+    <script>
+        function logarithm(){
+            //input variables:exponent
+            var a=Number(document.getElementById("in-logarithm-1").value);
+
+            //output variables:exponent
+            var b=Math.log(a);
+
+            //output variables display:exponent
+            document.getElementById("out-logarithm-1").innerHTML="ln("+a+")="+b.toString();
+        }
+    </script>
+
+
+    <!--Square Root-->
+    <div id="squareroot">
+        <h2>Square Root!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            Square root of <input id="in-square-root-1" type="tel" size="4">
+            &nbsp;<button onclick="squareroot()">Square Root!</button>
+        </span>
+        <p>Your Square Root Result:</p>
+
+        <p id="out-square-root-1">square root of a is b</p>
+    </div>
+
+    <script>
+        function squareroot(){
+            //input variables:square root
+            var a=Number(document.getElementById("in-square-root-1").value);
+
+            //output variables:square root
+            var c=Math.sqrt(a);
+
+            //output variables display:square root
+            document.getElementById("out-square-root-1").innerHTML="Square root of "+a+"="+c.toString();
+        }
+    </script>
+
+
+    <!--Trigonometry-->
+    <div id="trigonometry">
+        <h2>Trigonotetry!</h2><br/>
+        <p>Please plug in numbers:</p>
+        <span style="position:relative;left:40px;">
+            sin <input id="in-trig-sin" type="tel" size="4"><br/>
+            cos <input id="in-trig-cos" type="tel" size="4"><br/>
+            tan <input id="in-trig-tan" type="tel" size="4"><br/>
+            arcsin <input id="in-trig-arcsin" type="tel" size="4"><br/>
+            arccos <input id="in-trig-arccos" type="tel" size="4"><br/>
+            arctan <input id="in-trig-arctan" type="tel" size="4">
+            &nbsp;<button onclick="trig()">Trig!</button>
+        </span>
+        <p>Your Trig Result (in Radians):</p>
+
+        <p id="out-rad-trig-sin">sin(a)=b</p>
+        <p id="out-rad-trig-cos">cos(a)=b</p>
+        <p id="out-rad-trig-tan">tan(a)=b</p>
+        <p id="out-rad-trig-arcsin">arcsin(a)=b</p>
+        <p id="out-rad-trig-arccos">arccos(a)=b</p>
+        <p id="out-rad-trig-arctan">arctan(a)=b</p>
+    </div>
+
+    <script>
+        function trig(){
+            //input variables:square root
+            var sin=Number(document.getElementById("in-trig-sin").value);
+            var cos=Number(document.getElementById("in-trig-cos").value);
+            var tan=Number(document.getElementById("in-trig-tan").value);
+            var arcsin=Number(document.getElementById("in-trig-arcsin").value);
+            var arccos=Number(document.getElementById("in-trig-arccos").value);
+            var arctan=Number(document.getElementById("in-trig-arctan").value);
+
+            //output variables:square root
+            var outradsin=Math.sin(sin);
+            var outradcos=Math.cos(cos);
+            var outradtan=Math.tan(tan);
+            var outradarcsin=Math.asin(arcsin);
+            var outradarccos=Math.acos(arccos);
+            var outradarctan=Math.atan(arctan);
+
+            //output variables display:square root
+            document.getElementById("out-rad-trig-sin").innerHTML="sin("+sin+")="+outradsin.toString();
+            document.getElementById("out-rad-trig-cos").innerHTML="cos("+cos+")="+outradcos.toString();
+            document.getElementById("out-rad-trig-tan").innerHTML="tan("+tan+")="+outradtan.toString();
+            document.getElementById("out-rad-trig-arcsin").innerHTML="arcsin("+arcsin+")="+outradarcsin.toString();
+            document.getElementById("out-rad-trig-arccos").innerHTML="arccos("+arccos+")="+outradarccos.toString();
+            document.getElementById("out-rad-trig-arctan").innerHTML="arctan("+arctan+")="+outradarctan.toString();
+        }
+    </script>
+
+
+    <span class="copyright"><br/><br/><br/>
+        &nbsp;&copy; 2017 Owen Lin, Polarize. All rights reserved.<br/>
+    </span>
+
+</body>
+</html>

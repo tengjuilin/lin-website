@@ -1,0 +1,291 @@
+body{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; margin:0; color:rgb(17,17,17);scroll-behavior: smooth;}
+h1{font-size:64px; margin:0;}
+a{color:#3F51B5; text-decoration:none;}
+
+/*Navigation*/
+nav{font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+nav li{list-style:none; float:left; padding:0 10px 0 10px;}
+nav li a{color:rgba(50,50,50,0.6);}
+.nav_logo{padding-right:10px; float:left; height:50px;}
+.nav_right_container{position:absolute; top:0; right:80px; margin:0; padding:0;}
+
+.nav_white_bar{display:block; padding:0 20px 0 20px; height:50px; z-index:999; background-color:white;}
+.nav_blue_title{line-height:50px; font-size:23px; color:#3F51B5;}
+.nav_blue_icon{line-height:50px; font-size:14px; color:#3F51B5;}
+
+.nav_blue_bar{display:block; padding:0 20px 0 20px; height:50px; z-index:999; background-color:#3F51B5;}
+.nav_white_title{line-height:50px; font-size:23px; color:white;}
+.nav_white_icon{line-height:50px; font-size:14px; color:white;}
+
+.guide_nav{width:700px; margin:auto; text-align:left; font-size:16px; color:gray;}
+.video_guide_nav{width:900px; margin:auto; text-align:left; font-size:16px; color:gray;}
+.img_guide_nav{width:900px; margin:auto; text-align:left; font-size:16px; color:gray; font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+
+/*Footer*/
+footer{color:white; font-size:11px; background-color:#3F51B5; padding:30px; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+.foot_link{color:white;}
+.footnote{display:block; width:700px; margin:auto;}
+.scroll_top{position:fixed; bottom:15px; right:15px; background-color:#3F51B5; width:36px; height:36px;}
+
+/*Index Page*/
+.page_title{background-color:#3F51B5; color:white;}
+.info_title{display:block; margin:auto; padding:20px 0; width:700px; font-weight:normal; font-size:64px;}
+.white_background_info{background-color:white; color:#3F51B5; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+.blue_background_info{background-color:#3F51B5; color:white; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;}
+
+.info_detail_description{display:block; margin:auto; padding:0 0 40px 0; width:700px; font-size:20px;}
+.info_list_description{display:block; margin:auto; padding:0 0 40px 40px; width:700px; font-size:20px;}
+.info_image_wrapper{width:700px; margin:auto;}
+.info_image{float:right; margin:30px 60px 30px auto; width:200px;}
+
+.single_caption_box{display:block; margin:auto; padding:10px 0; width:700px; background-color:#EEE; color:#444;}
+.single_caption{padding:0 0 0 10px; width:700px; font-size:20px;}
+.single_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:700px; margin:30px auto;}
+.single_image{display:block; width:700px; height:467px;}
+.single_title_box{display:block; margin:auto; padding:10px 0; width:700px; background-color:#3F51B5; color:white;}
+.single_title{padding:0 20px; width:660px; font-size:30px; font-weight:normal; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;} /*padding + width = width of the box*/
+.single_info_box{display:block; margin:auto; padding:10px 0; width:700px; background-color:#EEE; color:black;}
+.single_info{padding:0 20px; width:660px; font-size:16px; margin:10px 0;} /*padding + width = width of the box*/
+.single_list_description{display:block; margin:auto; padding:0 40px 40px 40px; width:620px; font-size:16px;}
+.single_white_background_row{display:block; margin:auto; width:900px;}
+.single_white_background_column{float:left; margin:0 auto 50px auto;}
+
+.double_caption_box{display:block; margin:auto; padding:10px 0; width:900px; background-color:#EEE; color:#444;}
+.double_caption{padding:0 0 0 10px; width:700px; font-size:20px;}
+.double_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:900px; margin:30px auto;}
+.double_image{display:block; width:420px; height:280px;}
+.double_title_box{display:block; margin:auto; padding:10px 0; width:420px; background-color:#3F51B5; color:white;}
+.double_title{padding:0 20px; width:380px; font-size:30px; font-weight:normal; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif;} /*padding + width = width of the box*/
+.double_info_box{display:block; margin:auto; padding:10px 0; width:420px; height:170px; background-color:#EEE; color:black;}
+.double_info{padding:0 20px; width:380px; font-size:16px; margin:10px 0;} /*padding + width = width of the box*/
+.double_white_background_row{display:block; margin:auto; width:900px}
+.double_white_background_left_column{float:left; width:400px; color:#3F51B5; margin:0 0 50px 0;}
+.double_white_background_right_column{float:right; width:400px; color:#3F51B5; margin:0 0 50px 0;}
+
+
+/*Sub Index Page*/
+.main_image{max-width:100%; height:auto; display:block; margin:auto;}
+.main_description{margin:50px auto 80px auto;}
+.main_description_title{display:block; margin:15px auto; text-align:center; width:700px; font-size:30px;}
+.main_description_content{display:block; margin:15px auto; text-align:center; width:700px; font-size:18px;}
+.feature_caption_box{display:block; margin:auto; padding:10px 0; width:700px; background-color:#EEE; color:#444;}
+.feature_caption{padding:0 10px; width:680px; font-size:20px; font-family:Futura,Helvetica,KaiTi,"Microsoft YaHei",sans-serif; font-weight:bold;}
+.feature_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:700px; margin:30px auto;}
+.feature_title{font-size:30px; margin:10px 0;}
+.feature_info{font-size:16px; margin:10px 0; color:black;}
+.float_clear{clear:both;}
+.white_background_row{display:block; margin:auto; width:700px}
+.white_background_left_column{float:left; width:300px; border-top:3px solid #3F51B5; color:#3F51B5; margin:0 0 50px 0;}
+.white_background_right_column{float:right; width:300px; border-top:3px solid #3F51B5; color:#3F51B5; margin:0 0 50px 0;}
+.blue_background_row{display:block; margin:auto; width:700px}
+.blue_background_left_column{float:left; width:300px; border-top:3px solid white; color:white; margin:0 0 50px 0;}
+.blue_background_right_column{float:right; width:300px; border-top:3px solid white; color:white; margin:0 0 50px 0;}
+
+.catalog_category_title{background-color:#3F51B5; color:white;}
+.catalog_area{font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif; width:700px; margin:30px auto; border-top:1px solid lightgray;}
+.catalog_article{display:block; width:700px; border-bottom:1px solid lightgray;}
+.catalog_title{display:block; margin:auto; padding:10px 20px 0 20px; font-size:30px;}
+.catalog_information{width:660px; margin:auto; font-size:16px; color:black; padding:0 20px;}
+.catalog_author{display:inline-block;}
+.catalog_publish_date{display:inline-block; padding-left:20px;}
+
+.contributor_work_info_box{display:block; margin:auto; padding:0; width:700px; background-color:#EEE; color:black;}
+
+/*Article*/
+.article{margin:50px 0}
+.article_title{text-align:center; width:700px; margin:auto; font-size:50px; font-family:"Minion Pro","Times New Roman",KaiTi,"Microsoft YaHei",serif;}
+.article_information{width:700px; margin:auto; text-align:center; font-size:16px; color:gray;}
+.article_author{display:inline-block;}
+.article_publish_date{display:inline-block; padding-left:20px;}
+.article_type{display:inline-block; padding-left:20px;}
+.article_paragraph{text-align:left; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px;}
+.article_subtitle{text-align:left; width:700px; margin:auto; font-size:30px; font-weight:normal;}
+.article_subsubtitle{text-align:left; width:700px; margin:auto; font-size:24px; }
+.article_blockquote{width:700px; font-size:20px; font-style:italic; margin:auto}
+.article_written_date{text-align:right; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px;}
+.article_reference{text-align:left; width:700px; margin:auto; padding:0 0 16px 0; font-size:16px;}
+.article_img{display:block; width:700px; margin:30px auto; border:1px solid lightgray;}
+.article_list{display:block; margin:auto; padding:10px 40px; width:620px; font-size:20px;}
+.section_separation{display:block; margin:auto; padding:15px 0; width:700px; text-align:center;}
+.img_work{display:block; width:900px; margin:30px auto; border:1px solid lightgray;}
+.poem_line{text-align:center; width:700px; margin:auto; padding:0 0 16px 0; font-size:20px;}
+.video_description{display:block; width:900px; margin:0 auto 30px auto; text-align:left; font-size:16px;}
+video{display:block; margin:30px auto; width:900px;}
+iframe{display:block; margin:30px auto; width:900px; height:600px;}
+sup{font-size:12px;}
+sub{font-size:12px;}
+
+/*Fonts*/
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro.otf');}
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro_italic.otf'); font-style:italic;}
+@font-face{font-family:"Minion Pro"; src:url('../../font/MinionPro_bold_italic.otf'); font-weight:bold; font-style:italic;}
+@font-face{font-family:"Futura"; src:url('../../font/Futura.otf');}
+@font-face{font-family:"Futura"; src:url('../../font/Futura_bold.otf'); font-weight:bold;}
+
+/*iPhone SE Portrait*/
+@media screen and (min-width:300px) and (max-width:350px){
+    .nav_bar{height:100px}
+    .nav_left_container{display:block; position:absolute; top:5px; right:97px;}
+    .nav_right_container{display:block; top:50px; right:83px;}
+
+    .article{margin:15px 0}
+    .article_title{width:300px; font-size:30px; padding:0;}
+    .article_information{width:300px;}
+    .article_author{display:block;}
+    .article_publish_date{display:block; padding:0;}
+    .article_paragraph{width:300px; font-size:18px;}
+    .article_subtitle{width:300px;font-size:22px;}
+    .article_blockquote{width:300px; font-size:18px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:260px;}
+    .scroll_top{display:none;}
+
+    .info_title{padding:20px 0; width:260px; font-size:30px;}
+    .info_description{padding:0 0 40px 0; width:260px; font-size:20px;}
+    .info_detail_description{padding:0 0 10px 0; width:260px; font-size:18px;}
+    .info_list_description{padding:0 0 40px 40px; width:260px; font-size:18px;}
+    .info_button_wrapper{width:260px;}
+    .info_image_wrapper{display:none;}
+
+    .recommend_width{padding:0;}
+    .recommend_title{font-size:20px; margin:10px 0;}
+    .recommend_info{font-size:14px; margin:10px 0;}
+    .white_background_row{display:block; margin:auto; width:260px}
+    .white_background_left_column{float:none; width:260px; margin:0 0 50px 0;}
+    .white_background_right_column{float:none; width:260px; margin:0 0 50px 0;}
+    .blue_background_row{display:block; margin:auto; width:260px}
+    .blue_background_left_column{float:none; width:260px; margin:0 0 50px 0;}
+    .blue_background_right_column{float:none; width:260px; margin:0 0 50px 0;}
+}
+
+/*iPhone 6 Portrait*/
+@media screen and (min-width:350px) and (max-width:400px){
+    .nav_bar{height:100px}
+    .nav_left_container{display:block; position:absolute; top:5px; right:124.5px;}
+    .nav_right_container{display:block; top:50px; right:110.5px;}
+
+    .article{margin:15px 0}
+    .article_title{width:320px; font-size:30px; padding:0;}
+    .article_information{width:320px;}
+    .article_author{display:block;}
+    .article_publish_date{display:block; padding:0;}
+    .article_paragraph{width:320px; font-size:18px;}
+    .article_subtitle{width:320px;font-size:22px;}
+    .article_blockquote{width:320px; font-size:18px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:280px;}
+    .scroll_top{display:none;}
+
+    .info_title{padding:20px 0; width:280px; font-size:30px;}
+    .info_description{padding:0 0 40px 0; width:280px; font-size:20px;}
+    .info_detail_description{padding:0 0 10px 0; width:280px; font-size:18px;}
+    .info_list_description{padding:0 0 10px 40px; width:280px; font-size:18px;}
+    .info_button_wrapper{width:280px;}
+    .info_image_wrapper{display:none;}
+
+    .recommend_width{padding:0;}
+    .recommend_title{font-size:20px; margin:10px 0;}
+    .recommend_info{font-size:14px; margin:10px 0;}
+    .white_background_row{display:block; margin:auto; width:280px}
+    .white_background_left_column{float:none; width:280px; margin:0 0 50px 0;}
+    .white_background_right_column{float:none; width:280px; margin:0 0 50px 0;}
+    .blue_background_row{display:block; margin:auto; width:280px}
+    .blue_background_left_column{float:none; width:280px; margin:0 0 50px 0;}
+    .blue_background_right_column{float:none; width:280px; margin:0 0 50px 0;}
+}
+
+/*iPhone 6 Plus Portrait*/
+@media screen and (min-width:400px) and (max-width:450px){
+    .nav_bar{height:100px}
+    .nav_left_container{display:block; position:absolute; top:5px; right:144px;}
+    .nav_right_container{display:block; top:50px; right:130px;}
+
+    .article{margin:15px 0}
+    .article_title{width:360px; font-size:30px; padding:0;}
+    .article_information{width:360px;}
+    .article_author{display:block;}
+    .article_publish_date{display:block; padding:0;}
+    .article_paragraph{width:360px; font-size:18px;}
+    .article_subtitle{width:360px;font-size:22px;}
+    .article_blockquote{width:360px; font-size:18px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:320px;}
+    .scroll_top{display:none;}
+
+    .info_title{padding:20px 0; width:320px; font-size:30px;}
+    .info_description{padding:0 0 40px 0; width:320px; font-size:20px;}
+    .info_detail_description{padding:0 0 10px 0; width:320px; font-size:18px;}
+    .info_list_description{padding:0 0 10px 40px; width:320px; font-size:18px;}
+    .info_button_wrapper{width:320px;}
+    .info_image_wrapper{display:none;}
+
+    .recommend_width{padding:0;}
+    .recommend_title{font-size:20px; margin:10px 0;}
+    .recommend_info{font-size:14px; margin:10px 0;}
+    .white_background_row{display:block; margin:auto; width:320px}
+    .white_background_left_column{float:none; width:320px; margin:0 0 50px 0;}
+    .white_background_right_column{float:none; width:320px; margin:0 0 50px 0;}
+    .blue_background_row{display:block; margin:auto; width:320px}
+    .blue_background_left_column{float:none; width:320px; margin:0 0 50px 0;}
+    .blue_background_right_column{float:none; width:320px; margin:0 0 50px 0;}
+}
+
+/*Others*/
+@media screen and (min-width:450px) and (max-width:730px){
+    .nav_bar{height:100px}
+    .nav_left_container{display:block; position:absolute; top:5px; right:144px;}
+    .nav_right_container{display:block; top:50px; right:130px;}
+
+    .article{margin:15px 0}
+    .article_title{width:450px; font-size:30px; padding:0;}
+    .article_information{width:450px;}
+    .article_author{display:block;}
+    .article_publish_date{display:block; padding:0;}
+    .article_paragraph{width:450px; font-size:18px;}
+    .article_subtitle{width:450px;font-size:22px;}
+    .article_blockquote{width:450px; font-size:18px;}
+
+    footer{padding:30px 0 30px 0;}
+    .footnote{width:360px;}
+    .scroll_top{display:none;}
+
+    .info_title{padding:20px 0; width:360px; font-size:30px;}
+    .info_description{padding:0 0 40px 0; width:360px; font-size:20px;}
+    .info_detail_description{padding:0 0 10px 0; width:360px; font-size:18px;}
+    .info_list_description{padding:0 0 10px 40px; width:360px; font-size:18px;}
+    .info_button_wrapper{width:360px;}
+    .info_image_wrapper{display:none;}
+
+    .recommend_width{padding:0;}
+    .recommend_title{font-size:20px; margin:10px 0;}
+    .recommend_info{font-size:14px; margin:10px 0;}
+    .white_background_row{display:block; margin:auto; width:360px}
+    .white_background_left_column{float:none; width:360px; margin:0 0 50px 0;}
+    .white_background_right_column{float:none; width:360px; margin:0 0 50px 0;}
+    .blue_background_row{display:block; margin:auto; width:360px}
+    .blue_background_left_column{float:none; width:360px; margin:0 0 50px 0;}
+    .blue_background_right_column{float:none; width:360px; margin:0 0 50px 0;}
+}
+
+/*iPad Air 2 Portrait*/
+@media screen and (min-width:730px) and (max-width:800px){
+    .article_title{width:650px;}
+    .article_information{width:650px;}
+    .article_paragraph{width:650px;}
+    .article_subtitle{width:650px;}
+    .article_blockquote{width:650px;}
+
+    .footnote{width:650px;}
+
+    .info_title{width:650px;}
+    .info_description{width:650px;}
+    .info_detail_description{width:650px;}
+    .info_list_description{width:650px;}
+    .info_button_wrapper{width:650px;}
+
+    .white_background_row{width:650px}
+    .blue_background_row{width:650px}
+}

@@ -1,0 +1,41 @@
+body{font-family:"SF Display", serif; margin:0; background-color:black; color:rgb(230,230,230); scroll-behavior: smooth;}
+a{color:rgb(230,230,230); text-decoration:none;}
+li{list-style:none; float:left; padding:0 10px; font-size:12px;}
+h1{font-size:64px; margin:0;}
+p{font-size:25px; margin:0;}
+
+nav{background-color:black; width:2000px; opacity:0.8; display:block; position:fixed; top:0; left:0; line-height:50px; border-bottom:1px solid rgb(40,40,40);}
+.nav_left_container{padding:0 0 0 20px;}
+.nav_projct_title{font-size:20px; font-weight:bold;}
+.nav_right_container{position:fixed; top:0; right:80px; margin:0; padding:0;}
+
+.section_subtitle{display:block; margin:25px auto; width:700px; text-align:center; font-size:28px; font-weight:600;}
+.section_title{display:block; margin:20px auto 15px auto; width:700px; text-align:center; font-size:64px;}
+.section_text{display:block; margin:25px auto 125px; width:700px; text-align:center; font-size:28px; font-weight:600;}
+
+.masked_container{width:700px; margin:auto;}
+.masked_section_title{font-size:48px; display:inline; text-align:left;}
+.masked_section_text{font-size:48px; font-weight:600; display:inline; text-align:left; color:rgba(0,0,0,0);}
+
+
+.mask{}
+
+footer{display:block; width:700px; font-size:12px; border-top:1px solid rgb(40,40,40); margin:auto; padding:30px; font-weight:600;}
+footer a{text-decoration:underline;}
+
+@font-face
+{
+    font-family: "SF Display";
+    font-weight: bold;
+    src: url('../sc_campaign/SF-UI-Display-Semibold.otf');
+}
+@font-face
+{
+    font-family: "SF Display";
+    font-weight: normal;
+    src: url('sf-pro-display_regular.woff2');
+}
+
+/*iPad Air 9.7' Portrait*/
+@media screen and (min-width:730px) and (max-width:800px){
+}

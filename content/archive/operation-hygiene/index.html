@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operation Hygiene</title>
+    <style>
+        body{font-family:"SF Display", serif; margin:0; background-color:black; color:rgb(230,230,230); scroll-behavior: smooth;}
+        a{color:rgb(230,230,230); text-decoration:none;}
+        li{list-style:none; float:left; padding:0 10px; font-size:12px;}
+        h1{font-size:64px; margin:0;}
+        p{font-size:25px; margin:0;}
+
+        nav{background-color:black; width:2000px; opacity:0.8; display:block; position:fixed; top:0; left:0; line-height:50px; border-bottom:1px solid rgb(40,40,40);}
+        .nav_left_container{padding:0 0 0 20px;}
+        .nav_projct_title{font-size:20px; font-weight:bold;}
+        .nav_right_container{position:fixed; top:0; right:80px; margin:0; padding:0;}
+
+        .section_subtitle{display:block; margin:25px auto; width:700px; text-align:center; font-size:28px; font-weight:600;}
+        .section_title{display:block; margin:20px auto 15px auto; width:700px; text-align:center; font-size:64px;}
+        .section_text{display:block; margin:25px auto 125px; width:700px; text-align:center; font-size:28px; font-weight:600;}
+
+        .masked_container{width:700px; margin:auto;}
+        .masked_section_title{font-size:48px; display:block; text-align:left;}
+        .masked_section_text{font-size:48px; font-weight:600; display:block; text-align:left; color:rgba(0,0,0,0);}
+
+        footer{color:rgb(70,70,70); display:block; width:700px; font-size:12px; border-top:1px solid rgb(40,40,40); margin:auto; padding:30px;}
+        footer a{color:rgb(70,70,70); text-decoration:underline;}
+
+        .theme_text{font-size:82px; width:700px; display:block; text-align:center; margin:0 auto 150px auto; }
+        .syringe{margin:0; height:1330px; background:url(syringe.png) center no-repeat;}
+        .bacteria{margin:0 0 50px 0; height:500px; background:url(bacteria.jpg) center no-repeat;}
+        .mask{margin:170px 0 50px 0; height:270px; background:url(mask.jpg) center no-repeat;}
+        .shield1{margin:220px 0 50px 0; height:610px; background:url(shield1.png) center no-repeat;}
+        .shield2{margin:150px 0 50px 0; height:610px; background:url(shield2.png) center no-repeat;}
+        .surgery{margin:150px 0 50px 0; height:500px; background:url(surgery.jpg) center no-repeat;}
+        .respirator{margin:150px 0 50px 0; height:500px; background:url(respirator.jpg) center no-repeat;}
+        .carnival{margin:150px 0 50px 0; height:500px; background:url(carnival.jpg) center no-repeat;}
+
+
+        @font-face
+        {
+            font-family: "SF Display";
+            font-weight: bold;
+            src: url('../sc_campaign/SF-UI-Display-Semibold.otf');
+        }
+        @font-face
+        {
+            font-family: "SF Display";
+            font-weight: normal;
+            src: url('sf-pro-display_regular.woff2');
+        }
+
+        /*iPhone SE Portrait*/
+        @media screen and (min-width:300px) and (max-width:450px){
+            nav{line-height:40px;}
+            .nav_projct_title{font-size:20px;}
+            .nav_right_container{display:none;}
+
+            .section_subtitle{margin:25px auto; width:300px; font-size:16px;}
+            .section_title{margin:20px auto 15px auto; width:300px; font-size:40px;}
+            .section_text{margin:25px auto 50px; width:300px; font-size:16px;}
+
+            .masked_container{width:300px;}
+            .masked_section_title{font-size:20px;}
+            .masked_section_text{font-size:20px;}
+
+            footer{width:300px; padding:10px; font-size:10px;}
+
+            .theme_text{font-size:60px; width:300px; margin:0 auto 20px auto;}
+            .bacteria{margin:0 0 20px 0; height:200px;}
+            .mask{margin:20px 0; height:200px;}
+            .shield1{margin:20px 0; height:200px; background-size:100%;}
+            .shield2{margin:20px 0; height:200px; background-size:100%;}
+            .surgery{margin:20px 0; height:200px; background-size:100%;}
+            .respirator{margin:20px 0; height:200px; background-size:100%;}
+            .carnival{margin:20px 0; height:160px; background-size:100%;}
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="">
+        <div class="nav_left_container">
+            <a href="#intro" class="nav_projct_title">Operation Hygiene</a>
+        </div>
+        <ul class="nav_right_container">
+            <li><a href="#epidemiology">Epidemiology</a></li>
+            <li><a href="#prevention-for-self">Protection</a></li>
+            <li><a href="#surgical-mask">Masks</a></li>
+            <li><a href="index_cn.html">中文</a></li>
+        </ul>
+    </nav>
+
+    <div id="intro">
+        <div class="syringe"></div>
+        <p class="section_subtitle">Operation Hygiene</p>
+        <h1 class="section_title">Welcome to the<br/>flu season.</h1>
+        <p class="section_text">
+            Flu season is coming! Isn't that exciting?<br/>
+            Due to the rapid change of season in Zhengzhou, it is easy for people to catch a cold or even a flu. In order to avoid getting the propagating sickness, it's time to refresh your memory of how to be hygienic.
+        </p>
+    </div>
+
+    <div id="epidemiology">
+        <div class="bacteria"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Epidemiology.</h1>
+            <p class="masked_section_text" style="background:url(texture1.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                Sickness usually spreads through virus, bacterium, or fungus. They can travel via medias such as air. It is important to protect yourself and your fellow human being by wearing masks.
+            </p>
+        </div>
+    </div>
+
+
+    <div id="prevention-for-self">
+        <div class="shield1"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Protection for yourself.</h1>
+            <p class="masked_section_text" style="background:url(texture2.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                Wearing masks isolates your respiratory system with the contaminated air that contains germs. Besides, masks protect you from dust inhalation that would lead to chronic respiratory disease.
+            </p>
+        </div>
+    </div>
+
+    <div id="prevention-for-others">
+        <div class="shield2"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Protection for others.</h1>
+            <p class="masked_section_text" style="background:url(texture4.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                If you are sick, masks isolate your contagious coughs and sneezes, protecting others from getting illness.
+            </p>
+        </div>
+    </div>
+
+    <div id="surgical-mask">
+        <div class="surgery" style=""></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Surgical masks.</h1>
+            <p class="masked_section_text" style="background:url(texture5.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                You look serious, but it works. Surgical mask is the best fit for sickness prevention. While it isolates you from contagious diseases, it also keeps you comfortable.
+            </p>
+        </div>
+    </div>
+
+    <div id="respirator">
+        <div class="respirator"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Respirators.</h1>
+            <p class="masked_section_text" style="background:url(texture6.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                Your respiratory system is isolated from germs and industrial level particles. Because of such advantage, you will have a hard time to breathe.
+            </p>
+        </div>
+    </div>
+
+    <div id="funny-mask">
+        <div class="carnival"></div>
+        <div class="masked_container">
+            <h1 class="masked_section_title">Funny masks.</h1>
+            <p class="masked_section_text" style="background:url(texture7.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+                Funny masks make you look funny, and it also makes your respiratory system feel funny. You might also cause other people to feel funny, too.
+            </p>
+        </div>
+    </div>
+
+    <div class="mask"></div>
+    <div id="mask" class="masked_container">
+        <p class="masked_section_text theme_text" style="background:url(texture4.jpg) center repeat; background-clip:text; -webkit-background-clip:text;">
+            Wear Your Masks.
+        </p>
+    </div>
+
+    <footer>
+        <span>
+            Image sources:
+            <a href="https://pixabay.com/en/syringe-shot-needle-vaccination-1884787/">Syringe</a>;
+            <a href="https://unsplash.com/photos/13UugSL9q7A/">Bacteria</a>;
+            <a href="https://pixabay.com/en/surgery-surgeon-operation-medical-676375/">Surgical mask</a>;
+            <a href="https://pixabay.com/en/nature-wood-outdoors-tree-3216890/">Respirator</a>;
+            <a href="https://pixabay.com/en/carnival-fasnet-swabian-alemannic-2092819/">Funny mask</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_1_medium.jpg">Font texture 1</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_2_medium.jpg">Font texture 2</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_3_medium.jpg">Font texture 3</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_4_medium.jpg">Font texture 4</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_5_medium.jpg">Font texture 5</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_6_medium.jpg">Font texture 6</a>;
+            <a href="https://www.apple.com/v/iphone-xs/a/images/overview/copy_texture_7_medium.jpg">Font texture 7</a>;
+        </span><br/>
+        <span>The fonts "San Fransisco Pro Display" and "San Fransisco Pro Text" are derived from Apple Inc.</span><br/>
+        <span>Webpage designed originally by Apple Inc, restructured by Owen Lin. All elements of this webpage were designed by Owen Lin on September 24, 2018 unless otherwise stated.</span><br/>
+        <span>Copyright &copy; 2018 Owen Lin, Polarize. All rights reserved.</span>
+    </footer>
+</body>
+
+
+
+</html>

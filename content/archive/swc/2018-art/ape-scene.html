@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/style.css" type="text/css" rel="stylesheet">
+    <link href="../img/site/logo_white.jpg" type="image/x-icon" rel="icon">
+    <title>Ape Scene | SWC</title>
+</head>
+
+<body>
+<div id="nav"></div>
+
+<div class="article">
+    <h1 class="article_title">Ape Scene (Soundtrack)</h1>
+    <div class="article_information">
+        <p class="article_author"><a href="../contributors/lin-teng-jui.html">Owen Lin (Class of 2019)</a></p>
+        <p class="article_publish_date">27 Feb. 2018</p>
+        <p class="article_type">Soundtrack</p>
+    </div>
+
+    <div id="video"><video src="../img/2018-art-video/ape-scene.mp4" controls="controls" preload="auto" poster="../img/2018-art-video/ape-scene.jpg"></video></div>
+    <p class="video_description">
+        <span id="problem"><a href="../help.html#html5_video_player">Html 5 Player Problem</a>: cannot stream under school Wi-Fi.</span>
+        <span id="player_shift">
+            <br/>I can stand the 240p low resolution and the low frame rate down to 20fps, use<a onclick="bilibili()"> Bilibili Video Player</a>.
+            <br/>(我能忍受240p真心惨不忍睹的分辨率和卡成PPT的20fps帧率，使用<a onclick="bilibili()"> Bilibili视频播放器</a>.)
+        </span>
+    </p>
+    <script>
+        function bilibili(){
+            document.getElementById('video').innerHTML='<iframe src="//player.bilibili.com/player.html?aid=21641848&cid=35770165&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>';
+            document.getElementById('problem').innerHTML='<a href="../help.html#bilibili_video_player">Bilibili Player Problem</a>: can only stream in <a href="https://itunes.apple.com/cn/app/google-chrome/id535886823?l=en&mt=8" target="_blank">Google Chrome</a>.';
+            document.getElementById('player_shift').innerHTML='<br/>I cannot stand the 240p low resolution and the low frame rate down to 20fps, use<a onclick="html5()"> Html 5 Video Player</a>.\
+                <br/>(我真心忍不了240p惨不忍睹的分辨率和卡成PPT的20fps帧率，使用<a onclick="html5()"> Html5视频播放器</a>.)';
+        }
+        function html5(){
+            document.getElementById('video').innerHTML='<video src="../img/2018-art-video/ape-scene.mp4" controls="controls" preload="auto" poster="../img/2018-art-video/ape-scene.jpg"></video>';
+            document.getElementById('problem').innerHTML='<a href="../help.html#html5_video_player">Html 5 Player Problem</a>: cannot stream under school Wi-Fi.';
+            document.getElementById('player_shift').innerHTML='<br/>I can stand the 240p low resolution and the low frame rate down to 20fps, use<a onclick="bilibili()"> Bilibili Video Player</a>.\
+                <br/>(我能忍受240p真心惨不忍睹的分辨率和卡成PPT的20fps帧率，使用<a onclick="bilibili()"> Bilibili视频播放器</a>.)';
+        }
+    </script>
+
+    <div class="video_guide_nav">
+        <a href="../../index.html">Polarize</a> > <a href="../index.html">SWC</a> > <a href="../art.html#2018">Art</a> > Ape Scene (Soundtrack)
+    </div>
+</div>
+
+<div id="scroll"></div>
+<div id="footer"></div>
+<script src="../javascript/level_2.js"></script>
+</body>
+</html>

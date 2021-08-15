@@ -1,0 +1,233 @@
+body{font-family:"SF Display", serif; margin:0; background-color:black; color:white; scroll-behavior: smooth;}
+a{color:white; text-decoration:none;}
+li{list-style:none; float:left; padding:0 10px; font-size:12px;}
+h1{font-size:64px; margin:0;}
+p{font-size:25px; margin:0;}
+
+nav{z-index:1000; background-color:black; width:2000px; opacity:0.8; display:block; position:fixed; top:0; left:0; line-height:50px; border-bottom:1px solid rgb(40,40,40);}
+.nav_left_container{padding:0 0 0 20px;}
+.nav_project_title{font-size:20px; font-weight:bold;}
+.nav_right_container{position:fixed; top:0; right:80px; margin:0; padding:0;}
+.top_place_holder{height:100px;}
+.top_section_wrapper{padding:130px 0 80px 0;}
+.section_wrapper{padding:80px 0;}
+
+.intro_subtitle{display:block; margin:25px auto; width:700px; text-align:center; font-size:28px; font-weight:600;}
+.intro_title{display:block; margin:20px auto 15px auto; width:700px; text-align:center; font-size:64px;}
+.intro_text{display:block; margin:25px auto 125px auto; width:700px; text-align:center; font-size:28px; font-weight:600;}
+
+.masked_container{width:700px; margin:auto;}
+.masked_section_title{font-size:48px; font-weight:600; display:block; text-align:left;}
+.masked_section_text{font-size:48px; font-weight:600; display:block; text-align:left; color:rgba(0,0,0,0); background-clip:text!important; -webkit-background-clip:text!important;}
+.learn_more_wrapper{width:700px; margin:40px auto;}
+.learn_more_button{padding:13px 23px; height:46px; border:2px solid white; border-radius:46px; align-items:center; font-size:17px; font-weight:bold; transition:300ms background cubic-bezier(0.4, 0, 0.6, 1), color;}
+.learn_more_button:hover{background:white; color:black;}
+
+.content_container{width:700px; margin:auto;}
+.content_section_title{font-size:28px; font-weight:600; text-align:left; display:inline-block;}
+.content_section_text{font-size:28px; font-weight:600; text-align:left; display:inline-block; color:#b2b2b2;}
+
+.bottom_nav_wrapper{background:#111; padding:110px 0;}
+.bottom_nav_row{display:block; margin:auto; width:490px;}
+.bottom_nav_left_column{float:left; margin:0 10px 20px 0;}
+.bottom_nav_mid_column{float:left; margin:0 10px 20px 10px;}
+.bottom_nav_right_column{float:left; margin:0 0 20px 10px;}
+.float_clear{clear:both;}
+.bottom_nav_img_wrapper{margin:auto; width:500px;}
+.bottom_nav_img{height:150px; width:150px; background-size:100%!important; transition:300ms opacity cubic-bezier(0.4, 0, 0.6, 1);}
+.bottom_nav_img:hover{opacity:0.3!important;}
+.bottom_nav_img1{background:white url("img/bottom_nav_square_img1.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img2{background:white url("img/bottom_nav_square_img2.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img3{background:white url("img/bottom_nav_square_img3.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img4{background:white url("img/bottom_nav_square_img4.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img5{background:white url("img/bottom_nav_square_img5.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img6{background:white url("img/bottom_nav_square_img6.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img7{background:white url("img/bottom_nav_square_img7.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img8{background:white url("img/bottom_nav_square_img8.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_img9{background:white url("img/bottom_nav_square_img9.jpg") center no-repeat; opacity:0.7;}
+.bottom_nav_content_wrapper{position:absolute;}
+.bottom_nav_number{display:block; width:150px; position:absolute; top:-140px; text-align:center; font-weight:600; font-size:100px;}
+.bottom_nav_text{display:block; width:150px; position:absolute; top:-50px; text-align:center; font-weight:600; text-shadow:0 0 10px black;}
+
+.works_cited{display:block; color:rgb(102, 187, 255);}
+footer{color:rgb(70,70,70); display:block; width:700px; font-size:12px; margin:auto; padding:30px;}
+footer a{color:rgb(70,70,70); text-decoration:underline;}
+
+.kinglee_logo{display:block; margin:auto; height:200px;}
+.kinglee_way{display:block; margin:100px auto 50px auto; width:100%;}
+
+.full_background{background-size:100%!important;}
+
+.index_img0{background:url('img/index_img0.jpg') center no-repeat; height:700px;}
+.index_img1{background:url('img/index_img1.jpg') center no-repeat; height:600px;}
+.index_img2{background:url('img/index_img2.jpg') center no-repeat; height:500px;}
+.index_img3{background:url('img/index_img3.jpg') center no-repeat; height:650px;}
+.index_img4{background:url('img/index_img4.jpg') center no-repeat; height:500px;}
+.index_img5{background:url('img/index_img5.jpg') center no-repeat; height:600px;}
+.index_img6{background:url('img/index_img6.jpg') center no-repeat; height:500px;}
+.index_img7{background:url('img/index_img7.jpg') center no-repeat; height:600px;}
+.index_img8{background:url('img/index_img8.jpg') center no-repeat; height:600px;}
+
+.seventh_img1{background:url('img/seventh_img1.jpg') center no-repeat; height:500px;}
+.seventh_img2{background:url('img/seventh_img2.jpg') center no-repeat; height:500px;}
+.seventh_img3{background:url('img/seventh_img3.jpg') center no-repeat; height:500px;}
+.seventh_img4{background:url('img/seventh_img4.jpg') center no-repeat; height:600px;}
+
+.eighth_img1{background:url('img/eighth_img1.jpg') center no-repeat; height:600px;}
+.eighth_img2{background:url('img/eighth_img2.jpg') center no-repeat; height:650px;}
+.eighth_img3{background:url('img/eighth_img3.jpg') center no-repeat; height:600px;}
+
+.ninth_img1{background:url('img/ninth_img1.jpg') center no-repeat; height:600px;}
+.ninth_img2{background:url('img/ninth_img2.jpg') center no-repeat; height:600px;}
+.ninth_img3{background:url('img/ninth_img3.jpg') top    no-repeat; height:500px;}
+.ninth_img4{background:url('img/ninth_img4.jpg') center no-repeat; height:600px;}
+
+.tenth_img1{background:url('img/tenth_img1.jpg') center no-repeat; height:650px;}
+.tenth_img2{background:url('img/tenth_img2.jpg') center no-repeat; height:650px;}
+.tenth_img3{background:url('img/tenth_img3.jpg') center no-repeat; height:650px;}
+.tenth_img4{background:url('img/tenth_img4.jpg') center no-repeat; height:600px;}
+
+.eleventh_img1{background:url('img/eleventh_img1.jpg') center no-repeat; height:600px;}
+.eleventh_img2{background:url('img/eleventh_img2.jpg') bottom no-repeat; height:500px;}
+.eleventh_img3{background:url('img/eleventh_img3.jpg') center no-repeat; height:600px;}
+
+.twelfth_img1{background:url('img/twelfth_img1.jpg') center no-repeat; height:700px;}
+.twelfth_img2{background:url('img/twelfth_img2.jpg') center no-repeat; height:600px;}
+.twelfth_img3{background:url('img/twelfth_img3.jpg') center no-repeat; height:600px;}
+.twelfth_img4{background:url('img/twelfth_img4.jpg') center no-repeat; height:600px;}
+
+.organization_img1{background:url('img/organization_img1.jpg') center no-repeat; height:600px;}
+.organization_img2{background:url('img/organization_img2.jpg') center no-repeat; height:500px;}
+.organization_img3{background:url('img/organization_img3.jpg') center no-repeat; height:400px;}
+
+.academics_img1{background:url('img/academics_img1.jpg') center no-repeat; height:600px;}
+.academics_img2{background:url('img/academics_img2.jpg') center no-repeat; height:500px;}
+.academics_img3{background:url('img/academics_img3.jpg') center no-repeat; height:500px;}
+.academics_img4{background:url('img/academics_img4.jpg') center no-repeat; height:500px;}
+
+.works_img1{background:url('img/works_img1.jpg') center no-repeat; height:500px;}
+
+/*font texture*/
+.xr-texture1{background:url(img/xr-texture1.jpg) repeat;}
+.xr-texture2{background:url(img/xr-texture2.jpg) repeat;}
+.xr-texture3{background:url(img/xr-texture3.jpg) repeat;}
+.xr-texture4{background:url(img/xr-texture4.jpg) repeat;}
+.xr-texture5{background:url(img/xr-texture5.jpg) repeat;}
+.xr-texture6{background:url(img/xr-texture6.jpg) repeat;}
+.xs-texture1{background:url(img/xs-texture1.jpg) repeat;}
+.xs-texture2{background:url(img/xs-texture2.jpg) repeat;}
+.xs-texture3{background:url(img/xs-texture3.jpg) repeat;}
+.xs-texture4{background:url(img/xs-texture4.jpg) repeat;}
+.xs-texture5{background:url(img/xs-texture5.jpg) repeat;}
+.xs-texture6{background:url(img/xs-texture6.jpg) repeat;}
+.xs-texture6{background:url(img/xs-texture7.jpg) repeat;}
+
+@font-face
+{
+    font-family: "SF Display";
+    font-weight: bold;
+    src: url('../font/SF-UI-Display-Semibold.otf');
+}
+@font-face
+{
+    font-family: "SF Display";
+    font-weight: normal;
+    src: url('../font/sf-pro-display_regular.woff2');
+}
+
+/*iPhone SE Portrait*/
+@media screen and (min-width:300px) and (max-width:450px){
+    nav{line-height:40px;}
+    .nav_project_title{font-size:20px;}
+    .nav_right_container{display:none;}
+    .top_place_holder{height:60px;}
+    .top_section_wrapper{padding:80px 0 50px 0;}
+    .section_wrapper{padding:60px 0;}
+
+    .intro_subtitle{margin:25px auto; width:280px; font-size:24px;}
+    .intro_title{margin:20px auto 15px auto; width:280px; font-size:40px;}
+    .intro_text{margin:25px auto 50px auto; width:280px; font-size:24px;}
+
+    .masked_container{width:280px; margin:0 auto;}
+    .masked_section_title{font-size:28px;}
+    .masked_section_text{font-size:28px;}
+    .learn_more_wrapper{width:280px;}
+
+    .content_container{width:280px; margin:0 auto;}
+    .content_section_title{font-size:20px;}
+    .content_section_text{font-size:20px;}
+
+    .bottom_nav_wrapper{padding:70px 0;}
+    .bottom_nav_row{width:280px;}
+    .bottom_nav_left_column{float:none; margin:15px auto; display:block;}
+    .bottom_nav_mid_column{float:none; margin:15px auto; display:block;}
+    .bottom_nav_right_column{float:none; margin:15px auto; display:block;}
+    .bottom_nav_img_wrapper{margin:auto; width:280px;}
+    .bottom_nav_img{width:280px;}
+    .bottom_nav_img1{background:white url("img/bottom_nav_rect_img1.jpg") center no-repeat;}
+    .bottom_nav_img2{background:white url("img/bottom_nav_rect_img2.jpg") center no-repeat;}
+    .bottom_nav_img3{background:white url("img/bottom_nav_rect_img3.jpg") center no-repeat;}
+    .bottom_nav_img4{background:white url("img/bottom_nav_rect_img4.jpg") center no-repeat;}
+    .bottom_nav_img5{background:white url("img/bottom_nav_rect_img5.jpg") center no-repeat;}
+    .bottom_nav_img6{background:white url("img/bottom_nav_rect_img6.jpg") center no-repeat;}
+    .bottom_nav_img7{background:white url("img/bottom_nav_rect_img7.jpg") center no-repeat;}
+    .bottom_nav_img8{background:white url("img/bottom_nav_rect_img8.jpg") center no-repeat;}
+    .bottom_nav_img9{background:white url("img/bottom_nav_rect_img9.jpg") center no-repeat;}
+    .bottom_nav_number{width:280px;;}
+    .bottom_nav_text{width:280px;}
+
+    footer{width:280px; padding:20px; font-size:10px;}
+
+    .theme_text{font-size:60px; width:280px; margin:0 auto 20px auto;}
+    .kinglee_logo{height:100px;}
+    .kinglee_way{margin:50px auto; height:200px;}
+
+    .index_img0{height:200px;}
+    .index_img1{height:200px;}
+    .index_img2{height:200px;}
+    .index_img3{height:200px;}
+    .index_img4{height:200px;}
+    .index_img5{height:200px;}
+    .index_img6{height:200px;}
+    .index_img7{height:200px;}
+    .index_img8{height:200px;}
+
+    .seventh_img1{height:200px;}
+    .seventh_img2{height:200px;}
+    .seventh_img3{height:200px;}
+    .seventh_img4{height:200px;}
+
+    .eighth_img1{height:200px;}
+    .eighth_img2{height:200px;}
+    .eighth_img3{height:200px;}
+
+    .ninth_img1{height:200px;}
+    .ninth_img2{height:200px;}
+    .ninth_img3{height:200px;}
+    .ninth_img4{height:200px;}
+
+    .tenth_img1{height:200px;}
+    .tenth_img2{height:200px;}
+    .tenth_img3{height:200px;}
+    .tenth_img4{height:200px;}
+
+    .eleventh_img1{height:200px;}
+    .eleventh_img2{height:200px;}
+    .eleventh_img3{height:200px;}
+
+    .twelfth_img1{height:200px;}
+    .twelfth_img2{height:200px;}
+    .twelfth_img3{height:200px;}
+    .twelfth_img4{height:200px;}
+
+    .organization_img1{height:200px;}
+    .organization_img2{height:200px;}
+    .organization_img3{height:200px;}
+
+    .academics_img1{height:200px;}
+    .academics_img2{height:200px;}
+    .academics_img3{height:200px;}
+    .academics_img4{height:200px;}
+
+    .works_img1{height:200px;}
+}
