@@ -16,3 +16,9 @@ div.home {
     max-width: 1200px !important;
     width: 100%;
 }
+
+@media screen and (max-width: 600px) {
+    .home-row {
+        display: block;
+    }
+}
