@@ -1,0 +1,18 @@
+# hugo local builds
+/public/
+
+# research pages - wait until have a lab
+/content/research
+/static/research-images
+
+# publication pages - wait until have publications
+/content/publications
+/static/publication-images
+/static/publication-pdf
+
+# members pages - wait until have a lab
+/content/members
+/static/member-images
+
+# contact page - wait until have a lab
+/content/contact
