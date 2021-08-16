@@ -13,9 +13,9 @@ lightgallery: true
 
 |Description|Equations|
 |-:|:-|
-|Units of force|$\begin{aligned}1 \ \mathrm{N} &= 1 \ \mathrm{kg \cdot m/s^2} \\\ 1 \ \mathrm{lb_f} &= 32.174 \ \mathrm{lb_m \cdot ft/s^2}\end{aligned}$|
+|Units of force|$\begin{aligned}1 \ \mathrm{N} &= 1 \ \mathrm{kg \cdot m/s^2} \cr 1 \ \mathrm{lb_f} &= 32.174 \ \mathrm{lb_m \cdot ft/s^2}\end{aligned}$|
 |Weight|$W = mg$|
-|Gravitational acceleration|$\begin{aligned}g &= 9.8066 \ \mathrm{m/s^2} \\\ &= 32.174 \ \mathrm{ft/s^2}\end{aligned}$|
+|Gravitational acceleration|$\begin{aligned}g &= 9.8066 \ \mathrm{m/s^2} \cr &= 32.174 \ \mathrm{ft/s^2}\end{aligned}$|
 
 ### Mass, volume and flow rate
 
@@ -84,10 +84,10 @@ lightgallery: true
 
 |Description|Equations|
 |-:|:-|
-|Nonreactive process|$\small\begin{aligned} & \text{No. unknown variables} \\\ - & \text{No. independent material balance species} \\\ - & \text{No. other relations (process specifications)} \\\ \hline & \text{No. degrees of freedom}\end{aligned}$|
-|Reactive process <br/> Molecular species balance method <br/> 1 reaction system|$\small\begin{aligned} & \text{No. unknown variables} \\\ + & \text{No. independent reaction} \\\ - & \text{No. independent molecular species} \\\ - & \text{No. other relations} \\\ \hline & \text{No. degrees of freedom}\end{aligned}$|
-|Reactive process <br/> Atomic species balance method <br/> >1 reaction system|$\small\begin{aligned} & \text{No. unknown variables} \\\ - & \text{No. independent reactive atomic species} \\\ - & \text{No. independent nonreactive molecular species} \\\ - & \text{No. other relations} \\\ \hline & \text{No. degrees of freedom}\end{aligned}$|
-|Reactive process <br/> Extent of reaction method <br/> equilibrium problem|$\small\begin{aligned} & \text{No. unknown variables} \\\ + & \text{No. independent reaction} \\\ - & \text{No. independent reactive species} \\\ - & \text{No. independent nonreactive species} \\\ - & \text{No. other relations} \\\ \hline & \text{No. degrees of freedom}\end{aligned}$|
+|Nonreactive process|$\small\begin{aligned} & \text{No. unknown variables} \cr - & \text{No. independent material balance species} \cr - & \text{No. other relations (process specifications)} \cr \hline & \text{No. degrees of freedom}\end{aligned}$|
+|Reactive process <br/> Molecular species balance method <br/> 1 reaction system|$\small\begin{aligned} & \text{No. unknown variables} \cr + & \text{No. independent reaction} \cr - & \text{No. independent molecular species} \cr - & \text{No. other relations} \cr \hline & \text{No. degrees of freedom}\end{aligned}$|
+|Reactive process <br/> Atomic species balance method <br/> >1 reaction system|$\small\begin{aligned} & \text{No. unknown variables} \cr - & \text{No. independent reactive atomic species} \cr - & \text{No. independent nonreactive molecular species} \cr - & \text{No. other relations} \cr \hline & \text{No. degrees of freedom}\end{aligned}$|
+|Reactive process <br/> Extent of reaction method <br/> equilibrium problem|$\small\begin{aligned} & \text{No. unknown variables} \cr + & \text{No. independent reaction} \cr - & \text{No. independent reactive species} \cr - & \text{No. independent nonreactive species} \cr - & \text{No. other relations} \cr \hline & \text{No. degrees of freedom}\end{aligned}$|
 
 ## Single-Phase System
 
@@ -109,7 +109,7 @@ lightgallery: true
 |**Ideal gas equation of state** <br/> ★ $\footnotesize T > 0\mathrm{^\circ C}, P < 1 \ \mathrm{atm}$|$PV = nRT \newline P\hat{V} = RT$|
 |Standard conditions and actual conditions|$\dfrac{PV}{P_{\text{s}}\hat{V_{\text{s}}}} = n\dfrac{T}{T_{\text{s}}}$|
 |SCFM vs. ACFM <br/> ★ Ideal gas|$\dot{V_{\text{a}}} = \dot{V_{\text{s}}}\dfrac{P_{\text{s}}}{P_{\text{a}}} \dfrac{T_{\text{a}}}{T_{\text{s}}}$|
-|Ideal gas condition|$T > 0 \mathrm{^\circ C} \newline P < 1 \ \mathrm{atm} \newline \footnotesize\hat{V}_{\text{ideal}} = \dfrac{RT}{P} \newline \begin{cases} >5 \ \mathrm{L/mol}, 80 \ \mathrm{ft^3/lbmol} & \text{diatomic} \\\ >20 \ \mathrm{L/mol}, 320 \ \mathrm{ft^3/lbmol} & \text{other} \end{cases}$|
+|Ideal gas condition|$T > 0 \mathrm{^\circ C} \newline P < 1 \ \mathrm{atm} \newline \footnotesize\hat{V}_{\text{ideal}} = \dfrac{RT}{P} \newline \begin{cases} >5 \ \mathrm{L/mol}, 80 \ \mathrm{ft^3/lbmol} & \text{diatomic} \cr >20 \ \mathrm{L/mol}, 320 \ \mathrm{ft^3/lbmol} & \text{other} \end{cases}$|
 
 ### Ideal gas of multiple components
 
@@ -225,7 +225,7 @@ lightgallery: true
 |**Raoult's law** <br/> ★ Ideal gas and solution, non-dilute $x_A$|$P_A = y_AP = x_AP_A^*(T)$|
 |**Henry's law** <br/> ★ Ideal gas and solution, dilute $x_A$|$P_A = y_AP = x_AH_A(T)$|
 |VLE of real gases <br/> $\varphi$ - fugacity coefficient <br/> $\gamma$ - activity coefficient|$y_i\varphi_i P = x_i\gamma_i P^*$|
-|Partition coefficient of ideal gas (Raoult's law) <br/> ★ Ideal gas: $\footnotesize\varphi = 1, \gamma = 1$|$K_i = \dfrac{y_i}{x_i} = \dfrac{\gamma_iP_i^*}{\varphi_iP} = \dfrac{P_i^*}{P}$|
+|Partition coefficient of ideal gas (Raoult's law) <br/> ★ Ideal gas: $\footnotesize\varphi = 1, \gamma = 1$|$K_i = \dfrac{y_i}{x_i} = \dfrac{\gamma_i P_{i}^{*}}{\varphi_i P} = \dfrac{P_{i}^{*}}{P}$|
 |Partition coefficient of ideal gas (Henry's law) <br/> ★ Ideal gas, Henry's law assumptions|$K_i = \dfrac{H_i}{P}$|
 
 ### Saturation and humidity
@@ -271,7 +271,7 @@ lightgallery: true
 
 |Description|Equations|
 |-:|:-|
-|Work|$\dot{W} = \dot{W}_s + \dot{W}_{fl}$|
+|Work|$\dot{W} = \dot{W}\_s + \dot{W}\_{fl}$|
 |Enthalpy|$H = U+PV$|
 |Specific properties|$\hat{V} = \frac{V}{m}, \hat{V} = \frac{V}{n}$|
 |Open system balance|$\Delta \dot{H} + \Delta \dot{E}_k + \Delta \dot{E}_p = \dot{Q} + \dot{W}_s$|
@@ -289,8 +289,8 @@ lightgallery: true
 
 |Description|Equations|
 |-:|:-|
-|Internal energy|$\Delta U = \begin{cases} = 0 & \text{(ideal gas)} \\\ \approx 0 & \text{(real gas) }P<10 \ \mathrm{bar} \\\ \not= 0 & \text{(real gas) }P>10 \ \mathrm{bar} \\\ \approx 0 & \text{(condensed phases)} \end{cases}$|
-|Enthalpy|$\Delta H = \begin{cases} = 0 & \text{(ideal gas)} \\\ \approx 0 & \text{(real gas) }P<10 \ \mathrm{bar} \\\ \not= 0 & \text{(real gas) }P>10 \ \mathrm{bar} \\\ \approx \hat{V}\Delta P & \text{(condensed phases)} \end{cases}$|
+|Internal energy|$\Delta U = \begin{cases} = 0 & \text{(ideal gas)} \cr \approx 0 & \text{(real gas) }P<10 \ \mathrm{bar} \cr \not= 0 & \text{(real gas) }P>10 \ \mathrm{bar} \cr \approx 0 & \text{(condensed phases)} \end{cases}$|
+|Enthalpy|$\Delta H = \begin{cases} = 0 & \text{(ideal gas)} \cr \approx 0 & \text{(real gas) }P<10 \ \mathrm{bar} \cr \not= 0 & \text{(real gas) }P>10 \ \mathrm{bar} \cr \approx \hat{V}\Delta P & \text{(condensed phases)} \end{cases}$|
 
 ### Non-isothermal process
 

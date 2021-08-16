@@ -91,6 +91,12 @@ theme = "LoveIt"
     enable = true
     copyTex = true
     mhchem = true
+    # default block delimiter is $$ ... $$ and \\[ ... \\]
+    blockLeftDelimiter = "$$"
+    blockRightDelimiter = "$$"
+    # default inline delimiter is $ ... $ and \\( ... \\)
+    inlineLeftDelimiter = "$"
+    inlineRightDelimiter = "$"
   [params.page.toc]
     enable = true
     auto = true
