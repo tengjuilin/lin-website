@@ -31,3 +31,14 @@ td {
     border-left: none !important;
     border-right: none !important;
 }
+
+@media print {
+    .page {
+        width: 100%;
+    }
+
+    header, .post-nav, .post-footer {
+        display: none !important;
+    }
+
+}
