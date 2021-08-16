@@ -102,10 +102,13 @@ main article div.content p {
 }
 // ========== Home page headers ========== //
 
+// ========== Disable animations ========== //
 .pulse {
     animation-name: none !important;
 }
+// ========== Disable animations ========== //
 
+// ========== Publication page ========== //
 header {
     box-shadow: 0 0 1rem 0 rgba(0,0,0,0.1);
     background-color: #ECEFF1 !important;
@@ -127,3 +130,44 @@ header {
 .article-title {
     margin: 0 0 1rem 0;
 }
+// ========== Publication page ========== //
+
+// ========== Site tables ========== //
+table {
+    margin: 0 auto 2em auto;
+}
+
+td {
+    width: 400px;
+}
+
+thead {
+    background-color: transparent !important;
+}
+
+th {
+    border-bottom: 1px solid black !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+td {
+    border-bottom: 1px solid lightgray !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+// ========== Site tables ========== //
+
+// ========== Site printing ========== //
+@media print {
+    article {
+        width: 100% !important;
+    }
+
+    header, .post-nav, .post-footer {
+        display: none !important;
+    }
+}
+// ========== Site printing ========== //
