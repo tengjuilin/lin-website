@@ -375,7 +375,7 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
 
 - Inverse of a square matrix - $A^{-1}$ thats satisfies $AA^{-1} = A^{-1}A = I_n$
 - Finding matrix inverse
-  - $A = \begin{bmatrix} a & b \\\ c & d \end{bmatrix}, A^{-1} = \dfrac{1}{ad-bc} \begin{bmatrix} d & -b \\\ -c & a \end{bmatrix}$
+  - $A = \begin{bmatrix} a & b \cr c & d \end{bmatrix}, A^{-1} = \dfrac{1}{ad-bc} \begin{bmatrix} d & -b \cr -c & a \end{bmatrix}$
 - Solving systems of equations using inverse
   - $A\mathbf{x} = \mathbf{b}$
   - $\mathbf{x} = A^{-1}\mathbf{b}$
@@ -383,8 +383,8 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
 #### Matrix determinant
 
 - Finding matrix determinant
-  - $A = \begin{bmatrix} a & b \\\ c & d \end{bmatrix}, \det(A) = ad-bc$
-  - $A = \begin{bmatrix} a & b & c \\\ d & e & f \\\ g & h & i \end{bmatrix}, \det(A) = a\begin{vmatrix} e & f \\\ h & i \end{vmatrix} - b\begin{vmatrix} d & f \\\ g & i \end{vmatrix} + c\begin{vmatrix} d & e \\\ g & h \end{vmatrix}$
+  - $A = \begin{bmatrix} a & b \cr c & d \end{bmatrix}, \det(A) = ad-bc$
+  - $A = \begin{bmatrix} a & b & c \cr d & e & f \cr g & h & i \end{bmatrix}, \det(A) = a\begin{vmatrix} e & f \cr h & i \end{vmatrix} - b\begin{vmatrix} d & f \cr g & i \end{vmatrix} + c\begin{vmatrix} d & e \cr g & h \end{vmatrix}$
 - Singular matrix - matrix with a determinant of 0
 - Equivalent statements
   - $\det(A)=0$
@@ -421,8 +421,8 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
 
 #### Linear system of ODEs
 
-- $\begin{cases} y_1' = a_{11}y_1 + a_{12}y_2 + ... + a_{1n}y_{n} + b_1 \\\ y_2' = a_{21}y_1 + a_{22}y_2 + ... + a_{2n}y_{n} + b_2 \\\ \vdots \\\ y_n' = a_{n1}y_1 + a_{n2}y_2 + ... + a_{nn}y_{n} + b_n \end{cases} \Rightarrow \boxed{\mathbf{y}' = A\mathbf{y} + \mathbf{b}}$
-  - where $\mathbf{y} = \begin{bmatrix} y_1 \\\ y_2 \\\ \vdots \\\ y_n \end{bmatrix}, \mathbf{y}' = \begin{bmatrix} y_1' \\\ y_2' \\\ \vdots \\\ y_n' \end{bmatrix}, \mathbf{b} = \begin{bmatrix} b_1 \\\ b_2 \\\ \vdots \\\ b_n \end{bmatrix}, A = \begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\\ a_{21} & a_{22} & \cdots & a_{2n} \\\ \vdots & \vdots & \ddots & \vdots \\\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{bmatrix}$
+- $\begin{cases} y_1' = a_{11}y_1 + a_{12}y_2 + ... + a_{1n}y_{n} + b_1 \cr y_2' = a_{21}y_1 + a_{22}y_2 + ... + a_{2n}y_{n} + b_2 \cr \vdots \cr y_n' = a_{n1}y_1 + a_{n2}y_2 + ... + a_{nn}y_{n} + b_n \end{cases} \Rightarrow \boxed{\mathbf{y}' = A\mathbf{y} + \mathbf{b}}$
+  - where $\mathbf{y} = \begin{bmatrix} y_1 \cr y_2 \cr \vdots \cr y_n \end{bmatrix}, \mathbf{y}' = \begin{bmatrix} y_1' \cr y_2' \cr \vdots \cr y_n' \end{bmatrix}, \mathbf{b} = \begin{bmatrix} b_1 \cr b_2 \cr \vdots \cr b_n \end{bmatrix}, A = \begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \cr a_{21} & a_{22} & \cdots & a_{2n} \cr \vdots & \vdots & \ddots & \vdots \cr a_{n1} & a_{n2} & \cdots & a_{nn} \end{bmatrix}$
 - Homogeneous - $\mathbf{b} = \mathbf{0}$
 - Nonhomogeneous - $\mathbf{b} \not= \mathbf{0}$
 - Superposition principle
@@ -471,7 +471,7 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
 
 - Laplace transform - $\mathcal{L}\{f(t)\} = F(s) = \displaystyle\int_{0}^{\infin} e^{-st}f(t) \ dt$
 - Heaviside function (unit step function)
-  - $u_c(t) = u(t-c) = \begin{cases} 0 & t < c \\\ 1 & t \ge c \end{cases}$
+  - $u_c(t) = u(t-c) = \begin{cases} 0 & t < c \cr 1 & t \ge c \end{cases}$
 
 ### Properties of Laplace transform
 

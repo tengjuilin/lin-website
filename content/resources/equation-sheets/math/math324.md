@@ -36,7 +36,7 @@ layout: single
 |Description|Equations|
 |-:|:-|
 |Transformation of two variables|$T(u, v) = (x(u, v), y(u, v))$|
-|Jacobian of transformation of two variables|$\dfrac{\partial (x, y)}{\partial (u, v)} = \begin{vmatrix}\dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \\\ \\\ \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{vmatrix}$|
+|Jacobian of transformation of two variables|$\dfrac{\partial (x, y)}{\partial (u, v)} = \begin{vmatrix}\dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \cr \cr \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{vmatrix}$|
 |Change of variables for differentials|$dA = dx dy = \bigg\lvert \dfrac{\partial (x, y)}{\partial (u, v)} \bigg\rvert \ du \ dv$|
 |Change of variables for double integrals|$\iint\limits_{R} f(x, y) dA \newline = \iint\limits_{S} f(x(u, v), y(u, v)) \ \bigg\lvert \dfrac{\partial (x, y)}{\partial (u, v)} \bigg\rvert \ du \ dv$|
 
@@ -74,7 +74,7 @@ layout: single
 |-:|:-|
 |Transformation to cylindrical coordinates|$x = r\cos\theta \newline y = r\sin\theta \newline z = z \newline x^{2} + y^{2} = r^{2} \newline dV = r \ dz \ dr \ d\theta$|
 |Range of cylindrical coordinates|$r \in [0, \infty) \newline \theta \in [0, 2\pi] \newline z \in [0, \infty)$|
-|Triple integrals in general cylindrical region <br/> $E = r \times \theta \times z = \\\ [\alpha, \beta]\times[h_{1}(\theta), h_{2}(\theta)] \times [u_{1}(x, y), u_{2}(x, y)]$|$\iiint\limits_{E} f(x, y, z) \ dV = \newline \int_{\alpha}^{\beta} \int_{h_{1}(\theta)}^{h_{2}(\theta)} \int_{u_{1}(r\cos\theta, r\sin\theta)}^{u_{2}(r\cos\theta, r\sin\theta)}... \newline ... f(r\cos\theta, r\sin\theta, z) \ r \ dz \ dr \ d\theta$|
+|Triple integrals in general cylindrical region <br/> $E = r \times \theta \times z = \newline$ $[\alpha, \beta]\times[h_{1}(\theta), h_{2}(\theta)] \times [u_{1}(x, y), u_{2}(x, y)]$|$\iiint\limits_{E} f(x, y, z) \ dV = \newline \int_{\alpha}^{\beta} \int_{h_{1}(\theta)}^{h_{2}(\theta)} \int_{u_{1}(r\cos\theta, r\sin\theta)}^{u_{2}(r\cos\theta, r\sin\theta)}... \newline ... f(r\cos\theta, r\sin\theta, z) \ r \ dz \ dr \ d\theta$|
 
 ### Triple integrals in spherical coordinates
 
@@ -82,14 +82,14 @@ layout: single
 |-:|:-|
 |Transformation to spherical coordinates|$(r = \rho \ \sin\phi) \newline x = \rho\sin\phi\cos\theta \newline y = \rho\sin\phi\sin\theta \newline z = \rho\cos\phi \newline \rho^{2} = x^{2} + y^{2} + z^{2} \newline dV = \rho^{2} \ \sin\phi \ d\rho \ d\theta \ d\phi$|
 |Range of spherical coordinates|$\rho \in [0, \infty) \newline \theta \in [0, 2\pi] \newline \phi \in [0, \pi]$|
-|Triple integrals in general spherical region <br/> $E = \theta \times \phi \times \rho = \\\ [\alpha, \beta] \times [c, d] \times [g_{1}(\theta, \phi), g_{2}(\theta, \phi)]$|$\iiint\limits_{E} f(x, y, z) dV = \newline \int_{c}^{d} \int_{\alpha}^{\beta} \int_{g_{1}(\theta, \phi)}^{g_{2}(\theta, \phi)} ... \newline ... f(\rho\sin\phi\cos\theta, \rho\sin\phi\sin\theta, \rho\cos\phi) ... \newline ... \rho^{2} \ \sin\phi \ d\rho \ d\theta \ d\phi$|
+|Triple integrals in general spherical region <br/> $E = \theta \times \phi \times \rho = \newline$ $[\alpha, \beta] \times [c, d] \times [g_{1}(\theta, \phi), g_{2}(\theta, \phi)]$|$\iiint\limits_{E} f(x, y, z) dV = \newline \int_{c}^{d} \int_{\alpha}^{\beta} \int_{g_{1}(\theta, \phi)}^{g_{2}(\theta, \phi)} ... \newline ... f(\rho\sin\phi\cos\theta, \rho\sin\phi\sin\theta, \rho\cos\phi) ... \newline ... \rho^{2} \ \sin\phi \ d\rho \ d\theta \ d\phi$|
 
 ### Change of variables for triple integrals
 
 |Description|Equations|
 |-:|:-|
 |Transformation of three variables|$T(u, v, w) = (x(u, v, w), y(u, v, w), z(u, v, w))$|
-|Jacobian of transformation of three variables|$\dfrac{\partial (x, y, z)}{\partial (u, v, w)} = \begin{vmatrix}\dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} & \dfrac{\partial x}{\partial w} \\\ \\\ \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v} & \dfrac{\partial y}{\partial w} \\\ \\\ \dfrac{\partial z}{\partial u} & \dfrac{\partial z}{\partial v} & \dfrac{\partial z}{\partial w} \end{vmatrix}$|
+|Jacobian of transformation of three variables|$\dfrac{\partial (x, y, z)}{\partial (u, v, w)} = \begin{vmatrix}\dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} & \dfrac{\partial x}{\partial w} \cr \cr \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v} & \dfrac{\partial y}{\partial w} \cr \cr \dfrac{\partial z}{\partial u} & \dfrac{\partial z}{\partial v} & \dfrac{\partial z}{\partial w} \end{vmatrix}$|
 |Change of variables for differentials|$dV = dx \ dy \ dz = \bigg\lvert \dfrac{\partial (x, y, z)}{\partial (u, v, w)} \bigg\rvert \ du \ dv \ dw$|
 |Change of variables for triple integrals|$\iiint\limits_{R} f(x, y, z) dV \newline = \iiint\limits_{S} f(x(u, v, w), y(u, v, w), z(u, v, w)) ... \newline ... \bigg\lvert \dfrac{\partial (x, y, z)}{\partial (u, v, w)} \bigg\rvert \ du \ dv \ dw$|
 
@@ -181,7 +181,7 @@ layout: single
 - Fundamental theorem of line integral (FTL) is always true (with assumptions).
 - Other statements are not true for general $\mathbf{F} = \langle P, Q \rangle$
   - They have to be verified for each given $\mathbf{F}$ or derived from theorems.
-$$\begin{aligned} \mathrm{curl}\ \mathbf{F} &= \mathbf{0} &\color{gray}\footnotesize\text{(checking 3D conservative field)} \\\ \dfrac{\partial P}{\partial y} &= \dfrac{\partial Q}{\partial x} &\color{gray}\footnotesize\text{(checking 2D conservative field)} \\\ & \color{blue}\upharpoonleft\downharpoonright \footnotesize\text{open, simply-connected }D \\\ \mathbf{F} &= \nabla f &\color{gray}\footnotesize\text{(def. of conservative field)} \\\ \textstyle\int_{C} \nabla f \cdot d\mathbf{r} & = f(\mathbf{r}(b)) - f(\mathbf{r}(a)) &\color{gray}\footnotesize\text{(FTL)} \\\ \color{blue}\footnotesize\text{open, connected }D & \color{blue}\upharpoonleft\downharpoonright \\\ \textstyle\int_{C_{1}} \mathbf{F} \cdot d\mathbf{r} &= \textstyle\int_{C_{2}} \mathbf{F} \cdot d\mathbf{r} &\color{gray}\footnotesize\text{(path independence)} \\\ & \color{blue}\upharpoonleft\downharpoonright \\\ \textstyle\int_{C} \mathbf{F} &\cdot d\mathbf{r} = 0 \footnotesize\text{ on a closed path} &\color{gray}\footnotesize\text{(closed path)} \end{aligned}$$
+$$\begin{aligned} \mathrm{curl}\ \mathbf{F} &= \mathbf{0} &\color{gray}\footnotesize\text{(checking 3D conservative field)} \cr \dfrac{\partial P}{\partial y} &= \dfrac{\partial Q}{\partial x} &\color{gray}\footnotesize\text{(checking 2D conservative field)} \cr & \color{blue}\upharpoonleft\downharpoonright \footnotesize\text{open, simply-connected }D \cr \mathbf{F} &= \nabla f &\color{gray}\footnotesize\text{(def. of conservative field)} \cr \textstyle\int_{C} \nabla f \cdot d\mathbf{r} & = f(\mathbf{r}(b)) - f(\mathbf{r}(a)) &\color{gray}\footnotesize\text{(FTL)} \cr \color{blue}\footnotesize\text{open, connected }D & \color{blue}\upharpoonleft\downharpoonright \cr \textstyle\int_{C_{1}} \mathbf{F} \cdot d\mathbf{r} &= \textstyle\int_{C_{2}} \mathbf{F} \cdot d\mathbf{r} &\color{gray}\footnotesize\text{(path independence)} \cr & \color{blue}\upharpoonleft\downharpoonright \cr \textstyle\int_{C} \mathbf{F} &\cdot d\mathbf{r} = 0 \footnotesize\text{ on a closed path} &\color{gray}\footnotesize\text{(closed path)} \end{aligned}$$
 
 ### Curl and divergence
 

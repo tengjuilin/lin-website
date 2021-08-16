@@ -38,7 +38,7 @@ layout: single
 |-:|:-|
 |Electric flux of a uniform electric field|$\Phi_{E} = \vec{E} \cdot \vec{A}$|
 |Electric flux of a nonuniform electric field|$\Phi_{E} = \displaystyle\int \vec{E} \cdot d\vec{A} = \displaystyle\int E \cos\theta \ dA$|
-|**Gauss's law** <br/> Electric flux through a closed surface|$\begin{aligned}\Phi_{E} &= \displaystyle\oint \vec{E} \cdot d\vec{A} \\\ &= \displaystyle\oint E \cos\theta \ dA = \dfrac{Q}{\varepsilon_{0}}\end{aligned}$|
+|**Gauss's law** <br/> Electric flux through a closed surface|$\begin{aligned}\Phi_{E} &= \displaystyle\oint \vec{E} \cdot d\vec{A} \cr &= \displaystyle\oint E \cos\theta \ dA = \dfrac{Q}{\varepsilon_{0}}\end{aligned}$|
 
 ### Electric field of uniform *spherical* charge distributions
 
@@ -93,7 +93,7 @@ layout: single
 |Potential difference between terminals of battery|$V_{\mathrm{batt}} = V_{-+} = V_{+} - V_{-}$|
 |Potential difference and work, potential energy difference|$V_{ab} = \dfrac{\Delta U}{q_{0}} = -\dfrac{W_{a \to b}}{q_{0}}$|
 |Potential difference and electric field|$V_{ab} = -\displaystyle\int_{a}^{b} \vec{E} \cdot d\vec{l} = -\displaystyle\int E \cos\theta \ dl$|
-|Electric field and potential gradient|$\begin{aligned}\vec{E} &= -\vec{\nabla}V \\\ &= \left<-\dfrac{\partial V}{\partial x}, -\dfrac{\partial V}{\partial y}, -\dfrac{\partial V}{\partial z} \right>\end{aligned}$|
+|Electric field and potential gradient|$\begin{aligned}\vec{E} &= -\vec{\nabla}V \cr &= \left<-\dfrac{\partial V}{\partial x}, -\dfrac{\partial V}{\partial y}, -\dfrac{\partial V}{\partial z} \right>\end{aligned}$|
 
 ## Capacitance and Dielectrics
 
@@ -164,7 +164,7 @@ layout: single
 |Description|Equations|
 |-:|:-|
 |Time constant|$\tau = RC$|
-|Charge when charging capacitors|$\begin{aligned}q(t) &= C\mathcal{E} (1-e^{-t/RC}) \\\ &= Q_{f}(1-e^{-t/RC})\end{aligned}$|
+|Charge when charging capacitors|$\begin{aligned}q(t) &= C\mathcal{E} (1-e^{-t/RC}) \cr &= Q_{f}(1-e^{-t/RC})\end{aligned}$|
 |Current when charging capacitors|$i(t) = \dfrac{\mathcal{E}}{R}e^{-t/RC} = I_{0}e^{-t/RC}$|
 |Charge when discharging capacitors|$q(t) = Q_{0} e^{-t/RC}$|
 |Current when discharging capacitors|$i(t) = -\dfrac{Q_{0}}{RC}e^{-t/RC} = I_{0}e^{-t/RC}$|
@@ -175,7 +175,7 @@ layout: single
 
 |Quantity|Unit|Definition|
 |---:|:-:|:---|
-|Magnetic force|$\mathrm{N}$|$\begin{aligned}\vec{F} &= q\vec{v}\times\vec{B} \\\ &= \lvert q \rvert v B \sin\theta\end{aligned}$|
+|Magnetic force|$\mathrm{N}$|$\begin{aligned}\vec{F} &= q\vec{v}\times\vec{B} \cr &= \lvert q \rvert v B \sin\theta\end{aligned}$|
 |Magnetic flux through a surface|$\mathrm{Wb} \newline (\mathrm{T\cdot m^{2}})$|$\Phi_{B} = \displaystyle\int \vec{B}\cdot d\vec{A}$|
 |Magnetic dipole moment <br/> (direction from S to N)|$\mathrm{A\cdot m^{2}} \newline \mathrm{J/T}$|$\vec{\mu} = I\vec{A}$|
 
@@ -259,7 +259,7 @@ layout: single
 |Motional emf|$\mathcal{E} = \displaystyle\oint (\vec{v}\times\vec{B})\cdot d\vec{l} \newline \mathcal{E}= vBl$|
 |Faraday's law for stationary integration path <br/> (Induced electric field and magnetic flux)|$\displaystyle\oint\vec{E}\cdot d\vec{l} = -\dfrac{d\Phi_{B}}{dt}$|
 |Inductance of a solenoid|$L = \dfrac{\mu_{0}N^{2}A}{l}$|
-|Inductance as amount of change in current associated with change in magnetic flux|$\begin{aligned}\mathcal{E} &= -L\dfrac{di}{dt} \\\ \dfrac{d\Phi_{B}}{dt} &= L\dfrac{di}{dt}\end{aligned}$|
+|Inductance as amount of change in current associated with change in magnetic flux|$\begin{aligned}\mathcal{E} &= -L\dfrac{di}{dt} \cr \dfrac{d\Phi_{B}}{dt} &= L\dfrac{di}{dt}\end{aligned}$|
 |Magnetic potential energy|$U = \dfrac{1}{2}LI^{2}$|
 |Magnetic energy density|$u = \dfrac{1}{2}\dfrac{B^{2}}{\mu_{0}}$|
 
@@ -269,7 +269,7 @@ layout: single
 |-:|:-|
 |Conduction current|$i_{C} = \dfrac{dq}{dt} = \varepsilon_{0}\dfrac{d\Phi_{E}}{dt}$|
 |Displacement current|$i_{D} = \varepsilon_{0}\dfrac{d\Phi_{E}}{dt}$|
-|**Maxwell-Ampere's law**|$\begin{aligned}\displaystyle\oint\vec{B}\cdot d\vec{l} &= \mu_{0}(i_{C}+i_{D}) \\\ &= \mu_{0}i_{C} + \mu_{0}\varepsilon_{0}\dfrac{d\Phi_{E}}{dt}\end{aligned}$|
+|**Maxwell-Ampere's law**|$\begin{aligned}\displaystyle\oint\vec{B}\cdot d\vec{l} &= \mu_{0}(i_{C}+i_{D}) \cr &= \mu_{0}i_{C} + \mu_{0}\varepsilon_{0}\dfrac{d\Phi_{E}}{dt}\end{aligned}$|
 |Magnetic field inside a circular capacitor|$B=\dfrac{\mu_{0}Ir}{2\pi R^{2}} \ (r<R) \newline B=\dfrac{\mu_{0}I}{2\pi R} \ (r \ge R)$|
 |**Maxwell's Equations**|$\displaystyle\oint\vec{E}\cdot d\vec{A} = \dfrac{Q}{\varepsilon_{0}} \newline \oint\vec{B}\cdot d\vec{A} = 0 \newline \oint\vec{E}\cdot d\vec{l} = -\dfrac{d\Phi_{B}}{dt} \newline \oint\vec{B}\cdot d\vec{l} = \mu_{0}\left( i_{C} + \varepsilon_{0}\dfrac{d\Phi_{E}}{dt} \right)$|
 |Maxwell's equation in empty free space|$\oint\vec{E}\cdot d\vec{A} = 0 \newline \oint\vec{B}\cdot d\vec{A} = 0 \newline \oint\vec{E}\cdot d\vec{l} = -\frac{d\Phi_{B}}{dt} \newline \oint\vec{B}\cdot d\vec{l} = \mu_{0}\varepsilon_{0}\frac{d\Phi_{E}}{dt}$|

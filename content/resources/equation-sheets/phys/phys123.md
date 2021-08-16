@@ -60,7 +60,7 @@ layout: single
 |Particle speed|$v = \frac{\partial f}{\partial t}$|
 |Wave and particle speed|$c \not= v$|
 |Energy put into a wave|$E = \frac{1}{2}\mu\lambda\omega^2A^2$|
-|Average power supplied to produce waves|$\begin{aligned}\overline{P} &= \mu cv^2 \\\ &= \frac{1}{2}\mu c A^2\omega^2 \\\ &= \frac{1}{2}\sqrt{\mu F_T}\omega^2A^2\end{aligned}$|
+|Average power supplied to produce waves|$\begin{aligned}\overline{P} &= \mu cv^2 \cr &= \frac{1}{2}\mu c A^2\omega^2 \cr &= \frac{1}{2}\sqrt{\mu F_T}\omega^2A^2\end{aligned}$|
 |Wave kinetic and potential energy|$K = U$|
 
 ### Wave function and boundary conditions
@@ -99,7 +99,7 @@ layout: single
 |Path difference of destructive interference (out of phase, at nodal line)|$\delta = (n - \frac{1}{2})\lambda$|
 |Beat frequency|$f_b = \lvert f_1 - f_2 \rvert$|
 |Average frequency|$\overline{f} = \frac{1}{2}(f_1 + f_2)$|
-|Wave function of beats|$\begin{aligned}y(x, t) &= y_1 + y_2 \\\ &= 2A \cos(2\pi \frac{1}{2}f_b t)\sin(2\pi\overline{f}t)\end{aligned}$|
+|Wave function of beats|$\begin{aligned}y(x, t) &= y_1 + y_2 \cr &= 2A \cos(2\pi \frac{1}{2}f_b t)\sin(2\pi\overline{f}t)\end{aligned}$|
 |Doppler effect $(v_s < c)$ <br/> s - source; o - observer; rel to medium|$\dfrac{f_{\mathrm{o}}}{f_{\mathrm{s}}} = \dfrac{c \pm v_{\mathrm{o}}}{c \pm v_{\mathrm{s}}}$|
 |Angle of shock wave $(v_s > c)$|$\sin\theta = \dfrac{c}{v_s}$|
 |Mach number|$\footnotesize\text{Mach number} = \dfrac{v_s}{c}$|
@@ -182,7 +182,7 @@ Note: constructive and destructive interference refers to reflected light, not t
 
 |Description|Equations|
 |-:|:-|
-|Thin-film interference <br/> $t$ - thickness <br/> $m = 0, 1, 2, ...$ <br/> a - incident medium <br/> b - thin film medium <br/> c - transmitted medium|$\phi = \dfrac{4\pi n_b t\cos\theta_b}{\lambda_a} + \phi_{r2} - \phi_{r1} \newline$ $\phi = \begin{cases} 2m\pi & \small\text{constructive} \\\ (2m+1)\pi & \small\text{destructive} \end{cases} \newline$ $\phi_{r} = \begin{cases} 0 & n_i>n_f \\\ \pi & n_i<n_f \end{cases}$|
+|Thin-film interference <br/> $t$ - thickness <br/> $m = 0, 1, 2, ...$ <br/> a - incident medium <br/> b - thin film medium <br/> c - transmitted medium|$\phi = \dfrac{4\pi n_b t\cos\theta_b}{\lambda_a} + \phi_{r2} - \phi_{r1} \newline$ $\phi = \begin{cases} 2m\pi & \small\text{constructive} \cr (2m+1)\pi & \small\text{destructive} \end{cases} \newline$ $\phi_{r} = \begin{cases} 0 & n_i>n_f \cr \pi & n_i<n_f \end{cases}$|
 |Constructive interference if in phase <br/> (If $\pi$-shifted, use destructive condition)|$2t = m\lambda_b = m\dfrac{n_a}{n_b}\lambda_a$|
 |Destructive interference if in phase <br/> (If $\pi$-shifted, use constructive condition)|$2t = (m+\frac{1}{2})\lambda_b = (m+\frac{1}{2})\dfrac{n_a}{n_b}\lambda_a$|
 
@@ -222,10 +222,10 @@ Note: constructive and destructive interference refers to reflected light, not t
 |Buoyant force|$F_b = F_{\text{bottom}} - F_{\text{top}}$|
 |**Archimedes' principle**|$F_b = \rho_f gV_{\text{disp}}$|
 |Volume of displaced fluid of floating object|$V_{\text{disp}} = \dfrac{\rho_o}{\rho_f}V_o$|
-|Condition of object buoyancy <br/> o - object; f - fluid|$\begin{cases}\rho_o < \rho_f & \text{float} \\\ \rho_o = \rho_f & \text{hang} \\\ \rho_o > \rho_f & \text{sink}\end{cases}$|
+|Condition of object buoyancy <br/> o - object; f - fluid|$\begin{cases}\rho_o < \rho_f & \text{float} \cr \rho_o = \rho_f & \text{hang} \cr \rho_o > \rho_f & \text{sink}\end{cases}$|
 |Absolute pressure and gauge pressure|$P_{\text{abs}} = P_{\text{atm}} + P_g$|
 |Hydraulic system|$P = \dfrac{F_1}{A_1} = \dfrac{F_2}{A_2}$|
-|**Continuity equation** <br/> Laminar flow of nonviscous fluid|$\begin{aligned}\dot{m}_1 &= \dot{m}_2 \\\ \rho_1 Q_1 &= \rho_2 Q_2 \\\ \rho_1 A_1 v_1 &= \rho_2 A_2 v_2 \end{aligned}$|
+|**Continuity equation** <br/> Laminar flow of nonviscous fluid|$\begin{aligned}\dot{m}_1 &= \dot{m}_2 \cr \rho_1 Q_1 &= \rho_2 Q_2 \cr \rho_1 A_1 v_1 &= \rho_2 A_2 v_2 \end{aligned}$|
 |**Bernoulli's equation** <br/> Laminar flow of incompressible nonviscous fluid|$P_1 + \rho gy_1 + \frac{1}{2}\rho v_1^2 = P_2 + \rho gy_2 + \frac{1}{2}\rho v_2^2$|
 
 ## Entropy
@@ -237,7 +237,7 @@ Note: constructive and destructive interference refers to reflected light, not t
 |Entropy|$S = \ln\Omega = \ln M^N$|
 |Linearity of entropy|$S = S_A + S_B \newline \Omega = \Omega_A\Omega_B$|
 |Constant temperature change in entropy|$\Delta S = N\ln\left(\dfrac{V_f}{V_i}\right)$|
-|Second law of thermodynamics <br/> in closed system|$\Delta S \begin{cases} >0 & \footnotesize\text{toward equilibrium} \\\ = 0 & \footnotesize\text{at equilibrium} \end{cases}$|
+|Second law of thermodynamics <br/> in closed system|$\Delta S \begin{cases} >0 & \footnotesize\text{toward equilibrium} \cr = 0 & \footnotesize\text{at equilibrium} \end{cases}$|
 |Equipartition of space|$\dfrac{N_A}{V_A} = \dfrac{N_B}{V_B}$|
 |Root-mean-square (rms) speed|$v_{\text{rms}} = \sqrt{\overline{v^2}}$|
 |Absolute temperature|$\dfrac{1}{k_BT} = \dfrac{dS}{dE_{\text{th}}}$|

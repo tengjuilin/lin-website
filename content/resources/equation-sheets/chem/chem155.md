@@ -199,7 +199,7 @@ Lepton number is conserved.
 |Quantized angular momentum of electron|$L = m_{e}vr = n\dfrac{h}{2\pi} \newline n = 1,2,3,...$|
 |Allowed radius of H atom|$r_{e} = \dfrac{\epsilon_{0}n^{2}h^{2}}{\pi Z e^{2}m_{e}} = \dfrac{n^{2}}{Z} a_{0}$|
 |Allowed velocity of H atom|$v_{n} = \dfrac{nh}{n\pi m_{e}r_{n}} = \dfrac{Ze^{2}}{2\epsilon_{0}nh}$|
-|Allowed energy of H atom|$\begin{aligned}E_{n} &= -\dfrac{Z^{2}e^{4}m_{e}}{8\epsilon_{0}^{2}n^{2}h^{2}} \\\ &= -(2.18 \times 10^{-18}\mathrm{J}) \dfrac{Z^{2}}{n^{2}} \\\ &= -(13.60 \mathrm{eV}) \dfrac{Z^{2}}{n^{2}}\end{aligned} \newline n = 1,2,3,...$|
+|Allowed energy of H atom|$\begin{aligned}E_{n} &= -\dfrac{Z^{2}e^{4}m_{e}}{8\epsilon_{0}^{2}n^{2}h^{2}} \cr &= -(2.18 \times 10^{-18}\mathrm{J}) \dfrac{Z^{2}}{n^{2}} \cr &= -(13.60 \mathrm{eV}) \dfrac{Z^{2}}{n^{2}}\end{aligned} \newline n = 1,2,3,...$|
 |Emission atomic spectra of H atom|$\nu = (3.29 \times 10^{15} \mathrm{s^{-1}})Z^{2} \left( \dfrac{1}{n_{f}^{2}} - \dfrac{1}{n_{i}^{2}} \right) \newline n_{i} > n_{f} = 1,2,3,...$|
 |Absorption atomic spectra of H atom|$\nu = (3.29 \times 10^{15} \mathrm{s^{-1}})Z^{2} \left( \dfrac{1}{n_{i}^{2}} - \dfrac{1}{n_{f}^{2}} \right) \newline n_{f} > n_{i} = 1,2,3,...$|
 
@@ -232,8 +232,8 @@ Lepton number is conserved.
 |Wave function of 1D particles in a box|$\psi_{n}(x) = \sqrt{\dfrac{2}{L}} \sin\left( \dfrac{n\pi x}{L} \right)n \newline n = 1,2,3,...$|
 |Allowed energy of 1D particles in a box|$E_{n} = \dfrac{n^{2}h^{2}}{8mL^{2}} \newline n = 1,2,3,...$|
 |Allowed energy of 3D particles in cubic boxes|$E_{n_{x}n_{y}n_{z}} = \dfrac{h^{2}}{8mL^{2}}[n_{x}^{2} + n_{y}^{2} + n_{z}^{2}] \newline n_{x} = 1,2,3,... \newline n_{y} = 1,2,3,... \newline n_{z} = 1,2,3,...$|
-|Wave function of 2D particles in square boxes|$\begin{aligned}&\Psi_{n_{x}n_{y}}(x, y) \\\ = &\psi_{n_{x}}(x) \psi_{n_{y}}(y) \\\ = &\dfrac{2}{L} \sin \left( \dfrac{n_{x}\pi x}{L} \right) \sin \left( \dfrac{n_{y}\pi y}{L} \right)\end{aligned}$|
-|Wave function of 3D particles in cubic boxes|$\begin{aligned}&\Psi_{n_{x}n_{y}n_{z}}(x, y, z) \\\ = &\psi_{n_{x}}(x) \psi_{n_{y}}(y) \psi_{n_{z}}(z) \\\ = &\left( \dfrac{2}{L} \right)^{3/2} \sin \left( \dfrac{n_{x}\pi x}{L} \right) \sin \left( \dfrac{n_{y}\pi y}{L} \right) \sin \left( \dfrac{n_{z}\pi z}{L} \right)\end{aligned}$|
+|Wave function of 2D particles in square boxes|$\begin{aligned}&\Psi_{n_{x}n_{y}}(x, y) \cr = &\psi_{n_{x}}(x) \psi_{n_{y}}(y) \cr = &\dfrac{2}{L} \sin \left( \dfrac{n_{x}\pi x}{L} \right) \sin \left( \dfrac{n_{y}\pi y}{L} \right)\end{aligned}$|
+|Wave function of 3D particles in cubic boxes|$\begin{aligned}&\Psi_{n_{x}n_{y}n_{z}}(x, y, z) \cr = &\psi_{n_{x}}(x) \psi_{n_{y}}(y) \psi_{n_{z}}(z) \cr = &\left( \dfrac{2}{L} \right)^{3/2} \sin \left( \dfrac{n_{x}\pi x}{L} \right) \sin \left( \dfrac{n_{y}\pi y}{L} \right) \sin \left( \dfrac{n_{z}\pi z}{L} \right)\end{aligned}$|
 
 ## Quantum Mechanics and Atomic Structure
 

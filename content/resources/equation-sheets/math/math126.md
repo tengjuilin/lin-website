@@ -37,7 +37,7 @@ layout: single
 
 |Description|Equations|
 |-:|:-|
-|Cross product|$\mathbf{a}\times\mathbf{b} = \begin{vmatrix} a_1 & a_2 & a_3 \\\ b_1 & b_2 & b_3 \\\ c_1 & c_2 & c_3 \end{vmatrix} = \\\ \langle a_2b_3-a_3b_2, a_3b_1-a_1b_3, a_1b_2-a_2b_1\rangle$|
+|Cross product|$\mathbf{a}\times\mathbf{b} = \begin{vmatrix} a_1 & a_2 & a_3 \cr b_1 & b_2 & b_3 \cr c_1 & c_2 & c_3 \end{vmatrix} = \newline \langle a_2b_3-a_3b_2, a_3b_1-a_1b_3, a_1b_2-a_2b_1\rangle$|
 |Cross product to generate orthogonal vectors|$\mathbf{a}\times\mathbf{b}$ is orthogonal to both $\mathbf{a}$ and $\mathbf{b}$|
 |Cross product and angle between vectors|$\lvert\mathbf{a}\times\mathbf{b}\rvert = \lvert\mathbf{a}\rvert\lvert\mathbf{b}\rvert \sin\theta$|
 |Cross product to check parallel vectors|$\mathbf{a}\times\mathbf{b} = \mathbf{0}$|
@@ -88,7 +88,7 @@ layout: single
 |Parametric equation of space curves|$x = f(t) \newline y = g(t) \newline z = h(t)$|
 |Derivative of vector function|$\mathbf{r}'(t) = \lim\limits_{h\to 0}\dfrac{\mathbf{r}(t+h) - \mathbf{r}(t)}{h}$|
 |Derivative of vector function|$\mathbf{r}'(t) = \langle f'(t), g'(t), h'(t) \rangle$|
-|Differentiation rules|$[\mathbf{u}(t)+\mathbf{v}(t)]' = \mathbf{u}'(t) + \mathbf{v}'(t) \\\ [c\mathbf{u}(t)]' = c\mathbf{u}'(t) \\\ [f(t)\mathbf{u}(t)]' = f'(t)\mathbf{u}(t) + f(t)\mathbf{u}'(t)\newline$ $[\mathbf{u}(t)\cdot\mathbf{v}(t)]' = \mathbf{u}'(t)\cdot\mathbf{v}(t) + \mathbf{u}(t)\cdot\mathbf{v}'(t) \\\ [\mathbf{u}(t)\times\mathbf{v}(t)]' = \mathbf{u}'(t)\times\mathbf{v}(t) + \mathbf{u}(t)\times\mathbf{v}'(t) \\\ [\mathbf{u}(f(t))]' = f'(t)\mathbf{u}'(f(t))$|
+|Differentiation rules|$[\mathbf{u}(t)+\mathbf{v}(t)]' = \mathbf{u}'(t) + \mathbf{v}'(t)\newline$ $[c\mathbf{u}(t)]' = c\mathbf{u}'(t)\newline$ $[f(t)\mathbf{u}(t)]' = f'(t)\mathbf{u}(t) + f(t)\mathbf{u}'(t)\newline$ $[\mathbf{u}(t)\cdot\mathbf{v}(t)]' = \mathbf{u}'(t)\cdot\mathbf{v}(t) + \mathbf{u}(t)\cdot\mathbf{v}'(t)\newline$ $[\mathbf{u}(t)\times\mathbf{v}(t)]' = \mathbf{u}'(t)\times\mathbf{v}(t) + \mathbf{u}(t)\times\mathbf{v}'(t)\newline$ $[\mathbf{u}(f(t))]' = f'(t)\mathbf{u}'(f(t))$|
 |Definite integral of vector function|$\int_a^b \mathbf{r}(t) \ dt \newline = \langle \int_a^b f(t) \ dt, \int_a^b g(t) \ dt, \int_a^b h(t) \ dt \rangle$|
 |Position vector|$\mathbf{r}(t)$|
 |Tangent (velocity) vector|$\mathbf{r}'(t)$|
@@ -98,8 +98,8 @@ layout: single
 
 |Description|Equations|
 |-:|:-|
-|Length of a curve|$\begin{aligned}L &= \textstyle\int_a^b \lvert\mathrm{r}'(t)\rvert \ dt \\\ &= \textstyle\int_a^b \sqrt{[f(t)]^2+[g(t)]^2+[h(t)]^2} \ dt\end{aligned}$|
-|Arc length function|$\begin{aligned}s(t) &= \textstyle\int_a^t \lvert\mathrm{r}'(u)\rvert \ du \\\ &= \textstyle\int_a^t \sqrt{[f(u)]^2+[g(u)]^2+[h(u)]^2} \ du\end{aligned}$|
+|Length of a curve|$\begin{aligned}L &= \textstyle\int_a^b \lvert\mathrm{r}'(t)\rvert \ dt \cr &= \textstyle\int_a^b \sqrt{[f(t)]^2+[g(t)]^2+[h(t)]^2} \ dt\end{aligned}$|
+|Arc length function|$\begin{aligned}s(t) &= \textstyle\int_a^t \lvert\mathrm{r}'(u)\rvert \ du \cr &= \textstyle\int_a^t \sqrt{[f(u)]^2+[g(u)]^2+[h(u)]^2} \ du\end{aligned}$|
 |Rate of change in arc length and the tangent vector|$\dfrac{ds}{dt} = \lvert \mathbf{r}'(t) \rvert$|
 |Curvature|$\kappa(t) = \bigg\lvert\dfrac{d\mathbf{T}}{ds}\bigg\rvert = \dfrac{\lvert\mathbf{T}'(t)\rvert}{\lvert\mathbf{r}'(t)\rvert} = \dfrac{\lvert\mathbf{r}'(t)\times\mathbf{r}''(t)\rvert}{\lvert\mathbf{r}'(t)\rvert^3}$|
 |Curvature in terms of function|$\kappa(x) = \dfrac{\lvert f''(x)\rvert}{[1+(f'(x))^2]^{3/2}}$|
@@ -156,7 +156,7 @@ layout: single
 |-:|:-|
 |Critical point|a point with $f_x(a,b)=0$ and $f_y(a,b)=0$, $(\nabla f=\mathbf{0})$, or one of the partial derivatives does not exist|
 |Local max/min and critical point|If $f$ has a local max/min at $(a,b)$, <br/> then $(a,b)$ is a critical point|
-|Second derivative test <br/> ($(a,b)$ is a critical point)|$D(a,b) = f_{xx}(a,b)f_{yy}(a,b) - [f_{xy}(ab)]^2 \newline$ $= \begin{vmatrix} f_{xx} & f_{xy} \\\ f_{yx} & f_{yy} \end{vmatrix}$ <br/> (a) If $D>0$ and $f_{xx}(a,b)>0$, <br/> then $f(a,b)$ is a local max <br/> (b) If $D>0$ and $f_{xx}(a,b)<0$, <br/> then $f(a,b)$ is a local min <br/> (c) If $D<0$, <br/> then $f(a,b)$ is a saddle point|
+|Second derivative test <br/> ($(a,b)$ is a critical point)|$D(a,b) = f_{xx}(a,b)f_{yy}(a,b) - [f_{xy}(ab)]^2 \newline$ $= \begin{vmatrix} f_{xx} & f_{xy} \cr f_{yx} & f_{yy} \end{vmatrix}$ <br/> (a) If $D>0$ and $f_{xx}(a,b)>0$, <br/> then $f(a,b)$ is a local max <br/> (b) If $D>0$ and $f_{xx}(a,b)<0$, <br/> then $f(a,b)$ is a local min <br/> (c) If $D<0$, <br/> then $f(a,b)$ is a saddle point|
 |Extreme value theorem for functions of two variables|If $f$ is continuous on a closed, bounded set $D\in \R^2$, <br/> then $f$ attains a absolute max and min at some points in $D$|
 |Closed boundary method <br/> (Finding absolute max/min)|1. Find the values of $f$ at the critical points of $f$ in $D$ <br/> 2. Find the extreme values of $f$ on the boundary of $D$ <br/> 3. The largest value is the abs max; the smallest value is the abs min|
 

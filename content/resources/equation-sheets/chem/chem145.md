@@ -78,7 +78,7 @@ layout: single
 |Molar heat capacity of monoatomic ideal gas at constant volume|$c_{V} = \dfrac{3}{2}R$|
 |Molar heat capacity of any ideal gas at constant pressure|$c_{P} = c_{V} + R = \dfrac{5}{2}R$|
 |Internal energy change of any ideal gas|$\Delta U = nc_{V}\Delta T$|
-|Enthalpy change of any ideal gas|$\begin{aligned}\Delta H &= nc_{P}\Delta T \\\ &= \Delta U + \Delta(PV) \\\ &= nc_{V}\Delta T + nR\Delta T\end{aligned}$|
+|Enthalpy change of any ideal gas|$\begin{aligned}\Delta H &= nc_{P}\Delta T \cr &= \Delta U + \Delta(PV) \cr &= nc_{V}\Delta T + nR\Delta T\end{aligned}$|
 |Hess's law|$\Delta H^{\circ} = \sum\limits_{i}^{\text{prod}} n_{i}\Delta H_{i}^{\circ} - \sum\limits_{j}^{\text{react}} n_{j}\Delta H_{j}^{\circ}$|
 |Molality|$b = \dfrac{n_{\mathrm{solute}}}{m_{\mathrm{solvent}}}$|
 |Boiling point elevation <br/> ($i$ is vant's Hoff dissociation factor)|$\Delta T_{\mathrm{boil}} = ibK_{\mathrm{boil}}$|
@@ -103,7 +103,7 @@ layout: single
 |Enthalpy of spontaneous process|$\Delta S_{\mathrm{total}} = \Delta S_{\mathrm{sys}} + \Delta S_{\mathrm{surr}} > 0$|
 |Standard molar entropy|$S^{\circ} = \displaystyle\int_{0K}^{298.15\mathrm{K}} \dfrac{c_{P}}{T} dT + \Delta S \text{(phase changes between 0K and 298.15K)}$|
 |Gibbs free energy for reaction at constant temperature|$\Delta G = \Delta H - T\Delta S$|
-|Efficiency of Carnot engines|$\begin{aligned}\varepsilon &= \dfrac{\text{work on surrounding}}{\text{heat into system}} \\\ &= \dfrac{T_{\mathrm{high}} - T_{\mathrm{low}}}{T_{\mathrm{high}}} = 1-\dfrac{T_{\mathrm{low}}}{T_{\mathrm{high}}}\end{aligned}$|
+|Efficiency of Carnot engines|$\begin{aligned}\varepsilon &= \dfrac{\text{work on surrounding}}{\text{heat into system}} \cr &= \dfrac{T_{\mathrm{high}} - T_{\mathrm{low}}}{T_{\mathrm{high}}} = 1-\dfrac{T_{\mathrm{low}}}{T_{\mathrm{high}}}\end{aligned}$|
 |Relationship between heat and temperature in Carnot cycle|$\dfrac{q_{\mathrm{high}}}{T_{\mathrm{high}}} + \dfrac{q_{\mathrm{low}}}{T_{\mathrm{low}}} = 0$|
 |Work done by Carnot cycle in one cycle|$w_{\mathrm{cycle}} = -nR(T_{\mathrm{hot}} - T_{\mathrm{cold}}) \ln\dfrac{V_{B}}{V_{A}}$|
 
