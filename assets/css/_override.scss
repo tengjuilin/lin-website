@@ -164,9 +164,10 @@ td {
 @media print {
     article {
         width: 100% !important;
+        padding-top: 0 !important;
     }
 
-    header, .post-nav, .post-footer {
+    header, .post-nav, .post-footer, footer, #back-to-top {
         display: none !important;
     }
 }
