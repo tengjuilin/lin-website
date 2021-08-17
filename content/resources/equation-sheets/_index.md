@@ -6,6 +6,23 @@ type: resources/equation-sheets
 layout: single
 ---
 
+[![License](https://img.shields.io/github/license/tengjuilin/equation-sheets)](https://creativecommons.org/licenses/by/4.0/)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Ftengjuilin.netlify.app%2F)](https://tengjuilin.netlify.app/)
+![GitHub last commit](https://img.shields.io/github/last-commit/tengjuilin/equation-sheets)
+[![Visits since Aug 2021](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftengjuilin%2Fequation-sheets&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+Aug+2021+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[<i class="fab fa-github fa-fw"></i> GitHub](https://github.com/tengjuilin/cheme-sci-computing)
+
+## Introduction
+
+This repository contains equations that I learned and used in science and engineering courses at the University of Washington. Current topics include calculus, applied mathematics, chemistry, physics, and chemical engineering.
+
+You can download pdf of the equation sheets in this repository or view them [online](http://tengjuilin.netlify.app/resources/equation-sheets/). The online version is most up-to-date, and it's also configured to be printable.
+
+If you like this resource, feel free to [star](https://github.com/tengjuilin/intro-sci-computing/stargazers), [watch](https://github.com/tengjuilin/intro-sci-computing/watchers), or [fork](https://github.com/tengjuilin/intro-sci-computing/network/members).
+
+If you find any mistakes, please feel free to [raise an issue](https://github.com/tengjuilin/equation-sheets/issues/new).
+
 ## Chemistry
 
 - [CHEM 145 Honors General Chemistry I](chem/chem145/)
