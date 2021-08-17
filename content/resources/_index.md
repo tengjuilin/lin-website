@@ -16,6 +16,5 @@ layout: single
 
 ## Scientific Computing
 
-- [<i class="fab fa-github fa-fw"></i> GitHub Home](https://github.com/tengjuilin)
-  - [<i class="fab fa-github fa-fw"></i> Introduction to Scientific Computing (General)](https://github.com/tengjuilin/intro-sci-computing)
-  - [<i class="fab fa-github fa-fw"></i> Chemical Engineering Scientific Computing](https://github.com/tengjuilin/cheme-sci-computing)
+- [Introduction to Scientific Computing (AMATH 301)](intro-sci-computing)
+- [Chemical Engineering Scientific Computing (CHEME 375)](cheme-sci-computing)

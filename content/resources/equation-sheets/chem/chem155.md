@@ -1,6 +1,6 @@
 ---
 title: "CHEM 155 Honors General Chemistry II"
-date: 2021-02-06T00:00:00+08:00
+date: 2021-08-17T00:00:00+08:00
 draft: false
 type: resources/equation-sheets
 layout: single

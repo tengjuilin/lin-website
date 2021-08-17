@@ -1,6 +1,6 @@
 ---
 title: "AMATH 351 Differential Equations and Applications"
-date: 2021-03-18T00:00:00+08:00
+date: 2021-08-17T00:00:00+08:00
 draft: false
 type: resources/equation-sheets
 layout: single
@@ -201,7 +201,7 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
      - then the general solution is $y(x) = c_{1}e^{\lambda_{1}x} + c_{2}e^{\lambda_{2}x}$.
    - If $\lambda_{1} = \lambda_{2}$, and $\lambda_{1}, \lambda_{2} \in \Reals$,
      - then the general solution is $y(x) = c_{1}e^{\lambda_{1}x} + c_{2}xe^{\lambda_{1}x}$.
-     - [by reduction of order](#reduction-of-order)
+     - [by Abel's theorem and reduction of order](#abels-theorem)
    - If $\lambda_{1} \not = \lambda_{2}$, and $\lambda_{1}, \lambda_{2} \in \Complex$, where $\lambda_{1}, \lambda_{2} = \alpha \pm i\beta$,
      - then the general solution is $y(x) = c_{1}e^{\alpha x} \cos(\beta x) + c_{2}e^{\alpha x} \sin(\beta x)$,
      - where $\alpha = -\dfrac{b}{2a}$, $\beta = \dfrac{\sqrt{4ac-b^{2}}}{2a}$.
@@ -238,7 +238,7 @@ Given some initial values $y(0) = a_{0}, y'(0) = a_{1}, ..., y^{(n)}(0) = a_{n}$
      - then the general solution is $y(x) = c_{1}x^{s_{1}} + c_{2}x^{s_{2}}$.
    - If $s_{1} = s_{2}$, and $s_{1}, s_{2} \in \Reals$,
      - then the general solution is $y(x) = c_{1}x^{s_{1}} + c_{2}\ln(x)x^{s_{1}}$.
-     - [by reduction of order](#reduction-of-order)
+     - [by Abel's theorem and reduction of order](#abels-theorem)
    - If $s_{1} \not = s_{2}$, and $s_{1}, s_{2} \in \Complex$, where $s_{1}, s_{2} = \eta \pm i\mu$,
      - then the general solution is <br/> $y(x) = c_{1}x^{\eta} \cos(\mu \ln(x)) + c_{2}x^{\eta} \sin(\mu \ln(x))$,
      - where $\eta = -\dfrac{1-\alpha}{2}$, $\mu = \dfrac{\sqrt{4\beta-(\alpha - 1)^{2}}}{2}$.
