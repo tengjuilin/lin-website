@@ -60,7 +60,7 @@ layout: single
 
 ## Applied Mathematics
 
-- [AMATH 301 Beginning Scientific Computing](amath/amath301/)
+- [AMATH 301 Beginning Scientific Computing](../intro-sci-computing/)
   - Covered root-finding, optimization, curve fitting, solving linear systems, singular value decomposition (SVD, PCA), numerical differentiation and integration, solving first-order and higher order ODEs, stability and stiffness of ODEs, phase portraits, chaotic systems, and Fourier transform.
   - Taken in Sp20 with [Dr. Craig Gin](https://scholar.google.com/citations?user=w4mzyIAAAAAJ&hl=en)
 - [AMATH 351 Differential Equations](amath/amath351/)
@@ -74,7 +74,7 @@ layout: single
   - Covered scaling and transport properties, atomic theory of matter, atomic models, wave functions in quantum mechanics, nanoscience and technology, electronic structures of molecules, and molecular modes and energetic properties.
   - Taken in Sp21 with [Professor René M. Overney](https://www.cheme.washington.edu/facultyfinder/rene-overney)
   - Textbook: Custom text
-- [CHEM E 375 Chemical Engineering Computer Skills](cheme/cheme375/)
+- [CHEM E 375 Chemical Engineering Computer Skills](../cheme-sci-computing/)
   - Covered chemical engineering scientific computing and numerical methods. Topics include curve fitting, balancing chemical equations, solving VLE problems, plotting VLE x/y and Txy diagrams, determining Antoine's coefficients, chemical kinetics, and time-dependent and -independent heat transfer.
   - Taken in Sp21 with [Professor Jim Pfaendtner](https://www.cheme.washington.edu/facultyfinder/jim-pfaendtner)
 - [CHEM E 310 Material and Energy Balances](cheme/cheme310/)
