@@ -140,7 +140,7 @@ lightgallery: true
 |Reduced temperature|$T_r = \dfrac{T}{T_c}$|
 |Reduced pressure|$P_r = \dfrac{P}{P_c}$|
 
-#### Using vitial equation of state
+#### Using virial equation of state
 
 1. Lookup $T_c, P_c, \omega$
 2. Calculate $T_r$
