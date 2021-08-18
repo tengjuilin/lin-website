@@ -162,7 +162,7 @@ td {
 
 // ========== Site printing ========== //
 @media print {
-    article {
+    article, .page {
         width: 100% !important;
         padding-top: 0 !important;
     }
