@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2021-03-18T00:00:00+08:00
+date: 2021-09-01T00:00:00+08:00
 draft: false
 type: resources
 layout: single
@@ -16,5 +16,5 @@ layout: single
 
 ## Scientific Computing
 
-- [Introduction to Scientific Computing (AMATH 301)](intro-sci-computing)
-- [Chemical Engineering Scientific Computing (CHEME 375)](cheme-sci-computing)
+- [Introduction to Scientific Computing (AMATH 301)](https://intro-sci-computing.netlify.app/)
+- [Chemical Engineering Scientific Computing (CHEME 375)](https://cheme-sci-computing.netlify.app/)
