@@ -7,7 +7,7 @@ layout: single
 ---
 
 [![License](https://img.shields.io/github/license/tengjuilin/equation-sheets)](https://creativecommons.org/licenses/by/4.0/)
-[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Ftengjuilin.netlify.app%2F)](https://tengjuilin.netlify.app/)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Ftengjuilin.netlify.app%2F)](https://tengjuilin.netlify.app/resources/equation-sheets/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tengjuilin/equation-sheets)
 [![Visits since Aug 2021](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftengjuilin%2Fequation-sheets&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+Aug+2021+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -37,6 +37,8 @@ If you find any mistakes, please feel free to [raise an issue](https://github.co
   - Covered alcohol, thiol, ether, sulfide, epoxide, glycol, alkyne, diene, benzene, transition metal catalysis, IR, NMR, UV-Vis spectroscopy, and mass spectrometer.
   - Taken in Wi21 with [Professor Michael Gelb](https://chem.washington.edu/people/michael-h-gelb)
   - Textbook: *Organic Chemistry* 6e by Loudon
+- [CHEM 455 Physical Chemistry](chem/chem455/)
+  - Au21 in progress
 
 ## Physics
 
@@ -98,3 +100,7 @@ If you find any mistakes, please feel free to [raise an issue](https://github.co
   - Covered units and process variables, material balances of nonreactive and reactive systems, single- and multi-phase systems, energy balances of nonreactive and reactive systems.
   - Taken in Sp21 with [Professor Elizabeth Nance](https://www.cheme.washington.edu/facultyfinder/elizabeth-nance)
   - Textbook: *Elementary Principles of Chemical Processes* 4e by Felder
+- [CHEM E 325 Energy and Entropy](cheme/cheme325/)
+  - Au21 in progress
+- [CHEM E 330 Transport Processes I](cheme/cheme330/)
+  - Au21 in progress
