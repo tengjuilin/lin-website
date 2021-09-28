@@ -1,18 +1,16 @@
 ---
 title: "Resources"
 date: 2021-09-01T00:00:00+08:00
-draft: false
-type: resources
 layout: single
 ---
 
-## [Equation Sheets](equation-sheets)
+## [Equation Sheets](https://equation-sheets.netlify.app/)
 
-- [Chemistry](equation-sheets#chemistry)
-- [Physics](equation-sheets#physics)
-- [Calculus](equation-sheets#calculus)
-- [Applied Mathematics](equation-sheets#applied-mathematics)
-- [Chemical Engineering](equation-sheets#chemical-engineering)
+- [Chemistry](https://equation-sheets.netlify.app/#chemistry)
+- [Physics](https://equation-sheets.netlify.app/#physics)
+- [Calculus](https://equation-sheets.netlify.app/#calculus)
+- [Applied Mathematics](https://equation-sheets.netlify.app/#applied-mathematics)
+- [Chemical Engineering](https://equation-sheets.netlify.app/#chemical-engineering)
 
 ## Scientific Computing
 
