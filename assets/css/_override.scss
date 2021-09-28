@@ -20,6 +20,10 @@ $single-link-color-dark: #91cbf9;
 // Color of the hover single link
 $single-link-hover-color: #0d92a1;
 $single-link-hover-color-dark: #bbdefb;
+
+// Color of header background
+$header-background-color: #ECEFF1 !important;
+$header-background-color-dark: #252627 !important;
 // ========== Global ========== //
 
 // ========== Pagination ========== //
@@ -111,7 +115,6 @@ main article div.content p {
 // ========== Publication page ========== //
 header {
     box-shadow: 0 0 1rem 0 rgba(0,0,0,0.1);
-    background-color: #ECEFF1 !important;
 }
 
 .post-meta-line {
