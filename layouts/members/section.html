@@ -22,7 +22,7 @@
             {{- end -}}
 
              {{- range $pages.PageGroups -}} <!-- group people -->
-                {{- range .Pages -}} <!-- for people in ascending weight -->
+                {{- range (.Pages).Reverse -}} <!-- for people in descending (reversed) weight -->
                     <article class="article-card">
                         <!-- Member picture -->
                         <img class="profile-image" src="{{- .Params.image -}}">
