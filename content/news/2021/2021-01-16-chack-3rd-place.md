@@ -1,9 +1,0 @@
----
-title: "Teng-Jui Lin led team The Nanokid and won C-HACK 3rd place."
-date: 2021-01-16T00:00:00+08:00
-draft: false
-type: news
-layout: single
----
-
-_
