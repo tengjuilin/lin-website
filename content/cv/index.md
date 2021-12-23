@@ -14,109 +14,111 @@ draft: false
 
 ## Education
 
-#### University of Washington <time> Sep 2019 - Present </time>
+### University of Washington <time> Sep 2019 - Present </time>
 
-Seattle, WA, USA \
-Bachelor of Science in Chemical Engineering \
-Expected graduation: Jun 2023
+<location> Seattle, WA, USA </location>
 
-#### Brown University <time> Jun 2018 - Aug 2018 </time>
+B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option
 
-Providence, RI, USA \
-Pre-Baccalaureate Program
+Expected Graduation: June 2023
 
-#### Kinglee High School <time> Sep 2013 - Jun 2019 </time>
+### Brown University <time> Jun 2018 - Aug 2018 </time>
 
-Zhengzhou, Henan, China
+<location> Providence, RI, USA </location>
 
-## Relavent Experience
+Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
 
-#### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
+### Kinglee High School <time> Sep 2013 - Jun 2019 </time>
 
-University of Washington | Department of Chemical Engineering | Nance Lab
+<location> Zhengzhou, Henan, China </location>
 
-#### Calculus Teaching Assistant <time> Sep 2018 - May 2019 </time>
+## Professional Experience
 
-Kinglee High School
+### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
-## Other Experience
+<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
-### Undergraduate
+### Calculus Teaching Assistant <time> Sep 2018 - May 2019 </time>
 
-#### Secretary <time> May 2021 - Present </time>
+<location> Kinglee High School </location>
 
-Women in Chemical Engineering at UW
+## Service
 
-#### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
+### Secretary <time> May 2021 - Present </time>
 
-UW Chinese Student and Scholars Association
+<location> Women in Chemical Engineering, University of Washington </location>
 
-#### Maple Hall Council SEED Representative <time> Oct 2019 - Mar 2020 </time>
+### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
 
-University of Washington Housing and Food Services
+<location> Chinese Students and Scholars Association, University of Washington </location>
 
-### High School
+### Maple Hall Council SEED Representative <time> Oct 2019 - Mar 2020 </time>
 
-#### Peer Tutor <time> Sep 2016 - Jun 2019 </time>
+<location> Housing and Food Services, University of Washington </location>
 
-Kinglee High School
+### Peer Tutor <time> Sep 2016 - Jun 2019 </time>
 
-#### Lab Peer Supervisor <time> 2017 - 2019 </time>
+<location> Kinglee High School </location>
 
-Kinglee High School
+### Lab Peer Supervisor <time> Mar 2017 - Mar 2019 </time>
 
-#### Student Council Secretary <time> Oct 2018 - Jun 2019 </time>
+<location> Kinglee High School </location>
 
-Kinglee High School
+### Student Council Secretary <time> Oct 2018 - Jun 2019 </time>
 
-#### Student Council Historian <time> Oct 2017 - Jun 2018 </time>
+<location> Kinglee High School </location>
 
-Kinglee High School
+### Student Council Historian <time> Oct 2017 - Jun 2018 </time>
+
+<location> Kinglee High School </location>
 
 ## Honors & Awards
 
-### Undergraduate
+### Mary Gates Research Scholarship <time> Dec 2021 </time>
 
-#### Dan Evans Term Scholarship <time> May 2021 </time>
+<location> Mary Gates Endowment for Students, University of Washington </location>
 
-University of Washington | Department of Chemical Engineering
+### Dan Evans Term Scholarship <time> May 2021 </time>
 
-#### C-HACK 2021 Team 3rd Place <time> Jan 2021 </time>
+<location> Department of Chemical Engineering, University of Washington </location>
 
-University of Washington | Department of Chemical Engineering
+### C-HACK 2021 Team 3rd Place <time> Jan 2021 </time>
 
-#### 2 Annual Dean's Lists <time> 2020, 2021 </time>
+<location> Department of Chemical Engineering, University of Washington </location>
 
-University of Washington
+### 2 Annual Dean's Lists <time> 2020, 2021 </time>
 
-### High School
+<location> University of Washington </location>
 
-#### Discovery Fair 1st Place <time> May 2019 </time>
+### Discovery Fair 1st Place <time> May 2019 </time>
 
-Kinglee High School
+<location> Kinglee High School </location>
 
-#### 2 Peer Tutor Awards <time> May 2018, 2019 </time>
+### Peer Tutor Award <time> May 2019 </time>
 
-Kinglee High School
+<location> Kinglee High School </location>
 
-#### Science Fair Award 2nd Place <time> Jun 2018 </time>
+### Science Fair Award 2nd Place <time> Jun 2018 </time>
 
-Kinglee High School
+<location> Kinglee High School </location>
 
-#### Merit Student of Zhengzhou City <time> Apr 2018 </time>
+### Peer Tutor Award <time> May 2018 </time>
 
-Zhengzhou Municipal Education Bureau
+<location> Kinglee High School </location>
 
-#### Science Fair Award 1st Place <time> Jun 2017 </time>
+### Merit Student of Zhengzhou City <time> Apr 2018 </time>
 
-Kinglee High School
+<location> Zhengzhou Municipal Education Bureau </location>
+
+### Science Fair Award 1st Place <time> Jun 2017 </time>
+
+<location> Kinglee High School </location>
 
 <!-- ## Academic Appointments // professor level-->
 <!-- ## Fellowships-->
 <!-- ## Publications-->
 <!-- ## Conference Presentations-->
 <!-- ## Professional Affiliation // professor level-->
-<!-- ## Service // professor level-->
 <!-- ## Student Mentoring // graduate level-->
 <!-- ## References-->
 
