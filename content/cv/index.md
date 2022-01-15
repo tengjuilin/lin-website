@@ -74,6 +74,10 @@ Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
 
 ## Honors & Awards
 
+### C-HACK 2022 Team 1st Place <time> Jan 2022 </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
 ### Mary Gates Research Scholarship <time> Dec 2021 </time>
 
 <location> Mary Gates Endowment for Students, University of Washington </location>
