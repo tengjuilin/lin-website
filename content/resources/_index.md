@@ -16,3 +16,9 @@ layout: single
 
 - [Introduction to Scientific Computing (AMATH 301)](https://intro-sci-computing.netlify.app/)
 - [Chemical Engineering Scientific Computing (CHEME 375)](https://cheme-sci-computing.netlify.app/)
+
+## [Course Notes](https://github.com/tengjuilin/course-notes)
+
+- [Chemical Engineering](https://github.com/tengjuilin/course-notes#chemical-engineering)
+- [Chemistry](https://github.com/tengjuilin/course-notes#chemistry)
+- [Applied Mathematics](https://github.com/tengjuilin/course-notes#applied-mathematics)
