@@ -4,8 +4,6 @@ date: 2021-08-10T22:09:31+08:00
 draft: false
 ---
 
-<link rel="stylesheet" type="text/css" href="/css/cv.css">
-
 <div class="cv">
 
 <span class="name">Teng-Jui Lin</span>
@@ -14,63 +12,24 @@ draft: false
 
 ## Education
 
-### University of Washington <time> Sep 2019 - Present </time>
+### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Present </time>
 
-<location> Seattle, WA, USA </location>
+- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
+- Minor in Applied Mathematics and Chemistry
+- Expected Graduation: June 2023
+- GPA: 3.96/4.0
 
-B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option
+### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
 
-Expected Graduation: June 2023
+- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
 
-### Brown University <time> Jun 2018 - Aug 2018 </time>
-
-<location> Providence, RI, USA </location>
-
-Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
-
-### Kinglee High School <time> Sep 2013 - Jun 2019 </time>
-
-<location> Zhengzhou, Henan, China </location>
+### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 - Jun 2019 </time>
 
 ## Professional Experience
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
-
-### Calculus Teaching Assistant <time> Sep 2018 - May 2019 </time>
-
-<location> Kinglee High School </location>
-
-## Service
-
-### Secretary <time> May 2021 - Present </time>
-
-<location> Women in Chemical Engineering, University of Washington </location>
-
-### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-### Maple Hall Council SEED Representative <time> Oct 2019 - Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-### Peer Tutor <time> Sep 2016 - Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-### Lab Peer Supervisor <time> Mar 2017 - Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-### Student Council Secretary <time> Oct 2018 - Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-### Student Council Historian <time> Oct 2017 - Jun 2018 </time>
-
-<location> Kinglee High School </location>
 
 ## Honors & Awards
 
@@ -118,12 +77,62 @@ Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
 
 <location> Kinglee High School </location>
 
-<!-- ## Academic Appointments // professor level-->
-<!-- ## Fellowships-->
-<!-- ## Publications-->
-<!-- ## Conference Presentations-->
+<!-- ## Publications -->
+
+<!-- ## Presentations -->
+
+<!-- ### Oral Presentations -->
+
+<!-- Add at top in reverse chronological order. -->
+
+<!-- ### Poster Presentations -->
+
+<!-- Add at top in reverse chronological order. -->
+
+## Teaching Experience
+
+### Calculus Teaching Assistant | <location> Kinglee High School </location> <time> Sep 2018 - May 2019 </time>
+
+## Service
+
+### Secretary <time> May 2021 - Present </time>
+
+<location> Women in Chemical Engineering, University of Washington </location>
+
+### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
+
+<location> Chinese Students and Scholars Association, University of Washington </location>
+
+### Maple Hall Council SEED Representative <time> Oct 2019 - Mar 2020 </time>
+
+<location> Housing and Food Services, University of Washington </location>
+
+### Peer Tutor <time> Sep 2016 - Jun 2019 </time>
+
+<location> Kinglee High School </location>
+
+### Lab Peer Supervisor <time> Mar 2017 - Mar 2019 </time>
+
+<location> Kinglee High School </location>
+
+### Student Council Secretary <time> Oct 2018 - Jun 2019 </time>
+
+<location> Kinglee High School </location>
+
+### Student Council Historian <time> Oct 2017 - Jun 2018 </time>
+
+<location> Kinglee High School </location>
+
 <!-- ## Professional Affiliation // professor level-->
 <!-- ## Student Mentoring // graduate level-->
 <!-- ## References-->
 
 </div>
+
+<link rel="stylesheet" type="text/css" href="/css/cv.css">
+<script type="text/javascript">
+var ol_tags = document.getElementsByTagName('ol')
+for (var i=0, max=ol_tags.length; i < max; i++) {
+    ol_tags[i].setAttribute('reversed', 'reversed')
+}
+</script>
