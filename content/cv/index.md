@@ -27,6 +27,10 @@ draft: false
 
 ## Professional Experience
 
+### Summer Undergraduate Research Scholar <time> Jun 2022 - Present </time>
+
+<location> NSF Science and Technology Center on Real-Time Functional Imaging (STROBE) <br/> Department of Physics, Florida International University, PI: Jin He </location>
+
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
