@@ -17,7 +17,7 @@ draft: false
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
 - Expected Graduation: June 2023
-- GPA: 3.96/4.0
+- GPA: 3.97/4.0
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
 
@@ -37,49 +37,38 @@ draft: false
 
 ## Honors & Awards
 
-### C-HACK 2022 Team 1st Place <time> Jan 2022 </time>
+<!-- May 2021, Jul 2022 -->
+### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<!-- Jun 2020, Jun 2021, Jun 2022 -->
+### Annual Dean's Lists | <location> University of Washington </location> <time> 2020-2022 </time>
 
-### Mary Gates Research Scholarship <time> Dec 2021 </time>
+<!-- Jan 2022 -->
+### C-HACK 2022 Team 1st Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
-<location> Mary Gates Endowment for Students, University of Washington </location>
+<!-- Dec 2021 -->
+### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
-### Dan Evans Term Scholarship <time> May 2021 </time>
+<!-- Jan 2021 -->
+### C-HACK 2021 Team 3rd Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<!-- May 2019 -->
+### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
 
-### C-HACK 2021 Team 3rd Place <time> Jan 2021 </time>
+<!-- May 2019 -->
+### Peer Tutor Award | <location> Kinglee High School </location> <time> 2019 </time>
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<!-- Jun 2018 -->
+### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> 2018 </time>
 
-### 2 Annual Dean's Lists <time> 2020, 2021 </time>
+<!-- May 2018 -->
+### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
 
-<location> University of Washington </location>
+<!-- Apr 2018 -->
+### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
 
-### Discovery Fair 1st Place <time> May 2019 </time>
-
-<location> Kinglee High School </location>
-
-### Peer Tutor Award <time> May 2019 </time>
-
-<location> Kinglee High School </location>
-
-### Science Fair Award 2nd Place <time> Jun 2018 </time>
-
-<location> Kinglee High School </location>
-
-### Peer Tutor Award <time> May 2018 </time>
-
-<location> Kinglee High School </location>
-
-### Merit Student of Zhengzhou City <time> Apr 2018 </time>
-
-<location> Zhengzhou Municipal Education Bureau </location>
-
-### Science Fair Award 1st Place <time> Jun 2017 </time>
-
-<location> Kinglee High School </location>
+<!-- Jun 2017 -->
+### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
 
 <!-- ## Publications -->
 
