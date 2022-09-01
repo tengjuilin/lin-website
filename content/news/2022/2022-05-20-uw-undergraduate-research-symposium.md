@@ -10,6 +10,5 @@ lightgallery: true
 
 **Link**: https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372
 
-
-{{< image src="../20220520-uw-undergraduate-research-symposium-1.jpg" caption="Teng-Jui Lin giving the land acknowledgement." >}}
-{{< image src="../20220520-uw-undergraduate-research-symposium-2.jpg" caption="Teng-Jui Lin presenting robust microglia shape analysis pipeline." >}}
+{{< image src="../2022-05-20-uw-undergraduate-research-symposium-1.jpg" caption="Teng-Jui Lin giving the land acknowledgement." >}}
+{{< image src="../2022-05-20-uw-undergraduate-research-symposium-2.jpg" caption="Teng-Jui Lin presenting robust microglia shape analysis pipeline." >}}

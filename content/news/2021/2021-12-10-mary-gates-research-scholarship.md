@@ -22,4 +22,4 @@ Besides technical skills for conducting research, I also gained important commun
 
 I encourage applicants to invest time in research that they are excited about and genuinely care about. Passion as the driving force of research can lead you a long way through the highs and lows of the research process.
 
-{{< image src="../20211210-mary-gates-research-scholarship.jpeg" caption="[Feature on Mary Gates Scholars](https://expd.uw.edu/mge/scholar-profiles/teng-jui-lin/)" >}}
+{{< image src="../2021-12-10-mary-gates-research-scholarship.jpeg" caption="[Feature on Mary Gates Scholars](https://expd.uw.edu/mge/scholar-profiles/teng-jui-lin/)" >}}
