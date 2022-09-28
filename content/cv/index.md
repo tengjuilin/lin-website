@@ -94,6 +94,10 @@ Presenting Author^
 
 ## Service
 
+### Undergraduate Research Leader <time> Sep 2022 – Present </time>
+
+<location> Undergraduate Research Program, University of Washington </location>
+
 ### Webmaster <time> Apr 2022 – Present </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
