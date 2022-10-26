@@ -41,19 +41,19 @@ draft: false
 ### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jun 2020, Jun 2021, Jun 2022 -->
 ### Annual Dean's Lists | <location> University of Washington </location> <time> 2020-2022 </time>
 
 <!-- Jan 2022 -->
-### C-HACK 2022 Team 1st Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+### C-HACK 2022 Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
 ### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
-### C-HACK 2021 Team 3rd Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+### C-HACK 2021 Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
 <!-- May 2019 -->
 ### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
