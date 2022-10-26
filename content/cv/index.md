@@ -37,6 +37,9 @@ draft: false
 
 ## Honors & Awards
 
+<!-- Oct 2022 -->
+### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+
 <!-- May 2021, Jul 2022 -->
 ### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
@@ -76,6 +79,7 @@ draft: false
 
 Presenting Author^
 
+1. (Poster) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Rayleigh, NC, USA. </location> 24 Oct 2022.
 1. (Poster) **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
 1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022.
 1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
