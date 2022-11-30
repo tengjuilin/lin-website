@@ -1,5 +1,5 @@
 ---
-title: Teng-Jui Lin gave a poster presentation at the 2022 AIChE Annual Student Conference.
+title: Teng-Jui Lin gave a poster presentation at the 2022 AIChE Annual Student Conference and won the 2nd place award in Food, Pharmaceutical and Biotechnology.
 date: 2022-11-14T00:00:00+08:00
 lightgallery: true
 ---
