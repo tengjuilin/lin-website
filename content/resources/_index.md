@@ -22,3 +22,8 @@ layout: single
 - [Chemical Engineering](https://github.com/tengjuilin/course-notes#chemical-engineering)
 - [Chemistry](https://github.com/tengjuilin/course-notes#chemistry)
 - [Applied Mathematics](https://github.com/tengjuilin/course-notes#applied-mathematics)
+
+## Video Recordings and Slides
+
+- [Video notes and slides](https://github.com/tengjuilin/video-notes)
+  - [Process Dynamics and Control (CHEME 480) <i class="fab fa-youtube"></i>](https://www.youtube.com/playlist?list=PLtDRUga2HhfYC-T90rnDHy7ENZ45K6eEP)
