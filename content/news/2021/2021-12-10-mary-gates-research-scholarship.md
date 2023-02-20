@@ -4,8 +4,6 @@ date: 2021-12-10T00:00:00+08:00
 lightgallery: true
 ---
 
-### Mary Gates Research Scholar, Autumn 2021
-
 #### Research Project
 
 Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis
@@ -21,5 +19,9 @@ Besides technical skills for conducting research, I also gained important commun
 #### What piece of advice do you have for future applicants?
 
 I encourage applicants to invest time in research that they are excited about and genuinely care about. Passion as the driving force of research can lead you a long way through the highs and lows of the research process.
+
+### Feature
+
+**Link**: https://expd.uw.edu/mge/scholar-profiles/teng-jui-lin/
 
 {{< image src="../2021-12-10-mary-gates-research-scholarship.jpeg" caption="[Feature on Mary Gates Scholars](https://expd.uw.edu/mge/scholar-profiles/teng-jui-lin/)" >}}
