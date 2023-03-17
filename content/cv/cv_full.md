@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2022-11-09T22:09:31+08:00
+date: 2023-03-16T22:09:31+08:00
 draft: false
 ---
 
@@ -18,8 +18,7 @@ draft: false
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
-- Expected Graduation: June 2023
-- GPA: 3.97/4.0, ChemE GPA: 4.0/4.0
+- Expected Graduation: June 2023 | GPA: 3.97/4.0
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
 
@@ -29,11 +28,18 @@ draft: false
 
 ## Professional Experience
 
+### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+
+- Evaluated adsorption performance of ceramic ion exchange resins by designing kinetic and equilibrium experiments using UV-Vis spectroscopy
+- Analyzed and visualized concentration-time profiles and adsorption isotherms of ceramic ion exchange resins with Python
+
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
-- Quantified microglia morphology across 3 neuroinflammatory rat models (20,000+ cells) with immunofluorescent image processing and unsupervised machine learning
+- Quantified microglia morphology in 3 neuroinflammatory rat models (20,000+ cells) with immunofluorescent image processing and unsupervised machine learning
 - Developed 80% more efficient Python application programming interface for morphological analysis and modular integration to immunofluorescent image analysis workflow
 - Tile-scanned 12 murine breast cancer tissue slices using confocal microscope (24.5 hr)
 - Analyzed number of publications that used immunofluorescent images at 450+ combinations of variables using PubMed web scrapping in Python, 93% more efficient than manual search
@@ -43,7 +49,7 @@ draft: false
 <location> NSF Science and Technology Center on Real-Time Functional Imaging (STROBE) <br/> Department of Physics, Florida International University, PI: Jin He </location>
 
 - Fabricated, functionalized, and surface-modified gold nanorods improving tissue conductivity
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
+- Characterized gold nanorods using UV-Vis spectroscopy and Raman spectroscopy
 - Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data and processed confocal microscopy images of cardiomyocytes with Python
 
 ## Honors & Awards
@@ -116,19 +122,34 @@ Presenting Author^
 
 ## Teaching Experience
 
-### Calculus Teaching Assistant | <location> Kinglee High School </location> <time> Sep 2018 - May 2019 </time>
+### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+### Teaching Assistant, Advanced Placement (AP) Calculus <time> Sep 2018 - May 2019 </time>
+
+<location> Kinglee High School </location>
 
 - Lectured 4 hours/week to 5 students in alignment with CollegeBoard-certified AP Calculus AB curriculum with interactive classroom activities to clarify complex concepts and common confusions
 - Designed and graded bidaily concept checks, homework, and quizzes with tight deadlines under supervision
 
 ## Service
 
+### Chemical Engineering Peer Mentor <time> Mar 2023 – Present </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+### Undergraduate Member, Faculty Candidate Review Committee <time> Jan 2023 – Feb 2023 </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+- Interviewed 5 faculty candidates with committee members and attended candidate research seminars to assess research vision, teaching, mentoring, collaboration potential, and diversity, equity and inclusion efforts.
+
 ### Undergraduate Research Leader <time> Sep 2022 – Present </time>
 
 <location> Undergraduate Research Program, University of Washington </location>
 
 - Engaged 120+ students with diverse backgrounds from 6 first-year interest groups through interactive outreach presentations and served on a panel interfacing with 50+ students
-<!-- - Present at the Annual UW Undergraduate Research Symposium -->
 
 ### Webmaster <time> Apr 2022 – Present </time>
 
@@ -156,7 +177,7 @@ Presenting Author^
 <location> Housing and Food Services, University of Washington </location>
 
 - Led weekly committee meetings of 10 people and planned campus-wide waste-sorting competition
-- Liaise sustainability feedback and initiatives through weekly hall council and sustainability group meetings
+- Liaised sustainability feedback and initiatives through weekly hall council and sustainability group meetings
 
 ### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
 
@@ -174,12 +195,12 @@ Presenting Author^
 - Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
 - Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
 
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
+### Peer Mentor for Laboratory Practices <time> Mar 2017 – Mar 2019 </time>
 
 <location> Kinglee High School </location>
 
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
+- Directed biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
+- Taught lab safety guidelines, standard lab procedures, and best practices; ensured lab safety
 
 <!-- ## Professional Affiliation // professor level-->
 <!-- ## Student Mentoring // graduate level-->

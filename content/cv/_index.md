@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2022-11-09T22:09:31+08:00
+date: 2023-03-16T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -19,8 +19,7 @@ layout: single
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
-- Expected Graduation: June 2023
-- GPA: 3.97/4.0, ChemE GPA: 4.0/4.0
+- Expected Graduation: June 2023 | GPA: 3.97/4.0
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
 
@@ -29,6 +28,10 @@ layout: single
 ### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 - Jun 2019 </time>
 
 ## Professional Experience
+
+### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
@@ -90,9 +93,23 @@ Presenting Author^
 
 ## Teaching Experience
 
-### Calculus Teaching Assistant | <location> Kinglee High School </location> <time> Sep 2018 - May 2019 </time>
+### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+### Teaching Assistant, Advanced Placement (AP) Calculus <time> Sep 2018 - May 2019 </time>
+
+<location> Kinglee High School </location>
 
 ## Service
+
+### Chemical Engineering Peer Mentor <time> Mar 2023 – Present </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+### Undergraduate Member, Faculty Candidate Review Committee <time> Jan 2023 – Feb 2023 </time>
+
+<location> Department of Chemical Engineering, University of Washington </location>
 
 ### Undergraduate Research Leader <time> Sep 2022 – Present </time>
 
