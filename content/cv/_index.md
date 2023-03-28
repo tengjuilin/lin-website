@@ -19,7 +19,7 @@ layout: single
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
-- Expected Graduation: June 2023 | GPA: 3.97/4.0
+- Expected Graduation: June 2023 | GPA: 3.96/4.0
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
 
