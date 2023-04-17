@@ -15,23 +15,18 @@ layout: single
 
 ## Education
 
+### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time>Starting Aug 2023 </time>
+
+- Ph.D. in Chemical and Biomolecular Engineering
+
 ### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Present </time>
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
+- Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
 - Expected Graduation: June 2023 | GPA: 3.96/4.0
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
-
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
-
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 - Jun 2019 </time>
-
-## Professional Experience
-
-### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
-
-<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+## Research Experience
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
@@ -44,25 +39,25 @@ layout: single
 ## Honors & Awards
 
 <!-- Nov 2022 -->
-### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
+#### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
 
 <!-- Nov 2022 -->
-### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
+#### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
-### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+#### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+#### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
-### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+#### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
-### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
+#### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
-### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+#### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
 <!-- ## Publications -->
 
@@ -72,7 +67,7 @@ Presenting Author^
 
 ### Oral Presentations
 
-1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of Microglia Morphology across Different Neuroinflammatory Rat Models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
+1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Nnuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
 
@@ -80,6 +75,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1.	**T.-J. Lin**^, H. Helmbrecht, R. Jin, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. [Link.](https://guidebook.com/g/#/guides/sccur2022/schedule/sessions/28362210)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/)
@@ -93,6 +89,8 @@ Presenting Author^
 
 ## Teaching Experience
 
+### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
+
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
@@ -101,13 +99,19 @@ Presenting Author^
 
 <location> Kinglee High School </location>
 
+## Professional Experience
+
+### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+
 ## Service
 
 ### Chemical Engineering Peer Mentor <time> Mar 2023 – Present </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Undergraduate Member, Faculty Candidate Review Committee <time> Jan 2023 – Feb 2023 </time>
+### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 

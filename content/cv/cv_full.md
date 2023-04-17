@@ -14,10 +14,15 @@ draft: false
 
 ## Education
 
+### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time>Starting Aug 2023 </time>
+
+- Ph.D. in Chemical and Biomolecular Engineering
+
 ### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Present </time>
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
+- Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
 - Expected Graduation: June 2023 | GPA: 3.96/4.0
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 - Aug 2018 </time>
@@ -26,14 +31,7 @@ draft: false
 
 ### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 - Jun 2019 </time>
 
-## Professional Experience
-
-### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
-
-<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
-
-- Evaluated adsorption performance of ceramic ion exchange resins by designing kinetic and equilibrium experiments using UV-Vis spectroscopy
-- Analyzed and visualized concentration-time profiles and adsorption isotherms of ceramic ion exchange resins with Python
+## Research Experience
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
 
@@ -55,43 +53,43 @@ draft: false
 ## Honors & Awards
 
 <!-- Nov 2022 -->
-### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
+#### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
 
 <!-- Nov 2022 -->
-### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
+#### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
-### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+#### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+#### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
-### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+#### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
-### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
+#### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
-### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+#### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
 <!-- May 2019 -->
-### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
+#### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
 
 <!-- May 2019 -->
-### Peer Tutor Award | <location> Kinglee High School </location> <time> 2019 </time>
+#### Peer Tutor Award | <location> Kinglee High School </location> <time> 2019 </time>
 
 <!-- Jun 2018 -->
-### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> 2018 </time>
+#### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> 2018 </time>
 
 <!-- May 2018 -->
-### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
+#### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
 
 <!-- Apr 2018 -->
-### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
+#### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
 
 <!-- Jun 2017 -->
-### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
+#### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
 
 <!-- ## Publications -->
 
@@ -101,7 +99,7 @@ Presenting Author^
 
 ### Oral Presentations
 
-1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of Microglia Morphology across Different Neuroinflammatory Rat Models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
+1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Nnuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
 
@@ -109,6 +107,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1.	**T.-J. Lin**^, H. Helmbrecht, R. Jin, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. [Link.](https://guidebook.com/g/#/guides/sccur2022/schedule/sessions/28362210)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/)
@@ -122,16 +121,33 @@ Presenting Author^
 
 ## Teaching Experience
 
+### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
+
+- [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
+- Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme).
+- [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry.
+- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >1000 total views.
+
+
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Teaching Assistant, Advanced Placement (AP) Calculus <time> Sep 2018 - May 2019 </time>
+### Teaching Assistant, Advanced Placement (AP) Calculus AB <time> Sep 2018 - May 2019 </time>
 
 <location> Kinglee High School </location>
 
 - Lectured 4 hours/week to 5 students in alignment with CollegeBoard-certified AP Calculus AB curriculum with interactive classroom activities to clarify complex concepts and common confusions
 - Designed and graded bidaily concept checks, homework, and quizzes with tight deadlines under supervision
+
+## Professional Experience
+
+### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
+
+<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+
+- Evaluated adsorption performance of ceramic ion exchange resins by designing kinetic and equilibrium experiments using UV-Vis spectroscopy
+- Analyzed and visualized concentration-time profiles and adsorption isotherms of ceramic ion exchange resins with Python
 
 ## Service
 
@@ -139,7 +155,10 @@ Presenting Author^
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Undergraduate Member, Faculty Candidate Review Committee <time> Jan 2023 – Feb 2023 </time>
+- Facilitated coordination of Sophomore Welcome Event facing to 80+ students to form a cohort community.
+- Led individual and group meetings with 6 ChemE sophomore mentees to discussed challenging concepts, learning strategies, and future goals, cultivating an inclusive campus climate for student success.
+
+### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
