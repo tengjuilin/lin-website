@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-03-16T22:09:31+08:00
+date: 2023-04-16T22:09:31+08:00
 draft: false
 ---
 
@@ -11,6 +11,8 @@ draft: false
 <span class="info"> Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science. <br/> [<i class='far fa-envelope fa-fw'></i>](mailto:tlin10@uw.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/)</span>
 
 <span class="info">[Tailored CV](../)</span>
+
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-04-16</span>
 
 ## Education
 
@@ -127,7 +129,6 @@ Presenting Author^
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme).
 - [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry.
 - Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >1000 total views.
-
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
 
