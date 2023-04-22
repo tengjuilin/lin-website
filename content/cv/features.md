@@ -29,10 +29,10 @@ date: 2023-04-21T22:09:31+08:00
 - [[Archive](../features-archive/2023-04-12-phd-offers.jpeg)] [喜报 | 校友林腾睿获四封博士录取通知](https://mp.weixin.qq.com/s/jG86kZQperdDEX3mKp1vFg) <time>14 Apr 2023</time>
 - [[Archive](../features-archive/2018-01-25-group-activity.jpeg)] [我们 正扬帆起航](https://mp.weixin.qq.com/s/ZeuTBrJ5ObLy2okE09JUcA) <time>28 Jan 2019</time>
 - [[Archive](../features-archive/2018-09-30-student-council-election.jpeg)] [2018 Kinglee Student Council Election](https://mp.weixin.qq.com/s/XSSEHF2ppJ69dxqbahw3lw) <time>30 Sep 2018</time>
-- [[Archive](../features-archive/2018-09-18-protect-ozone.jpeg)] [保护臭氧层，我们在行动 ——勤礼外语中学臭氧层保护日活动](https://mp.weixin.qq.com/s/oLc0muFN7Xr-F9MofL8RGQ) <time>18 Sep 2018</time>
+- [[Archive](../features-archive/2018-09-18-protect-ozone.jpeg)] [保护臭氧层，我们在行动——勤礼外语中学臭氧层保护日活动](https://mp.weixin.qq.com/s/oLc0muFN7Xr-F9MofL8RGQ) <time>18 Sep 2018</time>
 - [[Archive](../features-archive/2018-01-25-group-activity.jpeg)] [诠释爱、等待和欣赏](https://mp.weixin.qq.com/s/thWV9rAWFoSUSZ2avSgqBg) <time>25 Jan 2018</time>
 - [[Archive](../features-archive/2017-05-26-science-fair-award.jpeg)] [勤礼科学展颁奖仪式](https://mp.weixin.qq.com/s/AUaBI8NZonXezVJmLYj7Dw) <time>26 May 2017</time>
-- [[Archive](../features-archive/2016-09-23-peer-mentoring.jpeg)] [学长课堂------学习时间规划与方法指导](https://mp.weixin.qq.com/s/wAVhZ6gbXTZ6VUUYbnxyFg) <time>23 Sep 2016</time>
+- [[Archive](../features-archive/2016-09-23-peer-mentoring.jpeg)] [学长课堂——学习时间规划与方法指导](https://mp.weixin.qq.com/s/wAVhZ6gbXTZ6VUUYbnxyFg) <time>23 Sep 2016</time>
 
 </div>
 
