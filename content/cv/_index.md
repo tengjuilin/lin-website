@@ -9,11 +9,13 @@ layout: single
 
 <span class="name">Teng-Jui Lin</span>
 
-<span class="info"> Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science. <br/> [<i class='far fa-envelope fa-fw'></i>](mailto:tlin10@uw.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/)</span>
+<span class="info"> Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science.</span>
 
-<span class="info">[Full CV](cv_full)</span>
+<span class="info">[Short CV](../cv) | [Full CV](cv_full) | [Online Features](features)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-04-16</span>
+<span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tlin10@uw.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid)</span>
+
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-04-21</span>
 
 ## Education
 
