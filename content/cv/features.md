@@ -26,7 +26,7 @@ date: 2023-04-21T22:09:31+08:00
 ### Kinglee High School
 
 - [[Archive](../features-archive/2023-04-21-alumni-stories.jpeg)] [校友故事02 | 意料之外的“课堂”](https://mp.weixin.qq.com/s/mAi9OOl70b2W4M9cdFAt0w) <time>21 Apr 2023</time>
-- [[Archive](../features-archive/2023-04-12-phd-offers.jpeg)] [喜报 | 校友林腾睿获四封博士录取通知](https://mp.weixin.qq.com/s/jG86kZQperdDEX3mKp1vFg) <time>14 Apr 2023</time>
+- [[Archive](../features-archive/2023-04-12-phd-offers.jpeg)] [喜报 | 校友林腾睿获四封博士录取通知](https://mp.weixin.qq.com/s/jG86kZQperdDEX3mKp1vFg) <time>12 Apr 2023</time>
 - [[Archive](../features-archive/2018-01-25-group-activity.jpeg)] [我们 正扬帆起航](https://mp.weixin.qq.com/s/ZeuTBrJ5ObLy2okE09JUcA) <time>28 Jan 2019</time>
 - [[Archive](../features-archive/2018-09-30-student-council-election.jpeg)] [2018 Kinglee Student Council Election](https://mp.weixin.qq.com/s/XSSEHF2ppJ69dxqbahw3lw) <time>30 Sep 2018</time>
 - [[Archive](../features-archive/2018-09-18-protect-ozone.jpeg)] [保护臭氧层，我们在行动——勤礼外语中学臭氧层保护日活动](https://mp.weixin.qq.com/s/oLc0muFN7Xr-F9MofL8RGQ) <time>18 Sep 2018</time>
