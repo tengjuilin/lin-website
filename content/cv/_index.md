@@ -44,7 +44,7 @@ layout: single
 
 <!-- Apr 2023 -->
 <!-- 8 selected -->
-#### Nominee, Dean's Medal for Academic Excellence | <location> College of Engineering, UW </location> <time> 2023 </time>
+#### Nominee, Dean's Medal for Academic Excellence | <location> College of Engineering, University of Washington </location> <time> 2023 </time>
 
 <!-- Nov 2022 -->
 #### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
