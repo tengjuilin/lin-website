@@ -42,6 +42,10 @@ layout: single
 
 ## Honors & Awards
 
+<!-- Apr 2023 -->
+<!-- 8 selected -->
+#### Nominee, Dean's Medal for Academic Excellence | <location> College of Engineering, UW </location> <time> 2023 </time>
+
 <!-- Nov 2022 -->
 #### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
 
@@ -49,6 +53,7 @@ layout: single
 #### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
+<!-- 32% selected -->
 #### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
@@ -58,6 +63,7 @@ layout: single
 #### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
+<!-- 45% selected -->
 #### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
