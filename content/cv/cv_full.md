@@ -14,7 +14,7 @@ draft: false
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tlin10@uw.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-04-21</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-05-19</span>
 
 ## Education
 
