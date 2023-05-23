@@ -137,11 +137,14 @@ Presenting Author^
 - [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme).
 - [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry.
-- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >1000 total views.
+- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >2000 total views.
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
+
+- Instructed 3 sections/week for 8 different labs and graded 20 lab reports and 30 final presentations
+- Instructed usage of densitometer, BET surface area analyzer, light microscope, conductivity meter, and microplate reader
 
 ### Teaching Assistant, Advanced Placement (AP) Calculus AB <time> Sep 2018 - May 2019 </time>
 
