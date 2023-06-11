@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-04-16T22:09:31+08:00
+date: 2023-06-09T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -9,30 +9,30 @@ layout: single
 
 <span class="name">Teng-Jui Lin</span>
 
-<span class="info"> Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science.</span>
+<span class="info">Dedicated and detail-oriented Ph.D. student at UC Berkeley interested in the intersection of chemical engineering, bionanotechnology, and data science.</span>
 
 <span class="info">[Short CV](../cv) | [Full CV](cv_full) | [Online Features](features)</span>
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tlin10@uw.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-05-22</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-06-10</span>
 
 ## Education
 
-### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time>Starting Aug 2023 </time>
+### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Starting Aug 2023 </time>
 
-- Ph.D. in Chemical and Biomolecular Engineering
+- Ph.D. student, Chemical and Biomolecular Engineering
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Present </time>
+### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Jun 2023 </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
+- B.S. in Chemical Engineering: Nanoscience and Molecular Engineering, *summa cum laude*
 - Minor in Applied Mathematics and Chemistry
 - Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
-- Expected Graduation: June 2023 | GPA: 3.96/4.0
+- Honors Thesis: Quantifying Microglia Morphological Response to Injury and Treatment Across Species with Unsupervised Machine Learning
 
 ## Research Experience
 
-### Undergraduate Research Assistant <time> Nov 2020 - Present </time>
+### Undergraduate Research Assistant <time> Nov 2020 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
@@ -42,11 +42,18 @@ layout: single
 
 ## Honors & Awards
 
+#### Annual Dean's Lists | <location> University of Washington </location> <time> 2020 - 2023 </time>
+
+<!-- May 2023 -->
+<!-- Grand Prize, Upper Division Thesis -->
+#### Library Research Award for Undergraduates | <location> University Libraries, University of Washington </location> <time> 2023 </time>
+
 <!-- Apr 2023 -->
 <!-- 8 selected -->
 #### Nominee, Dean's Medal for Academic Excellence | <location> College of Engineering, University of Washington </location> <time> 2023 </time>
 
 <!-- Nov 2022 -->
+<!-- Food, Pharmaceutical and Biotech -->
 #### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
 
 <!-- Nov 2022 -->
@@ -77,6 +84,7 @@ Presenting Author^
 
 ### Oral Presentations
 
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
 1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Nnuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
@@ -85,8 +93,9 @@ Presenting Author^
 
 ### Poster Presentations
 
-1.	**T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 19 May 2023. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
-1.	**T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
+1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 19 May 2023. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
+1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. [Link.](https://guidebook.com/g/#/guides/sccur2022/schedule/sessions/28362210)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/)
@@ -102,7 +111,7 @@ Presenting Author^
 
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
 
-### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Present </time>
+### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
@@ -112,13 +121,13 @@ Presenting Author^
 
 ## Professional Experience
 
-### Member, Industry Capstone Project Team <time> Jan 2023 - Present </time>
+### Member, Industry Capstone Project Team <time> Jan 2023 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
 
 ## Service
 
-### Chemical Engineering Peer Mentor <time> Mar 2023 – Present </time>
+### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
@@ -126,15 +135,15 @@ Presenting Author^
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Undergraduate Research Leader <time> Sep 2022 – Present </time>
+### Undergraduate Research Leader <time> Sep 2022 – Jun 2023 </time>
 
 <location> Undergraduate Research Program, University of Washington </location>
 
-### Webmaster <time> Apr 2022 – Present </time>
+### Webmaster <time> Apr 2022 – Jun 2023 </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
 
-### Secretary <time> May 2021 – Present </time>
+### Secretary <time> May 2021 – Jun 2023 </time>
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
@@ -148,7 +157,32 @@ Presenting Author^
 
 <!-- ## Professional Affiliation // professor level-->
 <!-- ## Student Mentoring // graduate level-->
-<!-- ## References-->
+
+## References
+
+### Elizabeth Nance | <eanance@uw.edu>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+Jagjeet and Janice Bindra Endowed Career Development Associate Professor
+
+### Jim Pfaendtner | <jpfaendt@uw.edu>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+Department Chair, Steven and Connie Rogel Endowed Professor
+
+### John Berg | <spc@uw.edu>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+Rehnberg Chair Professor
+
+### Alex Prybutok | <prybutok@uw.edu>
+
+<location> Department of Chemical Engineering, University of Washington </location>
+
+Assistant Teaching Professor
 
 </div>
 
