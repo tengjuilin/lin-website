@@ -38,7 +38,7 @@ draft: false
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
 - Developed 80% more efficient Python application programming interface for morphological analysis and modular integration to immunofluorescent image analysis workflow
-- •	Quantified microglia morphology in neuroinflammatory rat and ferret oxygen-glucose deprivation models and healthy mouse, rat, ferret, rabbit, and pig models (427,000+ cells) with immunofluorescent image processing and unsupervised machine learning.
+- Quantified microglia morphology in neuroinflammatory rat and ferret oxygen-glucose deprivation models and healthy mouse, rat, ferret, rabbit, and pig models (427,000+ cells) with immunofluorescent image processing and unsupervised machine learning.
 - Analyzed number of publications that used immunofluorescent images at 450+ combinations of variables using PubMed web scrapping in Python, 93% more efficient than manual search
 - Tile-scanned 12 murine breast cancer tissue slices using confocal microscope (24.5 hr)
 
