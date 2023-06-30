@@ -10,6 +10,8 @@ lightgallery: true
 
 **Description**: Microglia, the brain’s immune cells, change morphology in response to neuroinflammation and therapeutics. However, we lack robust and high-throughput software for quantitative morphological analysis to understand microglia’s reactivity to neuroinflammation. I optimized an image-based morphological analysis method based on unsupervised machine learning in Python to cluster microglia into shape modes. I applied the method to images from ex vivo rat and ferret brain slice models that induce neuroinflammation. The determined shape modes capture regional variation and injury and treatment response of microglia morphology in both animal models. By quantifying and linking microglia’s morphological response to neuroinflammation and functional states across conditions, our method enables non-destructive assessment of microglial reactivity to inflammation and therapeutic performance across disease models.
 
-**Link**: https://www.lib.washington.edu/researchaward/winners/2023-winners
+**Featured Link**: https://www.lib.washington.edu/researchaward/winners/2023-winners
+
+**Essay Link**: https://digital.lib.washington.edu/researchworks/handle/1773/49997
 
 {{< image src="../2023-05-31-library-research-award.png">}}
