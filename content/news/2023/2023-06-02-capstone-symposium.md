@@ -12,4 +12,4 @@ lightgallery: true
 
 **Project Title**: Characterization of silica-based anion exchange resin for acid mine drainage
 
-{{< image src="../2023-06-02-capstone-symposium.jpg">}}
+{{< image src="../2023-06-02-capstone-symposium.jpg" caption="Teng-Jui Lin (left 1) with his senior industry capstone team: Lindsey Miller (left 2), Mansi Gokani (right 1), Gisele Charpentier (right 2), and Mason Nelson (right 3) in front of the poster" >}}
