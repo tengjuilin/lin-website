@@ -31,13 +31,13 @@ theme = "LoveIt"
       # title shown in home page (HTML format is supported)
       title = "Teng-Jui Lin"
       # subtitle shown in home page
-      subtitle = "Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science."
+      subtitle = "Dedicated and detail-oriented Ph.D. student at UC Berkeley interested in the intersection of chemical engineering, bionanotechnology, and data science."
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = "University of Washington | 2019-present <br/> Kinglee High School | 2013-2019"
+      disclaimer = "University of California, Berkeley | 2023-present <br/> University of Washington | 2019-2023 <br/> Kinglee High School | 2013-2019"
     # Home page posts
     [params.home.posts]
       enable = true
