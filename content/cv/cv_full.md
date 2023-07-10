@@ -140,9 +140,9 @@ Presenting Author^
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
 
 - [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
-- Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme).
-- [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry.
-- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >2000 total views and >100 stars.
+- Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
+- [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry
+- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >2000 total views and >100 stars
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
@@ -173,14 +173,14 @@ Presenting Author^
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-- Facilitated coordination of Sophomore Welcome Event facing to 80+ students to form a cohort community.
-- Led individual and group meetings with 6 ChemE sophomore mentees to discussed challenging concepts, learning strategies, and future goals, cultivating an inclusive campus climate for student success.
+- Facilitated coordination of Sophomore Welcome Event facing to 80+ students to form a cohort community
+- Led individual and group meetings with 6 ChemE sophomore mentees to discussed challenging concepts, learning strategies, and future goals, cultivating an inclusive campus climate for student success
 
 ### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-- Interviewed 5 faculty candidates with committee members and attended candidate research seminars to assess research vision, teaching, mentoring, collaboration potential, and diversity, equity and inclusion efforts.
+- Interviewed 5 faculty candidates with committee members and attended candidate research seminars to assess research vision, teaching, mentoring, collaboration potential, and diversity, equity and inclusion efforts
 
 ### Undergraduate Research Leader <time> Sep 2022 – Jun 2023 </time>
 
