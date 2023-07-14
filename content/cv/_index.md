@@ -105,6 +105,7 @@ Presenting Author^
 
 ## Mass Media Appearances
 
+1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
 1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
