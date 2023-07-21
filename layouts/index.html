@@ -20,33 +20,30 @@
             <!-- Left column of cards -->
             <div class="left-column">
                 <!-- Recent 5 publications -->
-                <!-- Enable when have publications -->
-                <!-- <h2 class="home-section-title"><a href="publications/publications">Recent publications</a></h2>
-                {{- range ( where .Site.RegularPages "Type" "publications/publications" | first 5 ) -}}
+                <h2 class="home-section-title"><a href="publications">Recent publications</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "publications" | first 5 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+
+                <!-- Recent blog posts (first 3) -->
+                <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "posts" | first 3 ) -}}
+                    {{- .Render "summary" -}}
+                {{- end -}}
+                <!-- Recent blog posts (first 2 after 5) -->
+                <!-- <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "posts" | after 5 | first 2 ) -}}
                     {{- .Render "summary" -}}
                 {{- end -}} -->
-
-                <!-- Recent 3 news -->
-                <h2 class="home-section-title"><a href="news/">Recent news</a></h2>
-                {{- range ( where .Site.RegularPages "Type" "news" | first 3 ) -}}
-                    {{- .Render "summary" -}}
-                {{- end -}}
-
-                <!-- Recent blog posts (first few after 5) -->
-                <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
-                {{- range ( where .Site.RegularPages "Type" "posts" | after 5 | first 3 ) -}}
-                    {{- .Render "summary" -}}
-                {{- end -}}
             </div>
 
             <!-- Right column of cards -->
             <div class="right-column">
-                <!-- Recent blog posts (first 5) -->
-                <h2 class="home-section-title"><a href="posts/">Recent posts</a></h2>
-                {{- range ( where .Site.RegularPages "Type" "posts" | first 5 ) -}}
+                <!-- Recent 7 news -->
+                <h2 class="home-section-title"><a href="news/">Recent news</a></h2>
+                {{- range ( where .Site.RegularPages "Type" "news" | first 7 ) -}}
                     {{- .Render "summary" -}}
                 {{- end -}}
-
             </div>
         </div>
     </div>

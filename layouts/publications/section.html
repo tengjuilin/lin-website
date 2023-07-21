@@ -1,0 +1,158 @@
+{{- define "title" }}
+    {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" }} - {{ .Site.Title -}}
+{{- end -}}
+
+{{- define "content" -}}
+    <div class="page archive">
+        {{- /* Title */ -}}
+        <h2 class="single-title animated pulse faster">
+            Publications
+        </h2>
+
+        <script>
+            function list_view() {
+                x = document.getElementById("list_view");
+                y = document.getElementById("image_view");
+                x.style.display = "block";
+                y.style.display = "none";
+            }
+            function image_view() {
+                x = document.getElementById("image_view");
+                y = document.getElementById("list_view");
+                x.style.display = "block";
+                y.style.display = "none";
+            }
+        </script>
+
+        <div id="list_view">
+            <div style="display: block; margin: 0 auto; text-align: center;">
+                <button onclick="image_view()" style="background-color: #0D47A1; color: white; border: none; padding: 0.5em 1em; margin: 0 1em;">Image View ></button>
+            </div>
+        {{- /* Paginate */ -}}
+            {{- if .Pages -}}
+                {{- $pages := .Pages.GroupByDate "2006" -}}
+                {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
+                    {{- $pages = $.Paginate $pages . -}}
+                {{- else -}}
+                    {{- $pages = .Paginate $pages -}}
+                {{- end -}}
+
+                {{ $counter := len .Pages }} <!-- Counter of all publications (reverse chronological order) -->
+                {{- range $pages.PageGroups -}} <!-- for papers group by year -->
+                    <!-- Year title -->
+                    <h3 style="text-align: center;">{{ .Key }}</h3>
+                    {{- range .Pages -}} <!-- for papers in each year -->
+
+                    <!-- Paper counter -->
+                    <p>
+                        <span>{{ $counter }}</span>.
+                        <!-- Paper citation info -->
+                        {{- .Params.author | markdownify -}}. <a href="https://www.doi.org/{{ .Params.doi }}" target="_blank" style="color: #0D47A1;">{{- .Title -}}</a>.
+                        <span style="font-style: italic;">{{- .Params.journal -}}</span> ({{- .Site.Params.dateformat | default "2006" | .PublishDate.Format -}}).
+                        DOI: {{- .Params.doi -}}.
+
+
+                        <!-- Optional pdf -->
+                        {{- if .Params.show_pdf -}}
+                        |
+                        <a href="/publication-pdf/{{ .Params.identifier }}.pdf" target="_blank" style="color: #0D47A1;">
+                            <i class="fas fa-file-pdf"></i> PDF
+                        </a>
+                        {{- end -}}
+
+                        <!-- Optional code -->
+                        {{- if .Params.show_code -}}
+                        |
+                        <a href="{{ .Params.show_code }}" target="_blank" class="publication-optional-info">
+                            <i class="fab fa-github fa-fw"></i> Code
+                        </a>
+                        {{- end -}}
+                    </p>
+
+                    {{ $counter = sub $counter 1 }} <!-- Decrement the counter -->
+                {{- end -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+        {{- end -}}
+    </div>
+
+        <div id="image_view" style="display: none;">
+            <div style="display: block; margin: 0 auto; text-align: center;">
+                <button onclick="list_view()" style="background-color: #0D47A1; color: white; border: none; padding: 0.5em 1em; margin: 0 1em;">List View ></button>
+            </div>
+        {{- /* Paginate */ -}}
+            {{- if .Pages -}}
+                {{- $pages := .Pages.GroupByDate "2006" -}}
+                {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
+                    {{- $pages = $.Paginate $pages . -}}
+                {{- else -}}
+                    {{- $pages = .Paginate $pages -}}
+                {{- end -}}
+
+                {{ $counter := len .Pages }} <!-- Counter of all publications (reverse chronological order) -->
+                {{- range $pages.PageGroups -}} <!-- for papers group by year -->
+                    <!-- Year title -->
+                    <h3 style="text-align: center;">{{ .Key }}</h3>
+                    {{- range .Pages -}} <!-- for papers in each year -->
+
+                    <article class="article-card">
+                        <!-- Optional feature image -->
+                        {{- if .Params.show_image -}}
+                            <a href="{{ .RelPermalink }}">
+                                <img src="/publication-images/{{- .Params.identifier -}}.jpg" class="publication-images">
+                            </a>
+                        {{- end -}}
+
+                        <div class="article-info">
+                            <h3 class="article-title">
+                                <!-- Paper counter -->
+                                <span>{{ $counter }}</span> |
+                                <!-- Paper title -->
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Params.summary }}
+                                </a>
+                            </h3>
+                            <div>
+                                <!-- Paper citation info -->
+                                {{ .Params.author | markdownify }}. <span style="font-weight: bold;">{{- .Title -}}</span>.
+                                <span style="font-style: italic;">{{- .Params.journal -}}</span> ({{- .Site.Params.dateformat | default "2006" | .PublishDate.Format -}}). DOI: {{- .Params.doi -}}.
+                                <br/>
+
+                                <!-- Paper date -->
+                                <span class="publication-optional-info">
+                                    <i class="far fa-calendar-alt fa-fw"></i>
+                                    {{- .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
+                                </span>
+
+                                <!-- Publisher website -->
+                                |
+                                <a href="https://www.doi.org/{{ .Params.doi }}" target="_blank" class="publication-optional-info">
+                                    <i class="fas fa-link"></i> Link
+                                </a>
+
+                                <!-- Optional pdf -->
+                                {{- if .Params.show_pdf -}}
+                                |
+                                <a href="/publication-pdf/{{ .Params.identifier }}.pdf" target="_blank" class="publication-optional-info">
+                                    <i class="fas fa-file-pdf"></i> PDF
+                                </a>
+                                {{- end -}}
+
+                                <!-- Optional code -->
+                                {{- if .Params.show_code -}}
+                                |
+                                <a href="{{ .Params.show_code }}" target="_blank" class="publication-optional-info">
+                                    <i class="fab fa-github fa-fw"></i> Code
+                                </a>
+                                {{- end -}}
+                            </div>
+                        </div>
+                    </article>
+                    {{ $counter = sub $counter 1 }} <!-- Decrement the counter -->
+                {{- end -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+        {{- end -}}
+    </div>
+    </div>
+{{- end -}}

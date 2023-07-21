@@ -39,7 +39,7 @@
         <div class="post-meta">
             <div class="post-meta-line">
                 {{- with .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
-                    <i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="{{ . }}">{{ . }}</time>&nbsp;
+                    <i class="far fa-calendar-alt fa-fw"></i>&ensp;<time datetime="{{ . }}">{{ . }}</time>&ensp;
                 {{- end -}}
             </div>
         </div>
@@ -47,21 +47,21 @@
         <div>
             <!-- Article citation -->
             <h2>Citation and Links</h2>
-            {{- .Params.author -}}&nbsp;
-            {{- .Params.title -}}.&nbsp;
-            {{- .Params.journal -}}; doi: {{- .Params.doi -}}
-
+            {{- .Params.author | markdownify -}}. <span>{{- .Params.title -}}</span>.
+            <span style="font-style: italic;">{{- .Params.journal -}}</span>
+            ({{- .Site.Params.dateformat | default "2006" | .PublishDate.Format -}}).
+            DOI: {{- .Params.doi -}}.
             <!-- Article links -->
             <p>
                 <a href="https://www.doi.org/{{- .Params.doi -}}" target="_blank" class="publication-optional-info">
-                    <i class="fas fa-link"></i>
+                    <i class="fas fa-link"></i> Link
                 </a>
 
                 <!-- Optional pdf -->
                 {{- if .Params.show_pdf -}}
                     |
                     <a href="/publication-pdf/{{ .Params.identifier }}.pdf" target="_blank" class="publication-optional-info">
-                        <i class="fas fa-file-pdf"></i>
+                        <i class="fas fa-file-pdf"></i> PDF
                     </a>
                 {{- end -}}
 
@@ -69,7 +69,7 @@
                 {{- if .Params.show_code -}}
                     |
                     <a href="{{ .Params.show_code }}" target="_blank" class="publication-optional-info">
-                        <i class="fab fa-github fa-fw"></i>
+                        <i class="fab fa-github fa-fw"></i> Code
                     </a>
                 {{- end -}}
             </p>

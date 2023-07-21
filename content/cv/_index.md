@@ -76,7 +76,11 @@ layout: single
 <!-- Jan 2021 -->
 #### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
-<!-- ## Publications -->
+## Publications
+
+Corresponding Author*
+
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience*. [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
 

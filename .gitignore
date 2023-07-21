@@ -13,9 +13,9 @@
 /static/research-images
 
 # publication pages - wait until have publications
-/content/publications
-/static/publication-images
-/static/publication-pdf
+# /content/publications
+# /static/publication-images
+# /static/publication-pdf
 
 # members pages - wait until have a lab
 /content/members

@@ -147,25 +147,25 @@ theme = "LoveIt"
     name = "Resources"
     url = "/resources/"
     title = "Resources"
-    weight = 4
+    weight = 9
   [[menu.main]]
     identifier = "archive"
     name = "Archive"
     url = "/archive/"
     title = "Archive"
-    weight = 5
+    weight = 10
   # [[menu.main]]
   #   identifier = "research"
   #   name = "Research"
   #   url = "/research/"
   #   title = "Research"
   #   weight = 6
-  # [[menu.main]]
-  #   identifier = "publications"
-  #   name = "Publications"
-  #   url = "/publications/"
-  #   title = "Publications"
-  #   weight = 7
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    title = "Publications"
+    weight = 7
   # [[menu.main]]
   #   identifier = "members"
   #   name = "Members"
