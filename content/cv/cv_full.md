@@ -259,7 +259,7 @@ ChemE Associate Chair for Undergraduate Studies
 
 ### Jim Pfaendtner | <wjpfaend@ncsu.edu>
 
-<location> Department of Chemical Engineering, North Carolina State University </location>
+<location> Department of Chemical and Biomolecular Engineering, North Carolina State University </location>
 
 Professor
 
