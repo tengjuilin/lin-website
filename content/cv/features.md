@@ -7,7 +7,7 @@ date: 2023-08-06T22:09:31+08:00
 
 <span class="name">Teng-Jui Lin</span>
 
-<span class="info"> Passionate and detail-oriented undergraduate research assistant at the University of Washington interested in the intersection of drug delivery and data science.</span>
+<span class="info">Dedicated and detail-oriented Ph.D. student at UC Berkeley interested in the intersection of chemical engineering, bionanotechnology, and data science.</span>
 
 <span class="info">[Short CV](../) | [Full CV](../cv_full) | [Online Features](../features)</span>
 
