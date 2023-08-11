@@ -29,6 +29,7 @@ layout: single
 - Minor in Applied Mathematics and Chemistry
 - Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
 - Honors Thesis: Quantifying Microglia Morphological Response to Injury and Treatment Across Species with Unsupervised Machine Learning
+- Industry Capstone: Characterization of Silica-Based Anion Exchange Resin for Acid Mine Drainage
 
 ## Research Experience
 
