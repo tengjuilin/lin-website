@@ -109,7 +109,7 @@ draft: false
 
 Corresponding Author*
 
-1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience*. (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
 
