@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-08-13T22:09:31+08:00
+date: 2023-10-19T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-08-14</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-10-19</span>
 
 ## Education
 
@@ -32,6 +32,10 @@ layout: single
 - Industry Capstone: Characterization of Silica-Based Anion Exchange Resin for Acid Mine Drainage
 
 ## Research Experience
+
+### Graduate Student Researcher <time> Oct 2023 - Present</time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: Markita Landry </location>
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Jun 2023 </time>
 
@@ -101,7 +105,7 @@ Presenting Author^
 1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 19 May 2023. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. [Link.](https://guidebook.com/g/#/guides/sccur2022/schedule/sessions/28362210)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/)
 1. **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
@@ -169,6 +173,12 @@ Presenting Author^
 <!-- ## Student Mentoring // graduate level-->
 
 ## References
+
+### Markita Landry | <landry@berkeley.edu>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+
+Associate Professor
 
 ### Elizabeth Nance | <eanance@uw.edu>
 
