@@ -19,6 +19,7 @@ date: 2023-09-27T22:09:31+08:00
 
 ### University of Washington
 
+- [[Archive](../features-archive/2023-12-18-uw-cheme-catalyst-magazine.pdf)] [UW ChemE Magazine: *Catalyst*, 2023 Edition](https://www.cheme.washington.edu/sites/cheme/files/news/newsletter/docs/Catalyst2023_web.pdf) <time>18 Dec 2023</time>
 - [[Archive](../features-archive/2023-09-25-uw-industry-capstone.jpeg)] [Industry Capstone Feature: Acid, Ions, and Industry Experience](https://www.cheme.washington.edu/news/article/2023-09-25/acid-ions-and-industry-experience) <time>25 Sep 2023</time>
 - [[Archive](../features-archive/2023-08-honors-graduates-profile.jpg)] [Honors Graduates Profile](https://honors.uw.edu/community/grads/2022-2023/#name=Teng-Jui%20Lin) <time>Aug 2023</time>
 - [[Archive](../features-archive/2022-10-undergraduate-research-leader.jpeg)] [Undergraduate Research Leader Profile](https://www.washington.edu/undergradresearch/teng-jui-lin/) <time>Oct 2022</time>
