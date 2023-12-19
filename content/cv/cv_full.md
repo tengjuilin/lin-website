@@ -159,7 +159,7 @@ Presenting Author^
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: Aditi Krishnapriyan </location>
 
 - Designed and instructed 13 computational lab sections and assignments for >50 students
-- Formulated problems in 3 exams and 4 homeworks, responded student questions online
+- Formulated problems in 3 exams and 4 homework, responded student questions online
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
