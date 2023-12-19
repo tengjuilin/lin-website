@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-11-09T22:09:31+08:00
+date: 2023-12-18T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-11-09</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-12-19</span>
 
 ## Education
 
@@ -121,7 +121,7 @@ Presenting Author^
 
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
 
-### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Present </time>
+### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Dec 2023 </time>
 
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: Aditi Krishnapriyan </location>
 
@@ -141,7 +141,7 @@ Presenting Author^
 
 ## Service
 
-### Note Taker <time> Aug 2023 – Present </time>
+### Note Taker <time> Aug 2023 – Dec 2023 </time>
 
 <location> Disabled Students’ Program, UC Berkeley </location>
 
