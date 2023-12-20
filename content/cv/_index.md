@@ -35,15 +35,15 @@ layout: single
 
 ### Graduate Student Researcher <time> Oct 2023 - Present</time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: Markita Landry </location>
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: [Markita Landry](https://landrylab.com/) </location>
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Jun 2023 </time>
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+<location> Department of Chemical Engineering, University of Washington, PI: [Elizabeth Nance](https://www.nancelab.com/) </location>
 
 ### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
 
-<location> NSF Science and Technology Center on Real-Time Functional Imaging (STROBE) <br/> Department of Physics, Florida International University, PI: Jin He </location>
+<location> NSF Science and Technology Center on Real-Time Functional Imaging (STROBE) <br/> Department of Physics, Florida International University, PI: [Jin He](https://faculty.fiu.edu/~jinhe/) </location>
 
 ## Honors & Awards
 
@@ -178,13 +178,13 @@ Presenting Author^
 
 ## References
 
-### Markita Landry | <landry@berkeley.edu>
+### [Markita Landry](https://chemistry.berkeley.edu/faculty/cbe/landry) | <landry@berkeley.edu>
 
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
 
 Associate Professor
 
-### Elizabeth Nance | <eanance@uw.edu>
+### [Elizabeth Nance](https://www.cheme.washington.edu/facultyfinder/elizabeth-nance) | <eanance@uw.edu>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
@@ -192,7 +192,7 @@ Jagjeet and Janice Bindra Endowed Career Development Associate Professor
 
 ChemE Associate Chair for Undergraduate Studies
 
-### Jim Pfaendtner | <wjpfaend@ncsu.edu>
+### [Jim Pfaendtner](https://www.engr.ncsu.edu/about/dean/bio/) | <wjpfaend@ncsu.edu>
 
 <location> Department of Chemical and Biomolecular Engineering, North Carolina State University </location>
 
@@ -200,13 +200,13 @@ Professor
 
 Louis Martin-Vega Dean of Engineering
 
-### John Berg | <spc@uw.edu>
+### [John Berg](https://www.cheme.washington.edu/facultyfinder/john-c-berg) | <spc@uw.edu>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
 Rehnberg Chair Professor
 
-### Alex Prybutok | <prybutok@uw.edu>
+### [Alex Prybutok](https://www.cheme.washington.edu/facultyfinder/alex-prybutok) | <prybutok@uw.edu>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
