@@ -1,6 +1,6 @@
 ---
 title: "Online Features"
-date: 2023-09-27T22:09:31+08:00
+date: 2024-03-10T22:09:31+08:00
 ---
 
 <div class="cv">
@@ -13,7 +13,7 @@ date: 2023-09-27T22:09:31+08:00
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-12-19</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-03-10</span>
 
 ## Online Features
 
@@ -28,6 +28,7 @@ date: 2023-09-27T22:09:31+08:00
 
 ### Kinglee High School
 
+- [[Archive](../features-archive/2024-03-08-intro-cheme-major.jpeg)] [校友讲座 | 林腾睿：走进化学工程](https://mp.weixin.qq.com/s/vMpuVJe7FLOu7d9mJH6kIg) <time>8 Mar 2024</time>
 - [[Archive](../features-archive/2023-04-21-alumni-stories.jpeg)] [校友故事02 | 意料之外的“课堂”](https://mp.weixin.qq.com/s/mAi9OOl70b2W4M9cdFAt0w) <time>21 Apr 2023</time>
 - [[Archive](../features-archive/2023-04-12-phd-offers.jpeg)] [喜报 | 校友林腾睿获四封博士录取通知](https://mp.weixin.qq.com/s/jG86kZQperdDEX3mKp1vFg) <time>12 Apr 2023</time>
 - [[Archive](../features-archive/2018-01-25-group-activity.jpeg)] [我们 正扬帆起航](https://mp.weixin.qq.com/s/ZeuTBrJ5ObLy2okE09JUcA) <time>28 Jan 2019</time>
