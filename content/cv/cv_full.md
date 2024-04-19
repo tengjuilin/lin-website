@@ -186,7 +186,13 @@ Presenting Author^
 
 ## Service
 
-### Note Taker <time> Aug 2023 – Dec 2023 </time>
+### Graduate Student Mentor <time> Apr 2024 - Present </time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+
+- Mentor first-year undergraduate student from College of Chemistry on academic and career development
+
+### Note Taker <time> Aug 2023 - Dec 2023 </time>
 
 <location> Disabled Students’ Program, UC Berkeley </location>
 
