@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-12-18T22:09:31+08:00
+date: 2024-04-17T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-12-19</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-04-18</span>
 
 ## Education
 
@@ -115,11 +115,11 @@ Presenting Author^
 ## Mass Media Appearances
 
 1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
-1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
+1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
-### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
+### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 - Present </time>
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Dec 2023 </time>
 
@@ -149,31 +149,31 @@ Presenting Author^
 
 <location> Disabled Students’ Program, UC Berkeley </location>
 
-### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
+### Chemical Engineering Peer Mentor <time> Mar 2023 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
+### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 - Feb 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
-### Undergraduate Research Leader <time> Sep 2022 – Jun 2023 </time>
+### Undergraduate Research Leader <time> Sep 2022 - Jun 2023 </time>
 
 <location> Undergraduate Research Program, University of Washington </location>
 
-### Webmaster <time> Apr 2022 – Jun 2023 </time>
+### Webmaster <time> Apr 2022 - Jun 2023 </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
 
-### Secretary <time> May 2021 – Jun 2023 </time>
+### Secretary <time> May 2021 - Jun 2023 </time>
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
+### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
 
 <location> Chinese Students and Scholars Association, University of Washington </location>
 
-### Maple Hall Council Sustainability Representative <time> Oct 2019 – Mar 2020 </time>
+### Maple Hall Council Sustainability Representative <time> Oct 2019 - Mar 2020 </time>
 
 <location> Housing and Food Services, University of Washington </location>
 

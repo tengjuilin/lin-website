@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-12-18T22:09:31+08:00
+date: 2024-04-17T22:09:31+08:00
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-12-19</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-04-18</span>
 
 ## Education
 
@@ -143,11 +143,11 @@ Presenting Author^
 ## Mass Media Appearances
 
 1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
-1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
+1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
-### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
+### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 - Present </time>
 
 - [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
@@ -200,54 +200,54 @@ Presenting Author^
 
 - Organized detailed notes for >60 lectures of 2 core ChemE courses of Thermodynamics and Kinetics
 
-### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
+### Chemical Engineering Peer Mentor <time> Mar 2023 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
 - Facilitated coordination of Sophomore Welcome Event facing to 80+ students to form a cohort community
 - Led individual and group meetings with 6 ChemE sophomore mentees to discussed challenging concepts, learning strategies, and future goals, cultivating an inclusive campus climate for student success
 
-### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
+### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 - Feb 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington </location>
 
 - Interviewed 5 faculty candidates with committee members and attended candidate research seminars to assess research vision, teaching, mentoring, collaboration potential, and diversity, equity and inclusion efforts
 
-### Undergraduate Research Leader <time> Sep 2022 – Jun 2023 </time>
+### Undergraduate Research Leader <time> Sep 2022 - Jun 2023 </time>
 
 <location> Undergraduate Research Program, University of Washington </location>
 
 - Engaged 120+ students with diverse backgrounds from 6 first-year interest groups through interactive outreach presentations and served on a panel interfacing with 50+ students
 
-### Webmaster <time> Apr 2022 – Jun 2023 </time>
+### Webmaster <time> Apr 2022 - Jun 2023 </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
 
 - Designed, managed, and updated official website and social media interfacing with 200+ students
 - Facilitated coordination of ChemE BBQ event and graduation ceremony with 300+ cumulative  engagement
 
-### Secretary <time> May 2021 – Jun 2023 </time>
+### Secretary <time> May 2021 - Jun 2023 </time>
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
 - Composed biweekly newsletters to 400+ members for diversity-oriented events, resources, and highlights
 - Facilitated coordination of major events 300+ cumulative student and faculty engagement: Annual Industry event, Veteran's Day event, Wiki-edit-a-thon, International Women's Day event, and monthly general meetings
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
+### Research and Development Officer <time> Apr 2020 - Jun 2021 </time>
 
 <location> Chinese Students and Scholars Association, University of Washington </location>
 
 - Designed, crafted, and edited posters and videos for major events with average 100+ student engagement
 - Assisted in maintenance of official blog and website to provide academic resources for student success
 
-### Maple Hall Council Sustainability Representative <time> Oct 2019 – Mar 2020 </time>
+### Maple Hall Council Sustainability Representative <time> Oct 2019 - Mar 2020 </time>
 
 <location> Housing and Food Services, University of Washington </location>
 
 - Led weekly committee meetings of 10 people and planned campus-wide waste-sorting competition
 - Liaised sustainability feedback and initiatives through weekly hall council and sustainability group meetings
 
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
+### Peer Tutor of Math, Science, and English <time> Sep 2016 - Jun 2019 </time>
 
 <location> Kinglee High School </location>
 
@@ -255,7 +255,7 @@ Presenting Author^
 - Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
 - Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
 
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
+### Student Council Historian and Secretary <time> Oct 2017 - Jun 2019 </time>
 
 <location> Kinglee High School </location>
 
@@ -263,7 +263,7 @@ Presenting Author^
 - Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
 - Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
 
-### Peer Mentor for Laboratory Practices <time> Mar 2017 – Mar 2019 </time>
+### Peer Mentor for Laboratory Practices <time> Mar 2017 - Mar 2019 </time>
 
 <location> Kinglee High School </location>
 
