@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2024-04-17T22:09:31+08:00
+date: 2024-05-08T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-04-18</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-05-09</span>
 
 ## Education
 
@@ -93,6 +93,7 @@ Presenting Author^
 
 ### Oral Presentations
 
+1. **T.-J. Lin**^, M. Landry. Effect of Protein on Lipid Mixing of Liposome and Lipid Nanoparticle. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 9 May 2024.
 1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
 1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Neuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
