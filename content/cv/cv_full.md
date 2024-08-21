@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2024-05-08T22:09:31+08:00
+date: 2024-08-20T22:09:31+08:00
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-05-09</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-08-20</span>
 
 ## Education
 
@@ -157,16 +157,20 @@ Presenting Author^
 - Followed by people around the globe (25 countries) ranging from high school students to professors
 <!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Columbia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain -->
 
+### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2024 - Present </time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
+
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Dec 2023 </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: Aditi Krishnapriyan </location>
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) </location>
 
 - Designed and instructed 13 computational lab sections and assignments for >50 students
 - Formulated problems in 3 exams and 4 homework, responded student questions online
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
-<location> Department of Chemical Engineering, University of Washington, Instructor: John Berg </location>
+<location> Department of Chemical Engineering, University of Washington, Instructor: [John Berg](https://www.cheme.washington.edu/facultyfinder/john-c-berg) </location>
 
 - Instructed 3 sections/week for 8 different labs and graded 20 lab reports and 30 final presentations
 - Instructed usage of densitometer, microplate reader, BET surface area analyzer, inverted microscope, and conductivity meter
@@ -189,7 +193,11 @@ Presenting Author^
 
 ## Service
 
-### Graduate Student Mentor <time> Apr 2024 - Present </time>
+### Undergraduate Liaison <time> Aug 2024 - Present </time>
+
+<location> CBE Graduate Student Advisory Committee, UC Berkeley </location>
+
+### Graduate Student Mentor <time> Apr 2024 - May 2024 </time>
 
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
 
