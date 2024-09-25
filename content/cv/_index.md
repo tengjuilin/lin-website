@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2024-08-20T22:09:31+08:00
+date: 2024-09-23T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-08-20</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-09-25</span>
 
 ## Education
 
@@ -85,6 +85,12 @@ layout: single
 
 Corresponding Author*
 
+### Preprints
+
+1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *BioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
+
+### Peer-Reviewed Journal Publications
+
 1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
@@ -103,6 +109,8 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 25 Sep 2024.
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 24 Sep 2024.
 1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 19 May 2023. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
