@@ -121,7 +121,7 @@ Equal Contribution# | Corresponding Authors*
 
 ### In Press
 
-1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, Morteza Mahmoudi\*. Small Molecule Modulation of Protein Corona for Deep Plasma Proteome Profiling. *Nature Communications* (2024).
+1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, M. Mahmoudi\*. Small Molecule Modulation of Protein Corona for Deep Plasma Proteome Profiling. *Nature Communications* (2024).
 
 ### Peer-Reviewed
 
