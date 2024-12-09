@@ -118,6 +118,7 @@ Equal Contribution# | Corresponding Authors*
 ### Preprints
 
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
+   1. Featured by *Nature* (2024): "Bad bar charts are pervasive across biology" [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
 
 <!-- ### In Press -->
 
@@ -298,7 +299,17 @@ Presenting Author^
 - Taught lab safety guidelines, standard lab procedures, and best practices; ensured lab safety
 
 <!-- ## Professional Affiliation // professor level-->
-<!-- ## Student Mentoring // graduate level-->
+
+## Student Mentoring
+
+### Graduate Rotation Students
+
+1. Mina Oh, Chemical Biology <time> Sep 2024 - Nov 2024 </time>
+
+### Undergraduate Students
+
+1. Laura Kim, Data Science <time> Oct 2024 - Present </time>
+1. Miles Duong, Chemical Engineering <time> Aug 2024 - Present </time>
 
 ## References
 
