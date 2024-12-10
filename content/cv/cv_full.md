@@ -118,7 +118,7 @@ Equal Contribution# | Corresponding Authors*
 ### Preprints
 
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
-   - Featured by *Nature* (2024): "Bad bar charts are pervasive across biology" [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
+   - Featured by *Nature*: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
 
 <!-- ### In Press -->
 
