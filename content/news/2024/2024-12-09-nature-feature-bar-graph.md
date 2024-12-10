@@ -1,5 +1,5 @@
 ---
-title: Teng-Jui Lin's work on misused bar graphs is featured by Nature.
+title: Nature featured Teng-Jui Lin's work on misused bar graphs.
 date: 2024-12-09T00:00:00+08:00
 lightgallery: true
 ---
