@@ -117,6 +117,7 @@ Equal Contribution# | Corresponding Authors*
 
 ### Preprints
 
+1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep profiling of plant stress biomarkers following bacterial pathogen infection with protein corona based nano-omics. *bioRxiv* (2024). [DOI: 10.1101/2024.12.12.627884](https://doi.org/10.1101/2024.12.12.627884)
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
    - Featured by *Nature*: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
    - Commented by *Science*: "Bad Bar Graphs" (2024). [Link](https://www.science.org/content/blog-post/bad-bar-graphs).
