@@ -17,6 +17,11 @@ date: 2024-03-10T22:09:31+08:00
 
 ## Online Features
 
+### University of California, Berkeley
+
+- [[Archive](../features-archive/2024-12-11-science-comment-bar-graph.jpef)] [*Science*: “Bad Bar Graphs"](https://www.science.org/content/blog-post/bad-bar-graphs) <time>11 Dec 2024</time>
+- [[Archive](../features-archive/2024-12-09-nature-feature-bar-graph.pdf)] [*Nature*: “Bad Bar Charts are Pervasive across Biology”](https://doi.org/10.1038/d41586-024-03996-w) <time>09 Dec 2024</time>
+
 ### University of Washington
 
 - [[Archive](../features-archive/2023-12-18-uw-cheme-catalyst-magazine.pdf)] [UW ChemE Magazine: *Catalyst*, 2023 Edition](https://www.cheme.washington.edu/sites/cheme/files/news/newsletter/docs/Catalyst2023_web.pdf) <time>18 Dec 2023</time>
