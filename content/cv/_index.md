@@ -47,6 +47,9 @@ layout: single
 
 ## Honors & Awards
 
+<!-- Jan 2025 -->
+#### Poster Competition 1st Place | <location> Advanced Imaging Methods Workshop </location> <time> 2025 </time>
+
 #### Annual Dean's Lists | <location> University of Washington </location> <time> 2020 - 2023 </time>
 
 <!-- May 2023 -->
@@ -89,10 +92,11 @@ Equal Contribution# | Corresponding Authors*
 
 ### Preprints
 
+1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, R. Coreas, A. Lui, A. Iavarone, R Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *bioRxiv* (2025). [DOI: ](https://doi.org/)
 1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep profiling of plant stress biomarkers following bacterial pathogen infection with protein corona based nano-omics. *bioRxiv* (2024). [DOI: 10.1101/2024.12.12.627884](https://doi.org/10.1101/2024.12.12.627884)
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
    - Featured by *Nature*: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
-   - Commented by *Science*: "Bad Bar Graphs" (2024). [Link](https://www.science.org/content/blog-post/bad-bar-graphs).
+   - Featured by *Science*: "Bad Bar Graphs" (2024). [Link](https://www.science.org/content/blog-post/bad-bar-graphs).
 
 <!-- ### In Press -->
 
@@ -117,6 +121,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 22nd Annual Advanced Imaging Methods Workshop, Berkeley, CA, USA. </location> 22 Jan 2025.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 23 Oct 2024.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 25 Sep 2024.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 24 Sep 2024.
