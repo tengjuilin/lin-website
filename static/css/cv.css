@@ -51,6 +51,10 @@ location {
     font-weight: normal;
 }
 
+award {
+    font-weight: bold;
+}
+
 .name {
     font-size: 1.7rem;
     font-weight: bold;

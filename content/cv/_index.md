@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2024-12-31T22:09:31+08:00
+date: 2025-01-24T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2024-12-31</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025-01-24</span>
 
 ## Education
 
@@ -88,22 +88,20 @@ layout: single
 
 Equal Contribution# | Corresponding Authors*
 
-<!-- 1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep Profiling of Stress Markers in the *Arabidopsis* Proteome Following Bacterial Pathogen Infection via Protein Corona. -->
-
 ### Preprints
 
-1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, R. Coreas, A. Lui, A. Iavarone, R Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *bioRxiv* (2025). [DOI: ](https://doi.org/)
+1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, R. Coreas, A. Lui, A. Iavarone, R Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *bioRxiv* (2025). [DOI: 10.1101/2025.01.20.633942](https://doi.org/10.1101/2025.01.20.633942)
 1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep profiling of plant stress biomarkers following bacterial pathogen infection with protein corona based nano-omics. *bioRxiv* (2024). [DOI: 10.1101/2024.12.12.627884](https://doi.org/10.1101/2024.12.12.627884)
-1. **T.-J. Lin**, M.P. Landry\*. Quantifying Data Distortion in Bar Graphs in Biological Research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
-   - Featured by *Nature*: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
-   - Featured by *Science*: "Bad Bar Graphs" (2024). [Link](https://www.science.org/content/blog-post/bad-bar-graphs).
+1. **T.-J. Lin**, M.P. Landry\*. Quantifying data distortion in bar graphs in biological research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
+   - <award>Featured by *Nature*</award>: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
+   - <award>Featured by *Science*</award>: "Bad bar graphs" (2024). [Link](https://www.science.org/content/blog-post/bad-bar-graphs).
 
 <!-- ### In Press -->
 
 ### Peer-Reviewed
 
-1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, M. Mahmoudi\*. Small Molecule Modulation of Protein Corona for Deep Plasma Proteome Profiling. *Nature Communications* (2024). [DOI: 10.1038/s41467-024-53966-z](https://doi.org/10.1038/s41467-024-53966-z)
-1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
+1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, M. Mahmoudi\*. Small molecule modulation of protein corona for deep plasma proteome profiling. *Nature Communications* (2024). [DOI: 10.1038/s41467-024-53966-z](https://doi.org/10.1038/s41467-024-53966-z)
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and practices of immunofluorescent cell image processing: a systematic review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
 
@@ -121,15 +119,15 @@ Presenting Author^
 
 ### Poster Presentations
 
-1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 22nd Annual Advanced Imaging Methods Workshop, Berkeley, CA, USA. </location> 22 Jan 2025.
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 22nd Annual Advanced Imaging Methods Workshop, Berkeley, CA, USA. </location> 22 Jan 2025. <award>First Place Award.</award>
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 23 Oct 2024.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 25 Sep 2024.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 24 Sep 2024.
-1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023.
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2 Jun 2023. <award>Highlighted by [UW ChemE News](https://www.cheme.washington.edu/news/article/2023-09-25/acid-ions-and-industry-experience).</award>
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 19 May 2023. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 15 Apr 2023.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. <award>Conference Travel Award.</award>
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. <award>Second Place Award.</award> [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research-2/future-leaders-in-chemical-engineering/future-leaders-in-chemical-engineering/)
 1. **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
 
