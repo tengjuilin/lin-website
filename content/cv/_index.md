@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-02-01T22:09:31+08:00
+date: 2025-02-15T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -11,11 +11,11 @@ layout: single
 
 <span class="info">Dedicated and detail-oriented Ph.D. student at UC Berkeley interested in the intersection of chemical engineering, bionanotechnology, and data science.</span>
 
-<span class="info">[CV](../cv/) | [Online Features](../cv/features)</span>
+<span class="info">[CV](../cv/) | [Features](../cv/features) | [Teaching](../cv/teaching)</span>
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/02/01</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/02/15</span>
 
 ## Education
 
@@ -168,10 +168,14 @@ Presenting Author^
 
 ## Mass Media Appearances
 
+### Other online features can be found [here](https://tengjuilin.netlify.app/cv/features).
+
 1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
-1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
+1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397
 
 ## Teaching Experience
+
+### Student testimonials can be found [here](https://tengjuilin.netlify.app/cv/teaching).
 
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> 2021/01 - Present </time>
 

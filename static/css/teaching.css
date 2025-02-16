@@ -1,0 +1,116 @@
+cv {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    padding: 0;
+    margin: 20px 0 10px 0 !important;
+}
+
+h2 {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    color: #0D47A1;
+    margin: 20px 0 10px 0 !important;
+    padding: 0 0 2px 0;
+    font-size: 1.4em;
+}
+
+h3 {
+    font-weight: bold;
+    margin: 10px 0 0 0 !important;
+    font-size: 1em;
+}
+
+h4 {
+    font-weight: bold;
+    margin: 0px 0 0 0 !important;
+    font-size: 1em;
+}
+
+p, ul, ol {
+    margin: 0 !important;
+}
+
+div ul, div ol {
+    padding-left: 1.5rem !important;
+}
+
+time {
+    float: right;
+    font-size: inherit;
+    font-weight: bold;
+}
+
+location {
+    font-style: italic;
+    font-weight: normal;
+}
+
+award {
+    font-weight: bold;
+}
+
+.name {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+    display: block;
+    text-align: center;
+}
+
+.info {
+    display: block;
+    text-align: center;
+}
+
+.single-title{
+    display: none;
+}
+
+/* Table */
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    font-size: 0.9em;
+    padding: 0.05rem 1em !important;
+    margin: 0px;
+    border: 0px !important;
+}
+
+tr:nth-child(odd) {
+    background-color: #E8EAF6;
+}
+
+@media print {
+    h2 {
+        break-after: avoid;
+        /* Avoid breaking right after h2 */
+    }
+
+    h3 {
+        break-after: avoid;
+        /* Avoid breaking right after h3 */
+    }
+
+    h3~p,
+    h3~ul,
+    h3~ol,
+    h3~blockquote {
+        /* Add other tags as necessary */
+        break-before: avoid;
+        /* Avoid breaking right before these elements if they follow an h3 */
+    }
+
+    h3~h3 {
+        break-before: auto;
+        /* Allow breaks before a new h3, overriding previous rules */
+    }
+}
