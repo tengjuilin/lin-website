@@ -26,6 +26,11 @@ layout: single
 |Why doesn't this repo have 68k stars instead of 68?! Hi @tengjuilin, you've saved me countless number of hours! I have been switching back and forth between Word and LaTeX, every time refactoring some aspect only to realize it's not worth it, then switching to the other only to re-learn the quirks that originally made me switch, and it's been a broken cycle! I don't know how to thank you enough :)|
 nice repo! Thanks! How could I buy you a coffee/beer?
 Nice repo to create markdown resume!
+This video has been super helpful, thanks!
+大佬你太强了🤩🤩🤩b 站之光
+正愁怎么讲清楚扰动和液滴生成的原理就翻到了up的视频，感谢
+希望多出这种，继续保持，加油。
+这个讲的挺好的
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
