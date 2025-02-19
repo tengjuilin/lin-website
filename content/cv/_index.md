@@ -22,6 +22,7 @@ layout: single
 ### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> 2023/08 - Present </time>
 
 - Ph.D. student, Chemical and Biomolecular Engineering
+- Certificate in Teaching and Learning in Higher Education (In Progress)
 
 ### University of Washington | <location> Seattle, WA, USA </location> <time> 2019/09 - 2023/06 </time>
 
@@ -39,6 +40,11 @@ layout: single
 
 <location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: [Markita Landry](https://landrylab.com/) </location>
 
+- Quantified prevalence and extent of bar graph misuses in 3,000+ biological research articles, featured by Nature and Science with 9,000+ views
+- Analyzed gold nanoparticle corona proteomics dataset for recognition of plant biotic stress markers
+- Elucidating protein effects on the interaction between lipid nanoparticles and liposome membranes
+- Leading an interdisciplinary team to quantify misuse of colors in 16,000+ biological research articles
+
 ### Undergraduate Research Assistant <time> 2020/11 - 2023/06 </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: [Elizabeth Nance](https://www.nancelab.com/) </location>
@@ -46,7 +52,7 @@ layout: single
 - Developed 80% more efficient Python application programming interface for morphological analysis and modular integration to immunofluorescent image analysis workflow
 - Quantified microglia morphology in neuroinflammatory rat and ferret oxygen-glucose deprivation models and healthy mouse, rat, ferret, rabbit, and pig models (427,000+ cells) with immunofluorescent image processing and unsupervised machine learning
 - Analyzed number of publications that used immunofluorescent images at 450+ combinations of variables using PubMed web scrapping in Python, 93% more efficient than manual search
-- Tile-scanned 12 murine breast cancer tissue slices using confocal microscope (24.5 hr)
+- Tile-scanned murine breast cancer tissue slices using confocal microscope
 
 ### Summer Undergraduate Research Scholar <time> 2022/06 - 2022/08 </time>
 
@@ -157,14 +163,14 @@ Presenting Author^
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 2023/04/15.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 2022/11/19. <award>Conference Travel Award.</award>
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 2022/11/13. <award>Second Place Award.</award> [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 2022/10/24. [Link.](https://www.cbe.ncsu.edu/research-2/future-leaders-in-chemical-engineering/future-leaders-in-chemical-engineering/)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 2022/10/24. <award>Invited Award Symposium.</award> [Link.](https://www.cbe.ncsu.edu/research-2/future-leaders-in-chemical-engineering/future-leaders-in-chemical-engineering/)
 1. **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 2022/07/29.
 
 <!-- Add at top in reverse chronological order. -->
 
 ### Lightning Talks (≤ 3 min)
 
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 2022/10/24. [Link.](https://www.cbe.ncsu.edu/research-2/future-leaders-in-chemical-engineering/future-leaders-in-chemical-engineering/)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 2022/10/24. <award>Invited Award Symposium.</award> [Link.](https://www.cbe.ncsu.edu/research-2/future-leaders-in-chemical-engineering/future-leaders-in-chemical-engineering/)
 
 ## Mass Media Appearances
 
@@ -182,7 +188,7 @@ Presenting Author^
 - [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
 - [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry
-- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in chemical engineering numerical methods, process dynamics and control, process design, and surface and colloid science with >40 videos at >17000 total views and >400 stars/likes
+- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in chemical engineering numerical methods, process dynamics and control, process design, and surface and colloid science with >40 videos at >22,400 total views and >1,100 stars & likes
 - Followed by people around the globe (27 countries) ranging from high school students to professors
 <!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Colombia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain, Thailand, United Arab Emirates -->
 
@@ -213,6 +219,22 @@ Presenting Author^
 
 - Lectured 4 hours/week to 5 students in alignment with CollegeBoard-certified AP Calculus AB curriculum with interactive classroom activities to clarify complex concepts and common confusions
 - Designed and graded bidaily concept checks, homework, and quizzes with tight deadlines under supervision
+
+## Student Mentoring
+
+### Graduate Rotation Students
+
+1. Mina Oh, Chemical Biology <time> 2024/09 - 2024/11 </time>
+
+### Undergraduate Students
+
+^ Co-mentored student
+
+1. Zirun Liang^, Chemical Engineering <time> 2025/02 - Present </time>
+1. Jamie Lynn Thu Phan^, Public Health, Molecular and Cellular Biology <time> 2025/01 - Present </time>
+1. Ghida El Bsat, Chemical Engineering <time> 2025/01 - Present </time>
+1. Laura Kim, Data Science <time> 2024/10 - Present </time>
+1. Miles Duong, Chemical Engineering <time> 2024/08 - Present </time>
 
 ## Professional Experience
 
@@ -312,22 +334,6 @@ Presenting Author^
 - Taught lab safety guidelines, standard lab procedures, and best practices; ensured lab safety
 
 <!-- ## Professional Affiliation // professor level-->
-
-## Student Mentoring
-
-### Graduate Rotation Students
-
-1. Mina Oh, Chemical Biology <time> 2024/09 - 2024/11 </time>
-
-### Undergraduate Students
-
-^ Co-mentored student
-
-1. Zirun Liang^, Chemical Engineering <time> 2025/02 - Present </time>
-1. Jamie Lynn Thu Phan^, Public Health, Molecular and Cellular Biology <time> 2025/01 - Present </time>
-1. Ghida El Bsat, Chemical Engineering <time> 2025/01 - Present </time>
-1. Laura Kim, Data Science <time> 2024/10 - Present </time>
-1. Miles Duong, Chemical Engineering <time> 2024/08 - Present </time>
 
 ## References
 
