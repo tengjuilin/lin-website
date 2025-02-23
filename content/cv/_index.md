@@ -190,8 +190,8 @@ Presenting Author^
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
 - [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry
 - Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in chemical engineering numerical methods, process dynamics and control, process design, and surface and colloid science with >40 videos at >22,400 total views and >1,100 stars & likes
-- Followed by people around the globe (27 countries) ranging from high school students to professors
-<!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Colombia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain, Thailand, United Arab Emirates -->
+- Followed by people around the globe (28 countries) ranging from high school students to professors
+<!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Colombia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain, Thailand, United Arab Emirates, El Salvador -->
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
