@@ -55,6 +55,10 @@ award {
     font-weight: bold;
 }
 
+role {
+    font-style: italic;
+}
+
 .name {
     font-size: 1.7rem;
     font-weight: bold;

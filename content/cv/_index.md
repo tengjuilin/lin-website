@@ -247,93 +247,36 @@ Presenting Author^
 - Characterized and compared adsorption performance of anion exchange resins with a competitor by designing equilibrium experiments at standard conditions and after exposure to oxidizers and foulants
 - Analyzed and visualized concentration-time profiles, adsorption isotherms, and effect of oxidizers and foulants on adsorption of ceramic ion exchange resins with Python
 
-## Service
+## Leadership and Service
 
-### Undergraduate Liaison <time> 2024/08 - Present </time>
+### Professional Service at UC Berkeley
 
-<location> CBE Graduate Student Advisory Committee, UC Berkeley </location>
+1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/04 </time>
+1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2025/03 </time>
+1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2024/02 </time>
 
-### Graduate Student Mentor <time> 2024/04 - 2024/05 </time>
+### Community Service at UC Berkeley
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+1. CBE Graduate Student Advisory Committee, <role> Undergradate Liason </role> <time> 2024/08 - Present </time>
+1. CBE Graduate Students Mentoring Undergraduates Program, <role> Mentor </role> <time> 2024/04 </time>
+1. Disabled Students’ Program, <role> Note Taker </role> <time> 2023/08 - 2023/12 </time>
 
-- Mentor first-year undergraduate student from College of Chemistry on academic and career development
+### All Service at University of Washington
 
-### Note Taker <time> 2023/08 - 2023/12 </time>
+1. ChemE Peer Mentor Program, <role> Peer Mentor </role> <time> 2023/03 - 2023/06 </time>
+2. ChemE Faculty Search Committee, <role> Undergraduate Representative </role> <time> 2023/01 - 2023/02 </time>
+3. UW Undergraduate Research Program, <role> Undergraduate Research Leader </role> <time> 2022/09 - 2023/06 </time>
+4. AIChE, <role> Webmaster </role> <time> 2022/04 - 2023/06 </time>
+5. Women in Chemical Engineering, <role> Secretary </role> <time> 2021/05 - 2023/06 </time>
+6. Chinese Students and Scholars Association, <role> Research and Development Officer </role> <time> 2020/04 - 2021/06 </time>
+7. Housing and Food Services, Maple Hall Council, <role> Sustainability Representative </role> <time> 2019/10 - 2020/03 </time>
 
-<location> Disabled Students’ Program, UC Berkeley </location>
+### All Service at Kinglee High School
 
-- Organized detailed notes for >60 lectures of 2 core ChemE courses of Thermodynamics and Kinetics
-
-### Chemical Engineering Peer Mentor <time> 2023/03 - 2023/06 </time>
-
-<location> Department of Chemical Engineering, University of Washington </location>
-
-- Facilitated coordination of Sophomore Welcome Event facing to 80+ students to form a cohort community
-- Led individual and group meetings with 6 ChemE sophomore mentees to discussed challenging concepts, learning strategies, and future goals, cultivating an inclusive campus climate for student success
-
-### Undergraduate Representative, Faculty Search Committee <time> 2023/01 - 2023/02 </time>
-
-<location> Department of Chemical Engineering, University of Washington </location>
-
-- Interviewed 5 faculty candidates with committee members and attended candidate research seminars to assess research vision, teaching, mentoring, collaboration potential, and diversity, equity and inclusion efforts
-
-### Undergraduate Research Leader <time> 2022/09 - 2023/06 </time>
-
-<location> Undergraduate Research Program, University of Washington </location>
-
-- Engaged 120+ students with diverse backgrounds from 6 first-year interest groups through interactive outreach presentations and served on a panel interfacing with 50+ students
-
-### Webmaster <time> 2022/04 - 2023/06 </time>
-
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
-
-- Designed, managed, and updated official website and social media interfacing with 200+ students
-- Facilitated coordination of ChemE BBQ event and graduation ceremony with 300+ cumulative  engagement
-
-### Secretary <time> 2021/05 - 2023/06 </time>
-
-<location> Women in Chemical Engineering, University of Washington </location>
-
-- Composed biweekly newsletters to 400+ members for diversity-oriented events, resources, and highlights
-- Facilitated coordination of major events 300+ cumulative student and faculty engagement: Annual Industry event, Veteran's Day event, Wiki-edit-a-thon, International Women's Day event, and monthly general meetings
-
-### Research and Development Officer <time> 2020/04 - 2021/06 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events with average 100+ student engagement
-- Assisted in maintenance of official blog and website to provide academic resources for student success
-
-### Maple Hall Council Sustainability Representative <time> 2019/10 - 2020/03 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led weekly committee meetings of 10 people and planned campus-wide waste-sorting competition
-- Liaised sustainability feedback and initiatives through weekly hall council and sustainability group meetings
-
-### Peer Tutor of Math, Science, and English <time> 2016/09 - 2019/06 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> 2017/10 - 2019/06 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Peer Mentor for Laboratory Practices <time> 2017/03 - 2019/03 </time>
-
-<location> Kinglee High School </location>
-
-- Directed biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices; ensured lab safety
+1. Peer Tutor Program, <role> Peer Tutor </role> <time> 2016/09 - 2019/06 </time>
+2. Student Council, <role> Secretary </role> <time> 2018/10 - 2019/06 </time>
+3. Student Council, <role> Historian </role> <time> 2017/10 - 2018/10 </time>
+4. Laboratory Practices Training Program, <role> Peer Mentor </role> <time> 2017/03 - 2019/03 </time>
 
 <!-- ## Professional Affiliation // professor level-->
 
