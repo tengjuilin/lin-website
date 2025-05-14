@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-05-06T22:09:31+08:00
+date: 2025-05-13T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/05/06</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/05/13</span>
 
 ## Education
 
@@ -145,13 +145,14 @@ Presenting Author^
 
 ### Oral Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Hardly Strictly Molecular and Cellular Neuroscience Seminar, Dept. of Neuroscience, UC Berkeley, CA, USA. </location> 2025/05/13.
 1. (**Invited Seminar**) **T.-J. Lin**^, M. Landry. Quantifying Data Misrepresentations in Biological Research. <location> Group Meeting, Pun Lab, Dept. of Bioengineering, University of Washington, Seattle, WA, USA. </location> 2025/04/30.
-2. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/04/17.
-3. **T.-J. Lin**^, M. Landry. Effect of Protein on Lipid Mixing of Liposome and Lipid Nanoparticle. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2024/05/09.
-4. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2023/06/02.
-5. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Neuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 2022/11/13. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
-6. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
-7. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 2022/04/23.
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/04/17.
+1. **T.-J. Lin**^, M. Landry. Effect of Protein on Lipid Mixing of Liposome and Lipid Nanoparticle. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2024/05/09.
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2023/06/02.
+1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Neuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 2022/11/13. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 2022/04/23.
 
 <!-- Add at top in reverse chronological order. -->
 
@@ -267,19 +268,19 @@ Presenting Author^
 ### All Service at University of Washington
 
 1. ChemE Peer Mentor Program, <role> Peer Mentor </role> <time> 2023/03 - 2023/06 </time>
-2. ChemE Faculty Search Committee, <role> Undergraduate Representative </role> <time> 2023/01 - 2023/02 </time>
-3. UW Undergraduate Research Program, <role> Undergraduate Research Leader </role> <time> 2022/09 - 2023/06 </time>
-4. AIChE, <role> Webmaster </role> <time> 2022/04 - 2023/06 </time>
-5. Women in Chemical Engineering, <role> Secretary </role> <time> 2021/05 - 2023/06 </time>
-6. Chinese Students and Scholars Association, <role> Research and Development Officer </role> <time> 2020/04 - 2021/06 </time>
-7. Housing and Food Services, Maple Hall Council, <role> Sustainability Representative </role> <time> 2019/10 - 2020/03 </time>
+1. ChemE Faculty Search Committee, <role> Undergraduate Representative </role> <time> 2023/01 - 2023/02 </time>
+1. UW Undergraduate Research Program, <role> Undergraduate Research Leader </role> <time> 2022/09 - 2023/06 </time>
+1. AIChE, <role> Webmaster </role> <time> 2022/04 - 2023/06 </time>
+1. Women in Chemical Engineering, <role> Secretary </role> <time> 2021/05 - 2023/06 </time>
+1. Chinese Students and Scholars Association, <role> Research and Development Officer </role> <time> 2020/04 - 2021/06 </time>
+1. Housing and Food Services, Maple Hall Council, <role> Sustainability Representative </role> <time> 2019/10 - 2020/03 </time>
 
 ### All Service at Kinglee High School
 
 1. Peer Tutor Program, <role> Peer Tutor </role> <time> 2016/09 - 2019/06 </time>
-2. Student Council, <role> Secretary </role> <time> 2018/10 - 2019/06 </time>
-3. Student Council, <role> Historian </role> <time> 2017/10 - 2018/10 </time>
-4. Laboratory Practices Training Program, <role> Peer Mentor </role> <time> 2017/03 - 2019/03 </time>
+1. Student Council, <role> Secretary </role> <time> 2018/10 - 2019/06 </time>
+1. Student Council, <role> Historian </role> <time> 2017/10 - 2018/10 </time>
+1. Laboratory Practices Training Program, <role> Peer Mentor </role> <time> 2017/03 - 2019/03 </time>
 
 <!-- ## Professional Affiliation // professor level-->
 
