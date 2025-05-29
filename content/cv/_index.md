@@ -231,16 +231,20 @@ Presenting Author^
 
 ### Graduate Rotation Students
 
-1. Mina Oh, Chemical Biology <time> 2024/09 - 2024/11 </time>
+1. Mina Oh, <role> Chemical Biology </role> <time> 2024/09 - 2024/11 </time>
 
 ### Undergraduate Students
 
 ^ Co-mentored student
 
-1. Zirun Liang^, Chemical Engineering <time> 2025/02 - Present </time>
-1. Jamie Lynn Thu Phan^, Molecular and Cellular Biology <time> 2025/01 - Present </time>
-1. Laura Kim, Data Science <time> 2024/10 - Present </time>
-1. Miles Duong, Chemical Engineering <time> 2024/08 - Present </time>
+1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2025/02 - Present </time>
+1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - Present </time>
+1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
+1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - Present </time>
+
+### High School Students
+
+1. Mihika Garg <time> 2025/05 - Present </time>
 
 ## Professional Experience
 
