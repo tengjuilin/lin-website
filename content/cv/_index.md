@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-05-13T22:09:31+08:00
+date: 2025-07-03T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/05/13</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/07/03</span>
 
 ## Education
 
@@ -184,6 +184,7 @@ Presenting Author^
 
 ### Other online features can be found [here](https://tengjuilin.netlify.app/cv/features).
 
+1. (Insights letter) T. Chakraborty, H. Mekkawy, K. Cloete, R. Mahla, D. Peng, A. Perez, N. Rouabah, J. Gomes, F. Drallou, T. Abdalrahman, J. Santos, V. Tiwari, **T.-J. Lin**, S. He, J. Kadlec, F. Dincaslan, Y. Suchikova, Z. Lu, J. Shi, A. Gupta, A. Venturini, H. Abousidara, A. Mostafa, A. Uzonyi, A. Saber, Y. Ge, H. Ribeiro Jr. Supporting scientists who study and work abroad. *Science*. 389, 24-26 (2025). [DOI: 10.1126/science.aea0626](https://doi.org/10.1126/science.aea0626)
 1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
 1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
