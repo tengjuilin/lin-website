@@ -146,6 +146,7 @@ Presenting Author^
 
 ### Oral Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology Symposium, UC Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Hardly Strictly Molecular and Cellular Neuroscience Seminar, Dept. of Neuroscience, UC Berkeley, CA, USA. </location> 2025/05/13.
 1. (**Invited Seminar**) **T.-J. Lin**^, M. Landry. Quantifying Data Misrepresentations in Biological Research. <location> Group Meeting, Pun Lab, Dept. of Bioengineering, University of Washington, Seattle, WA, USA. </location> 2025/04/30.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/04/17.
@@ -159,6 +160,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/05/06.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 1st Annual Bay Area Plant Hub Symposium, San Francisco, CA, USA. </location> 2025/04/16.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 22nd Annual Advanced Imaging Methods Workshop, Berkeley, CA, USA. </location> 2025/01/22. <award>First Place Award.</award>
