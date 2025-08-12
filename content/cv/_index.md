@@ -187,9 +187,9 @@ Presenting Author^
 
 ### Other online features can be found [here](https://tengjuilin.netlify.app/cv/features).
 
-1. (Insights letter) T. Chakraborty, H. Mekkawy, K. Cloete, R. Mahla, D. Peng, A. Perez, N. Rouabah, J. Gomes, F. Drallou, T. Abdalrahman, J. Santos, V. Tiwari, **T.-J. Lin**, S. He, J. Kadlec, F. Dincaslan, Y. Suchikova, Z. Lu, J. Shi, A. Gupta, A. Venturini, H. Abousidara, A. Mostafa, A. Uzonyi, A. Saber, Y. Ge, H. Ribeiro Jr. Supporting scientists who study and work abroad. *Science*. 389, 24-26 (2025). [DOI: 10.1126/science.aea0626](https://doi.org/10.1126/science.aea0626)
-1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
-1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
+1. (Insights letter) **T.-J. Lin**, et al. Supporting scientists who study and work abroad. *Science*. 389, 24-26 (2025). [DOI: 10.1126/science.aea0626](https://doi.org/10.1126/science.aea0626)
+1. (Insights letter) **T.-J. Lin**, et al. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
+1. (Insights letter) **T.-J. Lin**, et al. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
@@ -270,6 +270,7 @@ Presenting Author^
 
 ### Community Service at UC Berkeley
 
+1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> Undergradate Liaison </role> <time> 2024/08 - 2025/08 </time>
