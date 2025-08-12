@@ -187,9 +187,9 @@ Presenting Author^
 
 ### Other online features can be found [here](https://tengjuilin.netlify.app/cv/features).
 
-1. (Insights letter) **T.-J. Lin**, et al. Supporting scientists who study and work abroad. *Science*. 389, 24-26 (2025). [DOI: 10.1126/science.aea0626](https://doi.org/10.1126/science.aea0626)
-1. (Insights letter) **T.-J. Lin**, et al. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
-1. (Insights letter) **T.-J. Lin**, et al. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
+1. (Insights letter) ..., **T.-J. Lin**, et al. Supporting scientists who study and work abroad. *Science*. 389, 24-26 (2025). [DOI: 10.1126/science.aea0626](https://doi.org/10.1126/science.aea0626)
+1. (Insights letter) ..., **T.-J. Lin**, et al. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
+1. (Insights letter) ..., **T.-J. Lin**, et al. When internships disappoint. *Science*. 378, 22-24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
