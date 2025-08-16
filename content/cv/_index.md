@@ -277,6 +277,7 @@ Presenting Author^
 ### Community Service at UC Berkeley
 
 <!-- 1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time> -->
+1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
