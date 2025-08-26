@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-08-14T22:09:31+08:00
+date: 2025-08-24T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/08/15</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/08/25</span>
 
 ## Education
 
@@ -132,6 +132,7 @@ Equal Contribution# | Corresponding Authors*
 ### Preprints
 
 1. **T.-J. Lin**, K. Hillman, L. Kim, M. Garg, M. Duong, M.P. Landry\*. Quantifying Misuse of Color in Biological Research. *bioRxiv* (2025). [DOI: 10.1101/2025.06.12.659203](https://doi.org/10.1101/2025.06.12.659203)
+   - <award>Featured by UC Berkeley College of Chemistry</award>: Shining a light on misleading data (2025). [Link](https://chemistry.berkeley.edu/news/shining-light-misleading-data).
 1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, R. Coreas, A. Lui, A. Iavarone, R Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *bioRxiv* (2025). [DOI: 10.1101/2025.01.20.633942](https://doi.org/10.1101/2025.01.20.633942)
 1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep profiling of plant stress biomarkers following bacterial pathogen infection with protein corona based nano-omics. *bioRxiv* (2024). [DOI: 10.1101/2024.12.12.627884](https://doi.org/10.1101/2024.12.12.627884)
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying data distortion in bar graphs in biological research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
