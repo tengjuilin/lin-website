@@ -39,9 +39,9 @@
 
             <!-- Right column of cards -->
             <div class="right-column">
-                <!-- Recent 7 news -->
+                <!-- Recent 10 news -->
                 <h2 class="home-section-title"><a href="news/">Recent news</a></h2>
-                {{- range ( where .Site.RegularPages "Type" "news" | first 7 ) -}}
+                {{- range ( where .Site.RegularPages "Type" "news" | first 10 ) -}}
                     {{- .Render "summary" -}}
                 {{- end -}}
             </div>
