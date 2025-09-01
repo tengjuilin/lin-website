@@ -249,10 +249,11 @@ Presenting Author^
 
 ^ Co-mentored student
 
+1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Coginitive Science </role> <time> 2025/09 - Present </time>
 1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
    - Next position: <role> Berkeley Optometric Group </role>
 1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
-1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - Present </time>
+1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
 1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - Present </time>
    - Award: <role> Future Leaders in ChemE 2025, NC State University </role>
 
