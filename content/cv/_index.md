@@ -65,7 +65,7 @@ layout: single
 ## Honors & Awards
 
 <!-- Aug 2025 -->
-#### D-Lab Consulting Fellowship | <location> D-Lab, UC Berkeley </location> <time> 2025 </time>
+#### D-Lab Consulting Fellowship | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 </time>
 
 <!-- Aug 2025 -->
 #### Early-Career Rigor Champions Prize | <location> NINDS, NIH </location> <time> 2025 </time>
