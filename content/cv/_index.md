@@ -167,6 +167,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 2025/09/03.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Bay Area Biotech Day, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/22.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/05/06.
