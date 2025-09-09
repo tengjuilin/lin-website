@@ -167,6 +167,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2025/09/08.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 2025/09/03.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Bay Area Biotech Day, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/22.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/11.
@@ -281,6 +282,7 @@ Presenting Author^
 
 ### Community Service at UC Berkeley
 
+1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2024/09 - Present </time>
 1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
