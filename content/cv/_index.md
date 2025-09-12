@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-08-24T22:09:31+08:00
+date: 2025-09-09T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/08/25</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/09/09</span>
 
 ## Education
 
@@ -251,6 +251,7 @@ Presenting Author^
 
 ^ Co-mentored student
 
+1. Shridavi Raghavan <role> Neuroscience </role> <time> 2025/09 - Present </time>
 1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
 1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
    - Next position: <role> Berkeley Optometric Group </role>
@@ -324,7 +325,7 @@ Associate Professor
 
 Jagjeet and Janice Bindra Endowed Career Development Associate Professor
 
-ChemE Associate Chair for Undergraduate Studies
+Department Chair of Chemical Engineering
 
 ### [Jim Pfaendtner](https://www.engr.ncsu.edu/about/dean/bio/) | <wjpfaend@ncsu.edu> | Leadership, Academics
 
