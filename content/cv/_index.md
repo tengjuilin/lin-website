@@ -145,7 +145,7 @@ Equal Contribution# | Corresponding Authors*
 
 1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, L. Zheng, R. Coreas, A. Lui, A. Iavarone, R. Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *Nature Communications* (2025). [DOI: 10.1038/s41467-025-63726-2](https://doi.org/10.1038/s41467-025-63726-2)
 1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, M. Mahmoudi\*. Small molecule modulation of protein corona for deep plasma proteome profiling. *Nature Communications* (2024). [DOI: 10.1038/s41467-024-53966-z](https://doi.org/10.1038/s41467-024-53966-z)
-1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and practices of immunofluorescent cell image processing: a systematic review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and practices of immunofluorescent cell image processing: a systematic review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858)
 
 ## Presentations
 
