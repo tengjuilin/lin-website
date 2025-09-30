@@ -133,7 +133,6 @@ Equal Contribution# | Corresponding Authors*
 
 1. **T.-J. Lin**, K. Hillman, L. Kim, M. Garg, M. Duong, M.P. Landry\*. Quantifying Misuse of Color in Biological Research. *bioRxiv* (2025). [DOI: 10.1101/2025.06.12.659203](https://doi.org/10.1101/2025.06.12.659203)
    - <award>Featured by UC Berkeley College of Chemistry and QB3 Berkeley</award>: Shining a light on misleading data (2025). [CoC Link](https://chemistry.berkeley.edu/news/shining-light-misleading-data). [QB3 Link](https://qb3.berkeley.edu/news/shining-a-light-on-misleading-data/).
-1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, R. Coreas, A. Lui, A. Iavarone, R Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *bioRxiv* (2025). [DOI: 10.1101/2025.01.20.633942](https://doi.org/10.1101/2025.01.20.633942)
 1. R. Coreas, N. Sridhar, **T.-J. Lin**, H. Squire, E. Voke, M.P. Landry\*. Deep profiling of plant stress biomarkers following bacterial pathogen infection with protein corona based nano-omics. *bioRxiv* (2024). [DOI: 10.1101/2024.12.12.627884](https://doi.org/10.1101/2024.12.12.627884)
 1. **T.-J. Lin**, M.P. Landry\*. Quantifying data distortion in bar graphs in biological research. *bioRxiv* (2024). [DOI: 10.1101/2024.09.20.609464](https://doi.org/10.1101/2024.09.20.609464)
    - <award>Featured by *Nature*</award>: "Bad bar charts are pervasive across biology" (2024). [DOI: 10.1038/d41586-024-03996-w](https://doi.org/10.1038/d41586-024-03996-w)
@@ -144,6 +143,7 @@ Equal Contribution# | Corresponding Authors*
 
 ### Peer-Reviewed
 
+1. E. Voke, M. Arral, H. Squire, **T.-J. Lin**, L. Zheng, R. Coreas, A. Lui, A. Iavarone, R. Pinals\*, K. Whitehead\*, M.P. Landry\*. Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo. *Nature Communications* (2025). [DOI: 10.1038/s41467-025-63726-2](https://doi.org/10.1038/s41467-025-63726-2)
 1. A. Ashkarran#, H. Gharibi#, S. Sadeghi, S. Modaresi, Q. Wang, **T.-J. Lin**, G. Yerima, A. Tamadon, M. Sayadi, M. Jafari, Z. Lin, D. Ritz, D. Kakhniashvili, A. Guha, M. Mofrad, L. Sun, M.P. Landry, A. Saei\*, M. Mahmoudi\*. Small molecule modulation of protein corona for deep plasma proteome profiling. *Nature Communications* (2024). [DOI: 10.1038/s41467-024-53966-z](https://doi.org/10.1038/s41467-024-53966-z)
 1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and practices of immunofluorescent cell image processing: a systematic review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
