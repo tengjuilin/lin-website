@@ -253,12 +253,12 @@ Presenting Author^
 
 1. Shridavi Raghavan, <role> Neuroscience </role> <time> 2025/09 - Present </time>
 1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
-1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
-   - Next position: <role> Berkeley Optometric Group </role>
 1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
-1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
 1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - Present </time>
    - Award: <role> Future Leaders in ChemE 2025, NC State University </role>
+1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
+   - Next position: <role> Berkeley Optometric Group </role>
+1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
 
 ### High School Students
 
@@ -285,11 +285,11 @@ Presenting Author^
 ### Community Service at UC Berkeley
 
 1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - Present </time>
-1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2024/09 - Present </time>
+1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - Present </time>
 1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time>
+1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
-1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> Undergradate Liaison </role> <time> 2024/08 - 2025/08 </time>
 1. CBE Graduate Students Mentoring Undergraduates Program, <role> Mentor </role> <time> 2024/04 </time>
 1. Disabled Students’ Program, <role> Note Taker </role> <time> 2023/08 - 2023/12 </time>
@@ -297,10 +297,10 @@ Presenting Author^
 ### All Service at University of Washington
 
 1. ChemE Peer Mentor Program, <role> Peer Mentor </role> <time> 2023/03 - 2023/06 </time>
-1. ChemE Faculty Search Committee, <role> Undergraduate Representative </role> <time> 2023/01 - 2023/02 </time>
 1. UW Undergraduate Research Program, <role> Undergraduate Research Leader </role> <time> 2022/09 - 2023/06 </time>
 1. AIChE, <role> Webmaster </role> <time> 2022/04 - 2023/06 </time>
 1. Women in Chemical Engineering, <role> Secretary </role> <time> 2021/05 - 2023/06 </time>
+1. ChemE Faculty Search Committee, <role> Undergraduate Representative </role> <time> 2023/01 - 2023/02 </time>
 1. Chinese Students and Scholars Association, <role> Research and Development Officer </role> <time> 2020/04 - 2021/06 </time>
 1. Housing and Food Services, Maple Hall Council, <role> Sustainability Representative </role> <time> 2019/10 - 2020/03 </time>
 
