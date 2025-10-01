@@ -19,6 +19,7 @@ date: 2025-08-24T22:09:31+08:00
 
 ### University of California, Berkeley
 
+- [[Archive](../features-archive/2025-08-25-berkeley-qb3-ninds.jpeg)] [UC Berkeley QB3: Shining a light on misleading data](https://qb3.berkeley.edu/news/shining-a-light-on-misleading-data/) <time>2025/08/25</time>
 - [[Archive](../features-archive/2025-08-25-berkeley-coc-ninds.jpeg)] [UC Berkeley College of Chemistry: Shining a light on misleading data](https://chemistry.berkeley.edu/news/shining-light-misleading-data) <time>2025/08/25</time>
 - [[Archive](../features-archive/2024-12-16-berkeley-neurosci-bar-graph.jpeg)] [UC Berkeley Neuroscience: How to avoid common data distortions with better bar graphs](https://neuroscience.berkeley.edu/news/how-avoid-common-data-distortions-better-bar-graphs) <time>2024/12/16</time>
 - [[Archive](../features-archive/2024-12-11-science-comment-bar-graph.jpeg)] [*Science*: “Bad Bar Graphs"](https://www.science.org/content/blog-post/bad-bar-graphs) <time>2024/12/11</time>
