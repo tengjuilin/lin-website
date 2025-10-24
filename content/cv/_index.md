@@ -168,6 +168,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/10/23.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> World Leading Scientists Institute 2025 Annual Conference, Berkeley, CA, USA. </location> 2025/10/13.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2025/09/08.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 2025/09/03.
