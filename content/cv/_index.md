@@ -153,7 +153,7 @@ Presenting Author^
 
 ### Oral Presentations
 
-1. (**Invited Lecture**) **T.-J. Lin**^, K. Hillman^, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> MCB 293 D Rigor and Reproducibility in Research, UC Berkeley, CA, USA. </location> 2025/10/30.
+1. (**Invited Lecture**) **T.-J. Lin**^, K. Hillman^, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Data Misrepresentations in Biological Research. <location> MCB 293 D: Rigor and Reproducibility in Research, UC Berkeley, CA, USA. </location> 2025/10/30.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/10/09.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology Symposium, UC Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Hardly Strictly Molecular and Cellular Neuroscience Seminar, Dept. of Neuroscience, UC Berkeley, CA, USA. </location> 2025/05/13.
