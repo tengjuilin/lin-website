@@ -255,6 +255,9 @@ Presenting Author^
 
 ^ Co-mentored student
 
+1. Catherine Alvarez Contreras, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
+1. Sofia Jacik, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
+1. Timothy Jan, <role> Applied Mathematics, Physics </role> <time> 2025/11 - Present </time>
 1. Shridavi Raghavan, <role> Neuroscience </role> <time> 2025/09 - Present </time>
 1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
 1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
