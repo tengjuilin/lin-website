@@ -219,7 +219,7 @@ Presenting Author^
 
 ### Graduate Student Instructor, <br/> CHM ENG 150A: Transport Processes <time> 2026/01 - Present </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette), [Shiyu Xia](https://chemistry.berkeley.edu/people/shiyu-xia) </location>
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette) </location>
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
