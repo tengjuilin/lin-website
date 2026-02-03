@@ -1,6 +1,6 @@
 ---
 title: "Online Features"
-date: 2025-08-24T22:09:31+08:00
+date: 2026-02-02T22:09:31+08:00
 ---
 
 <div class="cv">
@@ -13,12 +13,13 @@ date: 2025-08-24T22:09:31+08:00
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/08/25</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/02/02</span>
 
 ## Online Features
 
 ### University of California, Berkeley
 
+- [[Archive](../features-archive/2026-02-01-berkeley-stem-fyi.jpeg)] [UC Berkeley Graduate Division STEM First Year Initiative Profile](https://qb3.berkeley.edu/news/shining-a-light-on-misleading-data/) <time>2026/02</time>
 - [[Archive](../features-archive/2025-08-25-berkeley-qb3-ninds.jpeg)] [UC Berkeley QB3: Shining a light on misleading data](https://qb3.berkeley.edu/news/shining-a-light-on-misleading-data/) <time>2025/08/25</time>
 - [[Archive](../features-archive/2025-08-25-berkeley-coc-ninds.jpeg)] [UC Berkeley College of Chemistry: Shining a light on misleading data](https://chemistry.berkeley.edu/news/shining-light-misleading-data) <time>2025/08/25</time>
 - [[Archive](../features-archive/2024-12-16-berkeley-neurosci-bar-graph.jpeg)] [UC Berkeley Neuroscience: How to avoid common data distortions with better bar graphs](https://neuroscience.berkeley.edu/news/how-avoid-common-data-distortions-better-bar-graphs) <time>2024/12/16</time>
