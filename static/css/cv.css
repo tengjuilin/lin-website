@@ -55,6 +55,10 @@ award {
     font-weight: bold;
 }
 
+about {
+    font-weight: normal;
+}
+
 role {
     font-style: italic;
 }

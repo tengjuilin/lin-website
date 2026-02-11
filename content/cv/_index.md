@@ -65,10 +65,10 @@ layout: single
 ## Honors & Awards
 
 <!-- Aug 2025 -->
-#### D-Lab Consulting Fellowship | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 </time>
+#### D-Lab Consulting Fellowship | <about>[About](https://dlab.berkeley.edu/d-lab-fellowships)</about> | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 </time>
 
 <!-- Aug 2025 -->
-#### Early-Career Rigor Champions Prize | <location> NINDS, NIH </location> <time> 2025 </time>
+#### Early-Career Rigor Champions Prize | <about>[About](https://www.ninds.nih.gov/current-research/trans-agency-activities/rigor-transparency/rigor-champions-and-opportunities/ninds-rigor-champions-prize)</about> | <location> NINDS, NIH </location> <time> 2025 </time>
 
 <!-- Jan 2025 -->
 #### Poster Competition 1st Place | <location> Advanced Imaging Methods Workshop </location> <time> 2025 </time>
@@ -77,32 +77,32 @@ layout: single
 
 <!-- May 2023 -->
 <!-- Grand Prize, Upper Division Thesis -->
-#### Library Research Award for Undergraduates | <location> University Libraries, University of Washington </location> <time> 2023 </time>
+#### Library Research Award for Undergraduates | <about>[About](https://lib.uw.edu/student-programs/undergraduate-student-research-award/)</about> | <location> University Libraries, University of Washington </location> <time> 2023 </time>
 
 <!-- Apr 2023 -->
 <!-- 8 selected -->
-#### Nominee, Dean's Medal for Academic Excellence | <location> College of Engineering, University of Washington </location> <time> 2023 </time>
+#### Nominee, Dean's Medal for Academic Excellence | <about>[About](https://www.engr.washington.edu/news/deans-medal)</about> | <location> College of Engineering, University of Washington </location> <time> 2023 </time>
 
 <!-- Nov 2022 -->
 <!-- Food, Pharmaceutical and Biotech -->
-#### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
+#### Poster Competition 2nd Place | <about>[About](https://www.aiche.org/conferences/annual-aiche-student-conference/2022/events/2022-undergraduate-student-poster-competition)</about> | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
 
 <!-- Nov 2022 -->
-#### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
+#### Conference Travel Award | <about>[About](https://www.washington.edu/undergradresearch/fellowships-institutes-awards/cta/)</about> | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
 <!-- 32% selected -->
-#### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+#### Future Leader in ChemE | <about>[About](https://cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/)</about> | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-#### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+#### Dan Evans Term Scholarships | <about>[About](https://www.cheme.washington.edu/undergraduate_students/scholarships.html)</about> | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
 #### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
 <!-- 45% selected -->
-#### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
+#### Mary Gates Research Scholarship | <about>[About](https://expd.uw.edu/mge/apply/research/)</about> | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
 #### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
@@ -120,7 +120,7 @@ layout: single
 #### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
 
 <!-- Apr 2018 -->
-#### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
+#### Merit Student of Zhengzhou City | <about>[About](https://img.zzedu.net.cn/upload/resources/file/2018/05/04/3178037.pdf)</about> | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
 
 <!-- Jun 2017 -->
 #### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
