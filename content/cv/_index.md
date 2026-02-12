@@ -293,10 +293,8 @@ Presenting Author^
 
 ### Professional Service at UC Berkeley
 
-1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/10 </time>
-1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/04 </time>
-1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2025/03 </time>
-1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2024/02 </time>
+1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/10, 2025/04 </time>
+1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2026/02, 2025/03, 2024/02 </time>
 
 ### Community Service at UC Berkeley
 
