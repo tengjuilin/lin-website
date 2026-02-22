@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-12-26T22:09:31+08:00
+date: 2026-02-21T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/12/26</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/02/21</span>
 
 ## Education
 
@@ -24,7 +24,7 @@ layout: single
 - Ph.D. candidate, Chemical and Biomolecular Engineering
 - Certificate in Teaching and Learning in Higher Education (In Progress)
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> 2019/09 - 2023/06 </time>
+### University of Washington (UW) | <location> Seattle, WA, USA </location> <time> 2019/09 - 2023/06 </time>
 
 - B.S. in Chemical Engineering: Nanoscience and Molecular Engineering, *summa cum laude*
 - Minor in Applied Mathematics and Chemistry
@@ -73,57 +73,51 @@ layout: single
 <!-- Jan 2025 -->
 #### Poster Competition 1st Place | <location> Advanced Imaging Methods Workshop </location> <time> 2025 </time>
 
-#### Annual Dean's Lists | <location> University of Washington </location> <time> 2020 - 2023 </time>
+#### Annual Dean's Lists | <location> UW </location> <time> 2020 - 2023 </time>
 
 <!-- May 2023 -->
 <!-- Grand Prize, Upper Division Thesis -->
-#### Library Research Award for Undergraduates | <about>[About](https://lib.uw.edu/student-programs/undergraduate-student-research-award/)</about> | <location> University Libraries, University of Washington </location> <time> 2023 </time>
+#### Library Research Award for Undergraduates | <about>[About](https://lib.uw.edu/student-programs/undergraduate-student-research-award/)</about> | <location> University Libraries, UW </location> <time> 2023 </time>
 
 <!-- Apr 2023 -->
 <!-- 8 selected -->
-#### Nominee, Dean's Medal for Academic Excellence | <about>[About](https://www.engr.washington.edu/news/deans-medal)</about> | <location> College of Engineering, University of Washington </location> <time> 2023 </time>
+#### Nominee, Dean's Medal for Academic Excellence | <about>[About](https://www.engr.washington.edu/news/deans-medal)</about> | <location> College of Engineering, UW </location> <time> 2023 </time>
 
 <!-- Nov 2022 -->
 <!-- Food, Pharmaceutical and Biotech -->
-#### Poster Competition 2nd Place | <about>[About](https://www.aiche.org/conferences/annual-aiche-student-conference/2022/events/2022-undergraduate-student-poster-competition)</about> | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
+#### Poster Competition 2nd Place | <about>[About](https://www.aiche.org/conferences/annual-aiche-student-conference/2022/events/2022-undergraduate-student-poster-competition)</about> | <location> AIChE </location> <time> 2022 </time>
 
 <!-- Nov 2022 -->
-#### Conference Travel Award | <about>[About](https://www.washington.edu/undergradresearch/fellowships-institutes-awards/cta/)</about> | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
+#### Conference Travel Award | <about>[About](https://www.washington.edu/undergradresearch/fellowships-institutes-awards/cta/)</about> | <location> Undergraduate Research Program, UW </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
 <!-- 32% selected -->
-#### Future Leader in ChemE | <about>[About](https://cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/)</about> | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+#### Future Leader in ChemE | <about>[About](https://cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/)</about> | <location> NC State University CBE </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-#### Dan Evans Term Scholarships | <about>[About](https://www.cheme.washington.edu/undergraduate_students/scholarships.html)</about> | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+#### Dan Evans Term Scholarships | <about>[About](https://www.cheme.washington.edu/undergraduate_students/scholarships.html)</about> | <location> UW ChemE </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
-#### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+<!-- Jan 2021 -->
+#### ChemE Hackathon Team 1st, 3rd Places | <location> UW ChemE </location> <time> 2022 & 2021 </time>
 
 <!-- Dec 2021 -->
 <!-- 45% selected -->
-#### Mary Gates Research Scholarship | <about>[About](https://expd.uw.edu/mge/apply/research/)</about> | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
-
-<!-- Jan 2021 -->
-#### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+#### Mary Gates Research Scholarship | <about>[About](https://expd.uw.edu/mge/apply/research/)</about> | <location> Mary Gates Endowment for Students, UW </location> <time> 2021 </time>
 
 <!-- May 2019 -->
 #### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
 
 <!-- May 2019 -->
-#### Peer Tutor Award | <location> Kinglee High School </location> <time> 2019 </time>
+<!-- May 2018 -->
+#### Peer Tutor Awards | <location> Kinglee High School </location> <time> 2019 & 2018 </time>
 
 <!-- Jun 2018 -->
-#### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> 2018 </time>
-
-<!-- May 2018 -->
-#### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
+<!-- Jun 2017 -->
+#### Science Fair Award 2nd, 1st Places | <location> Kinglee High School </location> <time> 2018 & 2017 </time>
 
 <!-- Apr 2018 -->
 #### Merit Student of Zhengzhou City | <about>[About](https://img.zzedu.net.cn/upload/resources/file/2018/05/04/3178037.pdf)</about> | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
-
-<!-- Jun 2017 -->
-#### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
 
 ## Publications
 
@@ -157,12 +151,12 @@ Presenting Author^
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/10/09.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology Symposium, UC Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Hardly Strictly Molecular and Cellular Neuroscience Seminar, Dept. of Neuroscience, UC Berkeley, CA, USA. </location> 2025/05/13.
-1. (**Invited Seminar**) **T.-J. Lin**^, M. Landry. Quantifying Data Misrepresentations in Biological Research. <location> Group Meeting, Pun Lab, Dept. of Bioengineering, University of Washington, Seattle, WA, USA. </location> 2025/04/30.
+1. (**Invited Seminar**) **T.-J. Lin**^, M. Landry. Quantifying Data Misrepresentations in Biological Research. <location> Group Meeting, Pun Lab, Dept. of Bioengineering, UW, Seattle, WA, USA. </location> 2025/04/30.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/04/17.
 1. **T.-J. Lin**^, M. Landry. Effect of Protein on Lipid Mixing of Liposome and Lipid Nanoparticle. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2024/05/09.
-1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2023/06/02.
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, UW, Seattle, WA, USA. </location> 2023/06/02.
 1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of microglia morphology across different Neuroinflammatory rat models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 2022/11/13. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, UW, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 2022/04/23.
 
 <!-- Add at top in reverse chronological order. -->
@@ -173,7 +167,7 @@ Presenting Author^
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/10/23.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> World Leading Scientists Institute 2025 Annual Conference, Berkeley, CA, USA. </location> 2025/10/13.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2025/09/08.
-1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 2025/09/03.
+1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Molecular Therapeutics Division Retreat, UC Berkeley, CA, USA. </location> 2025/09/03.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Bay Area Biotech Day, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/22.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Veridical Data Science for Biology, UC Berkeley, Berkeley, CA, USA. </location> 2025/07/11.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/05/06.
@@ -181,9 +175,9 @@ Presenting Author^
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> 22nd Annual Advanced Imaging Methods Workshop, Berkeley, CA, USA. </location> 2025/01/22. <award>First Place Award.</award>
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2024/10/23.
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chan Zuckerberg Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2024/09/25.
-1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Molecular Therapeutics Division Retreat, University of California, Berkeley, CA, USA. </location> 2024/09/24.
-1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, University of Washington, Seattle, WA, USA. </location> 2023/06/02. <award>Highlighted by [UW ChemE News](https://www.cheme.washington.edu/news/article/2023-09-25/acid-ions-and-industry-experience).</award>
-1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 2023/05/19. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
+1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Molecular Therapeutics Division Retreat, UC Berkeley, CA, USA. </location> 2024/09/24.
+1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, UW, Seattle, WA, USA. </location> 2023/06/02. <award>Highlighted by [UW ChemE News](https://www.cheme.washington.edu/news/article/2023-09-25/acid-ions-and-industry-experience).</award>
+1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> Undergraduate Research Symposium, UW, Seattle, WA, USA. </location> 2023/05/19. [Link.](https://expo.uw.edu/expo/apply/676/proceedings/result?mentor_name=Helmbrecht%2C+Hawley)
 1. **T.-J. Lin**^, H. Helmbrecht, R. Jin, T. Wood, E. Nance. Assessing separate and combinatorial treatments in neuroinflammatory preterm ferret model by quantifying microglia and oligodendrocyte morphology. <location> AIChE Pacific Northwest Student Regional Conference, Corvallis, OR, USA. </location> 2023/04/15.
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 2022/11/19. <award>Conference Travel Award.</award>
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 2022/11/13. <award>Second Place Award.</award> [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
@@ -220,25 +214,25 @@ Presenting Author^
 
 ### Graduate Student Instructor, <br/> CHM ENG 150A: Transport Processes <time> 2026/01 - Present </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette) </location>
+<location> UC Berkeley CBE, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette) </location>
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
+<location> UC Berkeley CBE, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
 
 - Independently designed and instructed 2 computational lab sections/week for 13 different labs for >100 students
 - Formulated problems in 3 exams and 13 labs, responded student questions online
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2023/08 - 2023/12 </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) </location>
+<location> UC Berkeley CBE, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) </location>
 
 - Co-instructed 1 computational lab section/week for 13 different labs for >50 students
 - Formulated problems in 3 exams and 4 homework, responded student questions online
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> 2023/03 - 2023/06 </time>
 
-<location> Department of Chemical Engineering, University of Washington, Instructor: [John Berg](https://www.cheme.washington.edu/facultyfinder/john-c-berg) </location>
+<location> UW ChemE, Instructor: [John Berg](https://www.cheme.washington.edu/facultyfinder/john-c-berg) </location>
 
 - Instructed 3 sections/week for 8 different labs and graded 20 lab reports and 30 final presentations
 - Instructed usage of densitometer, microplate reader, BET surface area analyzer, inverted microscope, and conductivity meter
@@ -260,6 +254,7 @@ Presenting Author^
 
 ^ Co-mentored student
 
+1. Bowen Hou, <role> Chemical Engineering </role> <time> 2026/01 - Present </time>
 1. Catherine Alvarez Contreras, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
 1. Sofia Jacik, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
 1. Timothy Jan, <role> Applied Mathematics, Physics </role> <time> 2025/11 - Present </time>
@@ -274,13 +269,14 @@ Presenting Author^
 
 ### High School Students
 
+1. Tia Ghoshal <time> 2025/12 - Present </time>
 1. Mihika Garg <time> 2025/05 - Present </time>
 
 ## Professional Experience
 
 ### Member, Industry Capstone Project Team <time> 2023/01 - 2023/06 </time>
 
-<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+<location> UC ChemE | Membrion, Inc. </location>
 
 - Characterized and compared adsorption performance of anion exchange resins with a competitor by designing equilibrium experiments at standard conditions and after exposure to oxidizers and foulants
 - Analyzed and visualized concentration-time profiles, adsorption isotherms, and effect of oxidizers and foulants on adsorption of ceramic ion exchange resins with Python
@@ -295,7 +291,7 @@ Presenting Author^
 ### Professional Service at UC Berkeley
 
 1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/10, 2025/04 </time>
-1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2026/02, 2025/03, 2024/02 </time>
+1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2024 - 2026 </time> <!-- 2026/02, 2025/03, 2024/02 -->
 
 ### Community Service at UC Berkeley
 
@@ -309,7 +305,7 @@ Presenting Author^
 1. CBE Graduate Students Mentoring Undergraduates Program, <role> Mentor </role> <time> 2024/04 </time>
 1. Disabled Students’ Program, <role> Note Taker </role> <time> 2023/08 - 2023/12 </time>
 
-### All Service at University of Washington
+### All Service at UW
 
 1. ChemE Peer Mentor Program, <role> Peer Mentor </role> <time> 2023/03 - 2023/06 </time>
 1. UW Undergraduate Research Program, <role> Undergraduate Research Leader </role> <time> 2022/09 - 2023/06 </time>
@@ -332,13 +328,13 @@ Presenting Author^
 
 ### [Markita Landry](https://chemistry.berkeley.edu/faculty/cbe/landry) | <landry@berkeley.edu> | Research, Leadership
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+<location> UC Berkeley CBE </location>
 
 Associate Professor
 
 ### [Elizabeth Nance](https://www.cheme.washington.edu/facultyfinder/elizabeth-nance) | <eanance@uw.edu> | Research, Leadership, Academics
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<location> UW ChemE </location>
 
 Jagjeet and Janice Bindra Endowed Career Development Associate Professor
 
@@ -346,7 +342,7 @@ Department Chair of Chemical Engineering
 
 ### [Jim Pfaendtner](https://www.engr.ncsu.edu/about/dean/bio/) | <wjpfaend@ncsu.edu> | Leadership, Academics
 
-<location> Department of Chemical and Biomolecular Engineering, North Carolina State University </location>
+<location> NC State University CBE </location>
 
 Professor
 
@@ -354,19 +350,19 @@ Louis Martin-Vega Dean of Engineering
 
 ### [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) | <aditik1@berkeley.edu> | Teaching, Leadership
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+<location> UC Berkeley CBE </location>
 
 Bruce & Susan Stangeland Assistant Professor
 
 ### [John Berg](https://www.cheme.washington.edu/facultyfinder/john-c-berg) | <spc@uw.edu> | Teaching, Academics
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<location> UW ChemE </location>
 
 Rehnberg Chair Professor
 
 ### [Alex Prybutok](https://www.cheme.washington.edu/facultyfinder/alex-prybutok) | <prybutok@uw.edu> | Academics, Research
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<location> UW ChemE </location>
 
 Assistant Teaching Professor
 
