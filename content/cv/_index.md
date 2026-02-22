@@ -336,7 +336,7 @@ Associate Professor
 
 <location> UW ChemE </location>
 
-Jagjeet and Janice Bindra Endowed Career Development Associate Professor
+Steven R. and Connie R. Rogel Endowed Associate Professor
 
 Department Chair of Chemical Engineering
 
