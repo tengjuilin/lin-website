@@ -292,6 +292,7 @@ Presenting Author^
 
 1. CBE Graduate Student Symposium, <role> Co-organizer </role> <time> 2025/10, 2025/04 </time>
 1. CBE Faculty Search Committee, <role> Graduate Representative </role> <time> 2024 - 2026 </time> <!-- 2026/02, 2025/03, 2024/02 -->
+1. CBE Prospective PhD Student Visit Weekend, <role> Volunteer </role> <time> 2024 - 2026 </time> <!-- 2026/02, 2025/02, 2024/02 -->
 
 ### Community Service at UC Berkeley
 
