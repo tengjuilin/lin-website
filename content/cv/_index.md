@@ -300,6 +300,8 @@ Presenting Author^
 1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - Present </time>
 1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
+1. CBE Graduate Student Advisory Committee, <role> Lab Representative </role> <time> 2024/01 - Present </time>
+1. Chemistry Undergraduate Research Initiative and Enrichment, <role> Panelist </role> <time> 2026/03 </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
 1. CBE Graduate Student Advisory Committee, <role> Undergradate Liaison </role> <time> 2024/08 - 2025/08 </time>
