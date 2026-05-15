@@ -209,26 +209,29 @@ Presenting Author^
 - Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
 - [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry
 - Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in chemical engineering numerical methods, process dynamics and control, process design, and surface and colloid science with >40 videos at >22,400 total views and >1,100 stars & likes
-- Followed by people around the globe (30 countries) ranging from high school students to professors
-<!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Colombia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain, Thailand, United Arab Emirates, El Salvador, Argentina, Denmark -->
+- Followed by people around the globe (31 countries) ranging from high school students to professors
+<!-- US, UK, Iran, Kazakhstan, Philippines, India, China, Brazil, Austria, Colombia, Singapore, Vietnam, Portugal, South Korea, Turkey, Greece, France, Egypt, Canada, Germany, Indonesia, Japan, Italy, Morocco, Spain, Thailand, United Arab Emirates, El Salvador, Argentina, Denmark, Peru -->
 
-### Graduate Student Instructor, <br/> CHM ENG 150A: Transport Processes <time> 2026/01 - Present </time>
+### Graduate Student Instructor, CHM ENG 150A: Transport Processes <time> 2026/01 - 2026/05 </time>
 
 <location> UC Berkeley CBE, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette) </location>
+
+- Instructed 2 discussion sections/week for >50 students
+- Helped formulating problems in 3 exams, 13 quizzes, 13 discussions, and 12 homework, responded student questions online and in twice weekly office hours
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
 <location> UC Berkeley CBE, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
 
 - Independently designed and instructed 2 computational lab sections/week for 13 different labs for >100 students
-- Formulated problems in 3 exams and 13 labs, responded student questions online
+- Formulated problems in 3 exams and 13 labs, responded student questions online and in once weekly office hours
 
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2023/08 - 2023/12 </time>
 
 <location> UC Berkeley CBE, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) </location>
 
 - Co-instructed 1 computational lab section/week for 13 different labs for >50 students
-- Formulated problems in 3 exams and 4 homework, responded student questions online
+- Formulated problems in 3 exams and 4 homework, responded student questions online and in once weekly office hours
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> 2023/03 - 2023/06 </time>
 
@@ -259,10 +262,12 @@ Presenting Author^
 1. Sofia Jacik, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
 1. Timothy Jan, <role> Applied Mathematics, Physics </role> <time> 2025/11 - Present </time>
 1. Shridavi Raghavan, <role> Neuroscience </role> <time> 2025/09 - Present </time>
+   - Award: <role> Bakar Ignite Scholars, Summer 2026, UC Berkeley </role>
 1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
 1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
-1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - Present </time>
+1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - 2026/05 </time>
    - Award: <role> Future Leaders in ChemE 2025, NC State University </role>
+   - Next position: <role> Graduate Student, MIT </role>
 1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
    - Next position: <role> Berkeley Optometric Group </role>
 1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
@@ -270,13 +275,13 @@ Presenting Author^
 ### High School Students
 
 1. Tia Ghoshal <time> 2025/12 - Present </time>
-1. Mihika Garg <time> 2025/05 - Present </time>
+1. Mihika Garg <time> 2025/05 - 2025/08 </time>
 
 ## Professional Experience
 
 ### Member, Industry Capstone Project Team <time> 2023/01 - 2023/06 </time>
 
-<location> UC ChemE | Membrion, Inc. </location>
+<location> UW ChemE | Membrion, Inc. </location>
 
 - Characterized and compared adsorption performance of anion exchange resins with a competitor by designing equilibrium experiments at standard conditions and after exposure to oxidizers and foulants
 - Analyzed and visualized concentration-time profiles, adsorption isotherms, and effect of oxidizers and foulants on adsorption of ceramic ion exchange resins with Python
@@ -296,11 +301,11 @@ Presenting Author^
 
 ### Community Service at UC Berkeley
 
-1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - Present </time>
-1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - Present </time>
-1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> Lab Representative </role> <time> 2024/01 - Present </time>
+1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - 2026/05 </time>
+1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - 2026/05 </time>
+1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - 2026/05 </time>
 1. Chemistry Undergraduate Research Initiative and Enrichment, <role> Panelist </role> <time> 2026/03 </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
 1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
