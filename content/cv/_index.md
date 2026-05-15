@@ -342,7 +342,7 @@ Associate Professor
 
 ### [Elizabeth Nance](https://www.cheme.washington.edu/facultyfinder/elizabeth-nance) | <eanance@uw.edu> | Research, Leadership, Academics
 
-<location> UW ChemE </location>
+<location> UW ChemE, BioE </location>
 
 Steven R. and Connie R. Rogel Endowed Associate Professor
 
