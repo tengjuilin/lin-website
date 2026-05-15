@@ -348,13 +348,13 @@ Steven R. and Connie R. Rogel Endowed Associate Professor
 
 Department Chair of Chemical Engineering
 
-### [Jim Pfaendtner](https://www.engr.ncsu.edu/about/dean/bio/) | <wjpfaend@ncsu.edu> | Leadership, Academics
+### [Jim Pfaendtner](https://cbe.ncsu.edu/people/jim-pfaendtner/) | <pfaendtner@ncsu.edu> | Leadership, Academics
 
 <location> NC State University CBE </location>
 
 Professor
 
-Louis Martin-Vega Dean of Engineering
+Executive Vice Chancellor and Provost
 
 ### [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan) | <aditik1@berkeley.edu> | Teaching, Leadership
 
