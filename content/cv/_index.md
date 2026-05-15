@@ -336,7 +336,7 @@ Presenting Author^
 
 ### [Markita Landry](https://chemistry.berkeley.edu/faculty/cbe/landry) | <landry@berkeley.edu> | Research, Leadership
 
-<location> UC Berkeley CBE </location>
+<location> UC Berkeley CBE, Neuroscience </location>
 
 Associate Professor
 
