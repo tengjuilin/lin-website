@@ -1,6 +1,6 @@
 ---
 title: "Student Testimonials"
-date: 2025-02-15T22:09:31+08:00
+date: 2026-06-02T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2025/02/15</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/06/03</span>
 
 ## Testimonials
 
@@ -32,9 +32,44 @@ This video has been super helpful, thanks!
 希望多出这种，继续保持，加油。
 这个讲的挺好的
 
+### Graduate Student Instructor, CHM ENG 150A: Transport Processes <time> 2026/01 - 2026/05 </time>
+
+<location> UC Berkeley CBE, Instructor: [Joelle Frechette](https://chemistry.berkeley.edu/people/joelle-frechette) </location>
+
+||
+|-|
+|Owen does an amazing job of answering questions accurately while making sure we aren't more confused. He never oversimplifies the concepts just so we understand, he makes sure we see both the molecular and large picture. He did a great job of preparing us for our exams, homework, and being able do the work assigned to us. He's also very caring, and when students ask questions during lecture he makes sure to follow up with them afterwards and make sure their questions were properly answered.|
+Owen/Teng–Jui was an excellent GSI and I gained a much better understanding of the course material in his discussion sections than I did in lecture. He knows how to explain difficult concepts clearly and he emphasizes the most important information.
+Very knowledgeable on all topics covered and answers questions in a way that makes students think to find the answer.
+Owen did an excellent job: Clear, well-spoken, and organized.
+Amazing GSI
+Owen would always think about his approach to explaining a question before he began to explain it, which allowed him to provide accurate answers. He would put the material into simpler terms that made it more palatable.
+Very good explanations and pacing. I like how you repeated students' questions so that the entire class could hear. Very satisfied with the lecture
+Amazing GSI. Was always prepared in class and gave really good review lectures that help highlight the important content and cuts down on the fluff. However, will say that an exam is easy, though it is very much not.
+Good pace as being a bit slow is better than too fast. No complaints.
+It was good
+Great pacing, clear explanations, focused replies to questions
+I thought it was a good lecture
+Clearly explained concepts!
+Great office hours
+really good at answering questions! makes sure to give us the correct answer, not just the simple one which I really appreciate
+when he goes through his thought process at a slower pace when solving the end of discussion questions
+Conceptualize the content easier.
+He takes time to think over his answer before replying to a question, making his response clearer
+Explains very well.
+Owen communicates clearly, can break down complicated problems into an understandable form, and is personable.
+Slowing down the pace just a little bit. Besides that, his teaching is better than most professors.
+goat
+very helpful in discussions and on ed
+Overall amazing
+Also a great GSI, very well informed.
+Nice person, helpful in OH
+I think he went fast sometimes and wasn't stopping to make sure people were following along. But very willing to answer questions and always knew the answer. Easy to understand.
+He's chill
+
 ### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> 2024/08 - 2024/12 </time>
 
-<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
+<location> UC Berkeley CBE, Instructor: [Aditi Krishnapriyan](https://chemistry.berkeley.edu/people/aditi-krishnapriyan), [Rui Wang](https://chemistry.berkeley.edu/people/rui-wang) </location>
 
 ||
 |-|
