@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2026-02-21T22:09:31+08:00
+date: 2026-07-22T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/02/21</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/07/22</span>
 
 ## Education
 
@@ -63,6 +63,9 @@ layout: single
 - Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data and processed confocal microscopy images of cardiomyocytes with Python
 
 ## Honors & Awards
+
+<!-- Aug 2026 -->
+#### Diversity & Community Fellowship | <about>[About](https://grad.berkeley.edu/financial/options-for-financial-support/fellowships/diversity-and-community-fellows-program/)</about> | <location> Graduate Division, UC Berkeley </location> <time> 2026 </time>
 
 <!-- Aug 2025 -->
 #### D-Lab Consulting Fellowship | <about>[About](https://dlab.berkeley.edu/d-lab-fellowships)</about> | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 </time>
@@ -301,8 +304,10 @@ Presenting Author^
 
 ### Community Service at UC Berkeley
 
-1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - Present </time>
+1. Graduate Division, <role> Diversity & Community Fellow </role> <time> 2026/08 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> Lab Representative </role> <time> 2024/01 - Present </time>
+1. Graduate Division, Inclusive Excellence Summer Research Experience, <role> Volunteer </role> <time> 2026/07 </time>
+1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - 2026/08 </time>
 1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - 2026/05 </time>
 1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - 2026/05 </time>
 1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - 2026/05 </time>
