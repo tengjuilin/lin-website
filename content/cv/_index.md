@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2026-07-22T22:09:31+08:00
+date: 2026-08-12T22:09:31+08:00
 draft: false
 layout: single
 ---
@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/07/22</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/08/12</span>
 
 ## Education
 
@@ -67,8 +67,8 @@ layout: single
 <!-- Aug 2026 -->
 #### Diversity & Community Fellowship | <about>[About](https://grad.berkeley.edu/financial/options-for-financial-support/fellowships/diversity-and-community-fellows-program/)</about> | <location> Graduate Division, UC Berkeley </location> <time> 2026 </time>
 
-<!-- Aug 2025 -->
-#### D-Lab Consulting Fellowship | <about>[About](https://dlab.berkeley.edu/d-lab-fellowships)</about> | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 </time>
+<!-- Aug 2025, 2026 -->
+#### D-Lab Consulting Fellowships (×2) | <about>[About](https://dlab.berkeley.edu/d-lab-fellowships)</about> | <location> Social Sciences Data Lab, UC Berkeley </location> <time> 2025 & 2026 </time>
 
 <!-- Aug 2025 -->
 #### Early-Career Rigor Champions Prize | <about>[About](https://www.ninds.nih.gov/current-research/trans-agency-activities/rigor-transparency/rigor-champions-and-opportunities/ninds-rigor-champions-prize)</about> | <location> NINDS, NIH </location> <time> 2025 </time>
@@ -98,7 +98,7 @@ layout: single
 #### Future Leader in ChemE | <about>[About](https://cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/)</about> | <location> NC State University CBE </location> <time> 2022 </time>
 
 <!-- May 2021, Jul 2022 -->
-#### Dan Evans Term Scholarships | <about>[About](https://www.cheme.washington.edu/undergraduate_students/scholarships.html)</about> | <location> UW ChemE </location> <time> 2021 & 2022 </time>
+#### Dan Evans Term Scholarships (×2) | <about>[About](https://www.cheme.washington.edu/undergraduate_students/scholarships.html)</about> | <location> UW ChemE </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
 <!-- Jan 2021 -->
@@ -113,7 +113,7 @@ layout: single
 
 <!-- May 2019 -->
 <!-- May 2018 -->
-#### Peer Tutor Awards | <location> Kinglee High School </location> <time> 2019 & 2018 </time>
+#### Peer Tutor Awards (×2) | <location> Kinglee High School </location> <time> 2019 & 2018 </time>
 
 <!-- Jun 2018 -->
 <!-- Jun 2017 -->
