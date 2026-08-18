@@ -294,6 +294,7 @@ Presenting Author^
 
 1. *Ad hoc* Peer Reviewer
    1. *ACS Nano Medicine*
+   1. *ACS Omega*
 
 ### Professional Service at UC Berkeley
 
