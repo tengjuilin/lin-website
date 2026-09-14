@@ -251,33 +251,30 @@ Presenting Author^
 
 ## Student Mentoring
 
+^ Co-mentored student ｜ * Co-authored paper
+
 ### Graduate Rotation Students
 
 1. Mina Oh, <role> Chemical Biology </role> <time> 2024/09 - 2024/11 </time>
 
 ### Undergraduate Students
 
-^ Co-mentored student
-
-1. Bowen Hou, <role> Chemical Engineering </role> <time> 2026/01 - Present </time>
-1. Catherine Alvarez Contreras, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
-1. Sofia Jacik, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
-1. Timothy Jan, <role> Applied Mathematics, Physics </role> <time> 2025/11 - Present </time>
-1. Shridavi Raghavan, <role> Neuroscience </role> <time> 2025/09 - Present </time>
+1. Sofia Jacik*, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
+1. Shridavi Raghavan*, <role> Neuroscience, Molecular and Cell Biology </role> <time> 2025/09 - Present </time>
    - Award: <role> Bakar Ignite Scholars, Summer 2026, UC Berkeley </role>
 1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
-1. Laura Kim, <role> Data Science </role> <time> 2024/10 - Present </time>
+1. Laura Kim*, <role> Data Science </role> <time> 2024/10 - Present </time>
+1. Bowen Hou, <role> Chemical Engineering </role> <time> 2026/01 - 2026/05 </time>
+1. Catherine Alvarez Contreras*, <role> Chemical Engineering </role> <time> 2025/11 - 2026/05 </time>
 1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - 2026/05 </time>
    - Award: <role> Future Leaders in ChemE 2025, NC State University </role>
    - Next position: <role> Graduate Student, MIT </role>
 1. Jamie Lynn Thu Phan^, <role> Molecular and Cellular Biology </role> <time> 2025/01 - 2025/08 </time>
-   - Next position: <role> Berkeley Optometric Group </role>
-1. Miles Duong, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
+1. Miles Duong*, <role> Chemical Engineering </role> <time> 2024/08 - 2025/05 </time>
 
 ### High School Students
 
-1. Tia Ghoshal <time> 2025/12 - Present </time>
-1. Mihika Garg <time> 2025/05 - 2025/08 </time>
+1. Mihika Garg* <time> 2025/05 - 2025/08 </time>
 
 ## Professional Experience
 
@@ -309,7 +306,7 @@ Presenting Author^
 1. Graduate Division, Inclusive Excellence Summer Research Experience, <role> Volunteer </role> <time> 2026/07 </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - 2026/08 </time>
 1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - 2026/05 </time>
-1. Graduate Division, Student Leadership & Engagement Advisory Board, <role> Member </role> <time> 2025/09 - 2026/05 </time>
+1. Division of Student Affairs, Student Leadership & Engagement, <role> Advisory Board Member </role> <time> 2025/09 - 2026/05 </time>
 1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - 2026/05 </time>
 1. Chemistry Undergraduate Research Initiative and Enrichment, <role> Panelist </role> <time> 2026/03 </time>
 1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
