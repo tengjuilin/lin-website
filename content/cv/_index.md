@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/08/12</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/10/15</span>
 
 ## Education
 
@@ -165,6 +165,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, A. Lui, M. Arral, L. Zheng, J. Gardner, E. Voke, K. Whitehead, K. Mandadapu, M. Landry. High Throughput Assay for Physical Interactions between Lipid Nanoparticles and Large Unilamellar Vesicles. <location> Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2026/09/25.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> AI Applications in Biology Symposium 2026, San Francisco, CA, USA. </location> 2026/02/20.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/10/23.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> World Leading Scientists Institute 2025 Annual Conference, Berkeley, CA, USA. </location> 2025/10/13.
@@ -259,13 +260,13 @@ Presenting Author^
 
 ### Undergraduate Students
 
-1. Sofia Jacik*, <role> Chemical Engineering </role> <time> 2025/11 - Present </time>
 1. Shridavi Raghavan*, <role> Neuroscience, Molecular and Cell Biology </role> <time> 2025/09 - Present </time>
    - Award: <role> Bakar Ignite Scholars, Summer 2026, UC Berkeley </role>
-1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - Present </time>
 1. Laura Kim*, <role> Data Science </role> <time> 2024/10 - Present </time>
 1. Bowen Hou, <role> Chemical Engineering </role> <time> 2026/01 - 2026/05 </time>
+1. Sofia Jacik*, <role> Chemical Engineering </role> <time> 2025/11 - 2026/05 </time>
 1. Catherine Alvarez Contreras*, <role> Chemical Engineering </role> <time> 2025/11 - 2026/05 </time>
+1. Cambridge Linh Nga Bui-Nguyen, <role> Data Science, Cognitive Science </role> <time> 2025/09 - 2026/05 </time>
 1. Zirun Liang^, <role> Chemical Engineering </role> <time> 2024/03 - 2026/05 </time>
    - Award: <role> Future Leaders in ChemE 2025, NC State University </role>
    - Next position: <role> Graduate Student, MIT </role>
