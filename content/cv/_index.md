@@ -158,7 +158,7 @@ Presenting Author^
 1. **T.-J. Lin**^, M. Landry. Quantifying Data Distortion in Bar Graphs in Biological Research. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2025/04/17.
 1. **T.-J. Lin**^, M. Landry. Effect of Protein on Lipid Mixing of Liposome and Lipid Nanoparticle. <location> Chemical and Biomolecular Engineering Student Symposium, UC Berkeley, CA, USA. </location> 2024/05/09.
 1. **T.-J. Lin**^, G. Charpentier^, L. Miller^, M. Gokani^, M. Nelson^, B. Rutz, O. Lenz. Characterization of silica-based anion exchange resin for acid mine drainage. <location> Material Science and Engineering & Chemical Engineering Capstone Symposium, UW, Seattle, WA, USA. </location> 2023/06/02.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, UW, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, UW, Seattle, WA, USA. </location> 2022/05/20. [Link.](https://new.expo.uw.edu/expo/apply/635/proceedings/offering_session/1372)
 1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 2022/04/23.
 
 <!-- Add at top in reverse chronological order. -->
