@@ -15,7 +15,7 @@ layout: single
 
 <span class="info">[<i class='far fa-envelope fa-fw'></i>](mailto:tengjuilin@berkeley.edu) | [<i class='fab fa-github fa-fw'></i>](https://github.com/tengjuilin) | [<i class='fab fa-linkedin fa-fw'></i>](https://www.linkedin.com/in/tengjuilin/) | [<i class='fab fa-youtube fa-fw'></i>](https://www.youtube.com/@thenanokid) | [<i class='fab fa-orcid fa-fw'></i>](https://orcid.org/0000-0002-4691-1059) | [<i class='fas fa-graduation-cap'></i>](https://scholar.google.com/citations?user=gDIYT8gAAAAJ)</span>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/10/15</span>
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2026/11/01</span>
 
 ## Education
 
@@ -165,6 +165,7 @@ Presenting Author^
 
 ### Poster Presentations
 
+1. **T.-J. Lin**^, A. Lui, M. Arral, L. Zheng, J. Gardner, E. Voke, K. Whitehead, K. Mandadapu, M. Landry. High Throughput Assay for Physical Interactions between Lipid Nanoparticles and Large Unilamellar Vesicles. <location> Stanford RNA Medicine Symposium, Stanford University, CA, USA. </location> 2026/10/29.
 1. **T.-J. Lin**^, A. Lui, M. Arral, L. Zheng, J. Gardner, E. Voke, K. Whitehead, K. Mandadapu, M. Landry. High Throughput Assay for Physical Interactions between Lipid Nanoparticles and Large Unilamellar Vesicles. <location> Biohub Physics in Life Symposium, San Francisco, CA, USA. </location> 2026/09/25.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> AI Applications in Biology Symposium 2026, San Francisco, CA, USA. </location> 2026/02/20.
 1. **T.-J. Lin**^, K. Hillman, L. Kim, M. Garg, M. Duong, M. Landry. Quantifying Misuse of Color in Biological Research. <location> Chan Zuckerberg Biohub Inter-lab Confab, San Francisco, CA, USA. </location> 2025/10/23.
@@ -304,17 +305,21 @@ Presenting Author^
 
 1. Graduate Division, <role> Diversity & Community Fellow </role> <time> 2026/08 - Present </time>
 1. CBE Graduate Student Advisory Committee, <role> Lab Representative </role> <time> 2024/01 - Present </time>
-1. Graduate Division, Inclusive Excellence Summer Research Experience, <role> Volunteer </role> <time> 2026/07 </time>
 1. CBE Graduate Student Advisory Committee, <role> First-Year Liaison </role> <time> 2025/08 - 2026/08 </time>
 1. Graduate Division, STEM First-Year Initiative, <role> Ambassador </role> <time> 2025/10 - 2026/05 </time>
 1. Division of Student Affairs, Student Leadership & Engagement, <role> Advisory Board Member </role> <time> 2025/09 - 2026/05 </time>
 1. College of Chemistry Transfer Student Mentorship Program, <role> Mentor </role> <time> 2025/09 - 2026/05 </time>
-1. Chemistry Undergraduate Research Initiative and Enrichment, <role> Panelist </role> <time> 2026/03 </time>
-1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
-1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
 1. CBE Graduate Student Advisory Committee, <role> Undergradate Liaison </role> <time> 2024/08 - 2025/08 </time>
 1. CBE Graduate Students Mentoring Undergraduates Program, <role> Mentor </role> <time> 2024/04 </time>
 1. Disabled Students’ Program, <role> Note Taker </role> <time> 2023/08 - 2023/12 </time>
+
+### *Ad hoc* Community Service at UC Berkeley
+
+1. ASUC Academic Development Panel, <role> Panelist </role> <time> 2026/11 </time>
+1. Graduate Division, Inclusive Excellence Summer Research Experience, <role> Volunteer </role> <time> 2026/07 </time>
+1. Chemistry Undergraduate Research Initiative and Enrichment, <role> Panelist </role> <time> 2026/03 </time>
+1. First-Year Math Bootcamp, <role> Panelist, Facilitator </role> <time> 2025/08 </time>
+1. Berkeley International Office, <role> Orientation Leader </role> <time> 2025/08 </time>
 
 ### All Service at UW
 
